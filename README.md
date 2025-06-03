@@ -146,6 +146,7 @@
 <h2>Hewlett Packard</h2>
 <ul>
 <li><a href="https://archive.org/details/ftp-ftp.hp.com_ftp1">HP FTP Site</a></li>
+  <p>Including Freeware</p>
 </ul>
 
 <h2>Common Desktop Environment</h2>
