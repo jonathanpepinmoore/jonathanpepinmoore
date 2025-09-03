@@ -46,17 +46,17 @@ Microsoft Research's Cornell Universities BioHPC with esembl flat files turning 
 <li>Made Windows NT 3.5/4.0/XP/2003 Source Code Build Server in a Windows XP 32-bit Virtual Box 1.5 Terabytes VHD with Longhorn PDC 2003 VHD mount and Microsoft MVP. Using InterixServices for UNIX, NetBSD 2.0, Solaris FOSS Program, Red Hat Linux 8.5 Source, AIX, AIX
 Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS Windows XP OPK. OPK Training Courses the MSDN Library 2005 with UNIX Migration Guide, Windows XP UX Guidelines, Windows Research Kernel with Virtual Labs. Adobe CS2, ZAM3D, Swift 3D, Windows XP Embedded and Feature Pack.   Microsoft Office XP Pro for PowerPoint. Visual C++ 4.2, 6.0, Visual Studio 2002, 2003, 2005 and Team Foundation Server 2005 for work groups Visual Studio 2008 Team System and 2010 Ultimate and the Shared Source Common Language Infrastructure. With Active State Perl 5.6 XP/2003 Platform SDK's and DDKs. Windows CE 6.0 with book and Training Courses. </li>
 <li>University of Washington environment with Spin Operating System. Digital Corp's Gatekeeper,HP Inc. Operating Environment, HP Bridgeworks, OpenVMS VAX source and Freeware. WithMinWin Source and the XP Search Companion. Windows XP/2009 Embedded Windows 7 Embedded Standard. Now with Nuangel 2019 Updates and Out of Band Updates. Made this once before but from 2007-2009 at UVa-Wise in the dorms with permission of IT. Won my Microsoft MVP in 2025.  Paid for my Windows Internals books, BSD, UNIX Migration Guide and 7 MSDN Subscriptions from 1999-2019.</li>
+</ul>
 
-Development Technician at Apple Inc.
-February 2001 - Present (25 Years)
-  Started out with Darwin Operating System and have had my Apple Developer Team ID since
-2001. With full Apple developer FTP cache for PowerPC/x86/ARM
-Software Engineer at Macromedia Incorporated
-May 1999 - May 2006 (7.5 Years)
-  Macromedia User Group aka Non-Employee Director and affiliate program. Licensing Flash 4
-Source Code now in the Computer History Museum. Made Visual Effects, Games, and UI
-Prototypes. with Actionscript 1.0, to 2.0 in Macromedia Flash 3, 4, 5, MX 2004 and Studio 8.
-Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Startup. Ordered ECMA Standards from Switzerland and obtained the 2000
+<p>Development Technician at Apple Inc.</p>
+<p>February 2001 - Present (25 Years)</p>
+<p>Started out with Darwin Operating System and have had my Apple Developer Team ID since
+2001. With full Apple developer FTP cache for PowerPC/x86/ARM</p>
+
+<p>Software Engineer at Macromedia Incorporated</p>
+<p>May 1999 - May 2006 (7.5 Years)</p>
+<p>>Macromedia User Group aka Non-Employee Director and affiliate program. Licensing Flash 4Source Code now in the Computer History Museum. Made Visual Effects, Games, and UIPrototypes. with Actionscript 1.0, to 2.0 in Macromedia Flash 3, 4, 5, MX 2004 and Studio 8.
+Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Startup. Ordered ECMA Standards from Switzerland and obtained the 2000</p>
 
 EDUCATION
 Stanford University -Graduated 2017-01-01
@@ -77,6 +77,7 @@ I have a security clearance
 
 
 </ul>
+
 
 
 
