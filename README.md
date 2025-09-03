@@ -59,7 +59,7 @@ CERTIFICATIONS
 ABOUT ME
 <p>I have a driver’s license</p>
 <p>I have a security clearance</p>
-<p>Sued Microsoft for career neglagence and the the Virginia Joint Commission for discrimination and misdignosis at Microsoft Legal</p>
+<p>Spoke with Microsoft Legal for career neglagence and the the Virginia Joint Commission for discrimination and misdignosis at Microsoft Legal</p>
 <p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama</p>
 
 Copyright 2025 Monster.com and Carrer Builder.
@@ -80,6 +80,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
