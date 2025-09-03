@@ -13,9 +13,14 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 <h2>CAREER HISTORY</h2>
 
 <p>Founder at Sphinx Logic</p>
-<p></p>October 2009 - Present (16 Years)</p>
+<p>October 2009 - Present (16 Years)</p>
 <p>Made $48 billion in M&A shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate with IRS transcript, applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure.</p>
-  
+
+<p>Researcher at Internet Society</p>
+<p>October 2013 - 2022 (9 Years)</p> 
+
+<p></p>
+
 <p>Entrepreneur at Microsoft Corporation</p>
 <p>February 2009 - December 2019 (11 Years)</p>
 <p>Approved and Graduated Microsoft Bizspark. Used Microsoft Windows 2008 R2 HPC Edition an
@@ -74,6 +79,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
