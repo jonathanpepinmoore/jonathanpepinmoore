@@ -51,7 +51,7 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 <p>Development Technician at Apple Inc.</p>
 <p>February 2001 - Present (25 Years)</p>
 <p>Started out with Darwin Operating System and have had my Apple Developer Team ID since
-2001. With full Apple developer FTP cache for PowerPC/x86/ARM</p>
+2001. I work with BSD With full Apple developer FTP cache for PowerPC/x86/ARM</p>
 
 <p>Software Engineer at Macromedia Incorporated</p>
 <p>May 1999 - May 2006 (7.5 Years)</p>
@@ -76,6 +76,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 
 
 </ul>
+
 
 
 
