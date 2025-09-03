@@ -5,7 +5,7 @@
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
-<p>I'm a 47-year-old Royal Society of the Arts Fellow, I'm a Moore, Chapman, Hathaway, McCulley,
+<p>I'm a 47-year-old Royal Society of the Arts Fellow, I'm a Moore, Chapman, Stoker, Hathaway, McCulley,
 Spencer and Lyon and Irish Ashkenazi Jewish. Microsoft System Integrator with valid contract from
 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science
 Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday.</p>
@@ -19,7 +19,7 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 <p>Researcher at Internet Society</p>
 <p>October 2013 - 2022 (9 Years)</p> 
 
-<p>Found a Cure for HIV in Blood Magazine, Found Malignancy without immortality? Cellular immortalization as a possible late event in melanoma progression. Gave to Salk Institute becuase they have discovered a way to regrow tissue of any type.</p>
+<p>Found a Cure for HIV in Blood Magazine, Found Malignancy without immortality? Cellular immortalization as a possible late event in melanoma progression. Gave to Salk Institute becuase they have discovered a way to regrow tissue of any type. Found a way at Soutwestern univerity to keep the brain alive after postmorum deatha and did research on family geneology.</p>
 
 <p>Entrepreneur at Microsoft Corporation</p>
 <p>February 2009 - December 2019 (11 Years)</p>
@@ -79,6 +79,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
