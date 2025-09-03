@@ -55,28 +55,31 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 
 <p>Software Engineer at Macromedia Incorporated</p>
 <p>May 1999 - May 2006 (7.5 Years)</p>
-<p>>Macromedia User Group aka Non-Employee Director and affiliate program. Licensing Flash 4Source Code now in the Computer History Museum. Made Visual Effects, Games, and UIPrototypes. with Actionscript 1.0, to 2.0 in Macromedia Flash 3, 4, 5, MX 2004 and Studio 8.
+<p>Macromedia User Group aka Non-Employee Director and affiliate program. Licensing Flash 4Source Code now in the Computer History Museum. Made Visual Effects, Games, and UIPrototypes. with Actionscript 1.0, to 2.0 in Macromedia Flash 3, 4, 5, MX 2004 and Studio 8.
 Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Startup. Ordered ECMA Standards from Switzerland and obtained the 2000</p>
 
-EDUCATION
-Stanford University -Graduated 2017-01-01
-  Computer Science
-University of Virginia -Graduated 2004-01-01
-  Computer Science
-Tennessee Board of Regents -Graduated 2000-01-01
-  Computer Science
-Bristol Virginia Public Schools -Graduated 1996-01-01   General Studies
+<h2>EDUCATION</h2>
+<p>Stanford University -Graduated 2017-01-01</p>
+<p>Computer Science</p>
+<p>University of Virginia -Graduated 2004-01-01</p>
+<p>Computer Science</p>
+<p>Tennessee Board of Regents -Graduated 2000-01-01</p>
+<p>Computer Science</p>
+<p>Bristol Virginia Public Schools -Graduated 1996-01-01   General Studies</p>
 
 CERTIFICATIONS
-Windows 7 Internals
-Lifetime Windows Internals Trainsec
+<p>Windows 7 Internals</p>
+<p>Lifetime Windows Internals Trainsec</p>
 
 ABOUT ME
-I have a driver’s license
-I have a security clearance
+<p>I have a driver’s license</p>
+<p>I have a security clearance</p>
+
+Copyright 2025 Monster.com and Carrer Builder.
 
 
 </ul>
+
 
 
 
