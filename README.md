@@ -19,7 +19,7 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 <p>Entrepreneur at Microsoft Corporation</p>
 <p>February 2009 - December 2019 (11 Years)</p>
 <p>Approved and Graduated Microsoft Bizspark. Used Microsoft Windows 2008 R2 HPC Edition an
-Microsoft Research's Cornell Universities BioHPC with esembl flat files turning a MySQL Database into a MSSQL SISS Human Genome Database. Notable Microsoft support cases include the .NET Framework Reference Source and making a Bizspark Retail Subscription for all contract holders. Investing at Merrill to invest $10K in cash in options to make $1k a day. I have a $30K Certificate of Deposit, I always use a 1040 and have a High Yield Savings account. Was funded by the actress Anne Hathaway in 2025 and gave her $20K for a movie.</p>
+Microsoft Research's Cornell Universities BioHPC with esembl flat files turning a MySQL Database into a MSSQL SISS Human Genome Database. Notable Microsoft support cases include the .NET Framework Reference Source and making a Bizspark Retail Subscription for all contract holders. Investing at Merrill to invest $10K in cash in options to make $1k a day. I have a $30K Certificate of Deposit, I always use a 1040 and have a High Yield Savings account. Was funded by the actress Anne Hathaway in 2025 and gave her $20K for a movie. Signed NDA with her signature.</p>
 
 <p>Systems Integration Manager at Microsoft Corporation</p>
 <p>February 2002 - Present (24 Years)</p>
@@ -28,7 +28,7 @@ Microsoft Research's Cornell Universities BioHPC with esembl flat files turning 
 
 <li>Made Windows NT 3.5/4.0/XP/2003 Source Code Build Server in a Windows XP 32-bit Virtual Box 1.5 Terabytes VHD with Longhorn PDC 2003 VHD mount and Microsoft MVP. Using Interix Services for UNIX, NetBSD 2.0, Solaris FOSS Program, Red Hat Linux 8.5 Source, AIX, AIX
 Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS Windows XP OPK. OPK Training Courses the MSDN Library 2005 with UNIX Migration Guide, Windows XP UX Guidelines, Windows Research Kernel with Virtual Labs. Adobe CS2, ZAM3D, Swift 3D, Windows XP Embedded and Feature Pack. Microsoft Office XP Pro for PowerPoint. Visual C++ 4.2, 6.0, Visual Studio 2002, 2003, 2005 and Team Foundation Server 2005 for work groups Visual Studio 2008 Team System and 2010 Ultimate and the Shared Source Common Language Infrastructure. With Active State Perl 5.6 XP/2003 Platform SDK's and DDKs. Windows CE 6.0 with book and Training Courses. </li>
-<li>University of Washington environment with Spin Operating System. Digital Corp's Gatekeeper, HP Inc. Operating Environment, HP Bridgeworks, OpenVMS VAX source and Freeware. With MinWin Source and the XP Search Companion. Windows XP/2009 Embedded Windows 7 Embedded Standard. Now with Nuangel 2019 Updates and Out of Band Updates. Made this once before but from 2007-2009 at UVa-Wise in the dorms with permission of IT. Won my Microsoft MVP in 2025.  Paid for my Windows Internals books, BSD, UNIX Migration Guide and 7 MSDN Subscriptions from 1999-2019.</li>
+<li>University of Washington environment with Spin Operating System. Digital Corp's Gatekeeper, HP Inc. Operating Environment, HP Bridgeworks, OpenVMS VAX source and Freeware. With MinWin Source and the XP Search Companion. Windows XP/2009 Embedded Windows 7 Embedded Standard. Now with Nuangel 2019 Updates and Out of Band Updates. Made this once before but from 2007-2009 at UVa-Wise in the dorms with permission of IT. Won my Microsoft MVP in 2025. Paid for my Windows Internals books, BSD, UNIX Migration Guide and 7 MSDN Subscriptions from 1999-2019.</li>
 </ul>
 
 <p>Development Technician at Apple Inc.</p>
@@ -74,6 +74,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
