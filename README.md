@@ -59,12 +59,9 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Startup. Ordered ECMA Standards from Switzerland and obtained the 2000</p>
 
 <h2>EDUCATION</h2>
-<p>Stanford University -Graduated 2017-01-01</p>
-<p>Computer Science</p>
-<p>University of Virginia -Graduated 2004-01-01</p>
-<p>Computer Science</p>
-<p>Tennessee Board of Regents -Graduated 2000-01-01</p>
-<p>Computer Science</p>
+<p>Stanford University -Graduated 2017-01-01 >Computer Science</p>
+<p>University of Virginia -Graduated 2004-01-01 Computer Science</p>
+<p>Tennessee Board of Regents -Graduated 2000-01-01 Computer Science</p>
 <p>Bristol Virginia Public Schools -Graduated 1996-01-01   General Studies</p>
 
 CERTIFICATIONS
@@ -79,6 +76,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 
 
 </ul>
+
 
 
 
