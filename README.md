@@ -29,13 +29,14 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 
 <h2>CAREER HISTORY</h2>
 
-Founder at Sphinx Logic
+<p>Founder at Sphinx Logic
 October 2009 - Present (16 Years)
-  Made $48 billion in shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure.
-Entrepreneur at Microsoft Corporation
+  Made $48 billion in shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure.</p>
+  
+<p>Entrepreneur at Microsoft Corporation
 February 2009 - December 2019 (11 Years)
   Approved and Graduated Microsoft Bizspark. Used Microsoft Windows 2008 R2 HPC Edition an
-Microsoft Research's Cornell Universities BioHPC with esembl flat files turning a MySQL Database into a MSSQL SISS Human Genome Database. Notable Microsoft support cases include the .NET Framework Reference Source and making a Bizspark Retail Subscription for all contract holders. I'm going to Merrill to invest $10K in cash in options to make $1k a day. I have a $30K Certificate of Deposit, I always use a 1040 and have a High Yield Savings account. Was funded by the actress Anne Hathaway in 2025 and gave her $20K for a movie.
+Microsoft Research's Cornell Universities BioHPC with esembl flat files turning a MySQL Database into a MSSQL SISS Human Genome Database. Notable Microsoft support cases include the .NET Framework Reference Source and making a Bizspark Retail Subscription for all contract holders. I'm going to Merrill to invest $10K in cash in options to make $1k a day. I have a $30K Certificate of Deposit, I always use a 1040 and have a High Yield Savings account. Was funded by the actress Anne Hathaway in 2025 and gave her $20K for a movie.</p>
 Systems Integration Manager at Microsoft Corporation
 February 2002 - Present (24 Years)
   Reading the Longhorn Migration Guide With new Longhorn reset layout and Vista XAML Windows with the WPF Toolkit Plus and reading the Windows Internals Supplement Series for next year’s Imagine Cup.
@@ -80,5 +81,6 @@ I have a security clearance
 
 
 </ul>
+
 
 
