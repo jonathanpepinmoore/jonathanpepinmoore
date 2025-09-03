@@ -1,21 +1,4 @@
 ﻿<img src="./images/github-header-image.png">
-
-<h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
-<ul>
-<li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
-<li><a target="_self" href="https://opensource.adobe.com/cla.html">Adobe CLA</a></li>
-<li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
-<li><a target="_self" href="https://betawiki.net/wiki/Build_lab">Build Lab --with Microsoft Employees</a></li>
-<li><a target="_self" href="https://www.youtube.com/watch?v=MJ8SCxN1S1M">Hal 9000 explains the future of humanity</a></li> 
-<li><a target="_self" href="https://www.youtube.com/watch?v=ZcTwO2dpX8A">iCub - Humanoid Platform</a></li>
-<li><a target="_self" href="https://mediawiki.isr.tecnico.ulisboa.pt/wiki/ICub_instructions">iCub Instrcutions</a></li>
-<li><a target="_self" href="https://www.youtube.com/watch?v=7e3v4N0WXVg">The Best Operating System Microsoft Never Released (Longhorn Overview)</a></li> 
-<li><a target="_self" href="https://www.mdpi.com/2077-1444/15/1/78">Quantum Physics and the Existence of God</a></li>
-<li><a target="_self" href="https://arxiv.org/abs/1308.4526">Formalization, Mechanization and Automation of Gödel's Proof of God's Existence</a></li>
-<li><a target="_self" href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a></li>
-<li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
-<li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
-</ul>
   
 <h2>Jonathan David Allen Moore</h2>
 <p>jonathanmoore@computer.org | Redmond, WA, US | +1 276-696-1163<p></p>
@@ -74,6 +57,22 @@ ABOUT ME
 
 Copyright 2025 Monster.com and Carrer Builder.
 
+<h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
+<ul>
+<li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
+<li><a target="_self" href="https://opensource.adobe.com/cla.html">Adobe CLA</a></li>
+<li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
+<li><a target="_self" href="https://betawiki.net/wiki/Build_lab">Build Lab --with Microsoft Employees</a></li>
+<li><a target="_self" href="https://www.youtube.com/watch?v=MJ8SCxN1S1M">Hal 9000 explains the future of humanity</a></li> 
+<li><a target="_self" href="https://www.youtube.com/watch?v=ZcTwO2dpX8A">iCub - Humanoid Platform</a></li>
+<li><a target="_self" href="https://mediawiki.isr.tecnico.ulisboa.pt/wiki/ICub_instructions">iCub Instrcutions</a></li>
+<li><a target="_self" href="https://www.youtube.com/watch?v=7e3v4N0WXVg">The Best Operating System Microsoft Never Released (Longhorn Overview)</a></li> 
+<li><a target="_self" href="https://www.mdpi.com/2077-1444/15/1/78">Quantum Physics and the Existence of God</a></li>
+<li><a target="_self" href="https://arxiv.org/abs/1308.4526">Formalization, Mechanization and Automation of Gödel's Proof of God's Existence</a></li>
+<li><a target="_self" href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a></li>
+<li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
+<li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
+</ul>
 
 
 
