@@ -31,7 +31,7 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 
 <p>Founder at Sphinx Logic</p>
 <p></p>October 2009 - Present (16 Years)</p>
-<p>Made $48 billion in M&A shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure.</p>
+<p>Made $48 billion in M&A shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate with IRS transcript, applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure.</p>
   
 <p>Entrepreneur at Microsoft Corporation</p>
 <p>February 2009 - December 2019 (11 Years)</p>
@@ -76,6 +76,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 
 
 </ul>
+
 
 
 
