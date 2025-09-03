@@ -15,16 +15,20 @@
 <li><a target="_self" href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a></li>
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
-
 </ul>
-Jonathan David Allen Moore
-jonathanmoore@computer.org | Redmond, WA, US | +1 276-696-1163
-PROFESSIONAL SUMMARY
-I'm a 47-year-old Royal Society of the Arts Fellow, I'm a Moore, Chapman, Hathaway, McCulley,
+  
+<h2>Jonathan David Allen Moore</h2>
+<p>jonathanmoore@computer.org | Redmond, WA, US | +1 276-696-1163<p></p>
+
+<h2>PROFESSIONAL SUMMARY</h2>
+
+<p>I'm a 47-year-old Royal Society of the Arts Fellow, I'm a Moore, Chapman, Hathaway, McCulley,
 Spencer and Lyon and Irish Ashkenazi Jewish. Microsoft System Integrator with valid contract from
 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science
-Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday.
-CAREER HISTORY
+Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday.</p>
+
+<h2>CAREER HISTORY</h2>
+
 Founder at Sphinx Logic
 October 2009 - Present (16 Years)
   Made $48 billion in shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure.
@@ -76,4 +80,5 @@ I have a security clearance
 
 
 </ul>
+
 
