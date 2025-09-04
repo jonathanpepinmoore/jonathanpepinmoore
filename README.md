@@ -22,7 +22,7 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 <p>Found a Cure for HIV in Blood Magazine, Found Malignancy without immortality? Cellular immortalization as a possible late event in melanoma progression. Gave to Salk Institute becuase they have discovered a way to regrow tissue of any type. Found a way at Soutwestern University to keep the brain alive after postmortum death and did research on family geneology.  Support Robert Lanza and Biocentrism. Found out that planet earth only has 75 years worth of oil reserves left in Forbes Magazine. Was told by the Mayo Clinc to not take more that 600 IU of Vitamin D a day as it may cause cancer. Disovered in Eruope on Science Direct hat there is a philosphical understanding for schizophinia.</p>
 
 <p>Student Intern at Northrup Grumman</p>
-<p>February 2012 - 2015 (5 Years)</p>
+<p>February 2012 - 2015 (3 Years)</p>
 <p>My Senior Capstone was a Missle Container project made with The Java Programming Language IBM Rational Rose and Andriod</p>
 
 <p>Entrepreneur at Microsoft Corporation</p>
