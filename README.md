@@ -14,7 +14,7 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 
 <p>Founder at Sphinx Logic</p>
 <p>October 2009 - Present (16 Years)</p>
-<p>Made $48 billion in M&A shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate with IRS transcript, applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure.</p>
+<p>Made $48 billion in M&A shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate with IRS transcript, applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure. I use OSF 1.0 and the Open Group's Single UNIX Specification for my on UNIX Implimentation.</p>
 
 <p>Researcher at Internet Society</p>
 <p>October 2013 - 2022 (9 Years)</p> 
@@ -43,7 +43,7 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 <p>Development Technician at Apple Inc.</p>
 <p>February 2001 - Present (25 Years)</p>
 <p>Started out with Darwin Operating System and have had my Apple Developer Team ID since
-2001. I work with BSD With full Apple developer FTP cache for PowerPC/x86/ARM</p>
+2001. I start with MacRuby or the RubyDev Kit on Windows for bottom up development or macOS Internals Edtions for Top Down. I can make UNIX-Like Operating Systems with FreeBSD, NetBSD, and OpenBSD. Using Gnome and KDE. I use OStree for Apple Development. Previously GNOME Continious for Gnome Development and KDE Craft for Microsoft Windows. I work with BSD With full Apple developer FTP cache for PowerPC/x86/ARM</p>
 
 <p>Development Technician at Be Inc.</p>
 <p>February 2001 - 2006 (5 Years)</p>
@@ -58,7 +58,7 @@ Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Sta
 <p>Stanford University -Graduated 2017-01-01 Computer Science</p>
 <p>University of Virginia -Graduated 2004-01-01 Computer Science</p>
 <p>Tennessee Board of Regents -Graduated 2000-01-01 Computer Science</p>
-<p>Bristol Virginia Public Schools -Graduated 1996-01-01   General Studies</p>
+<p>Bristol Virginia Public Schools -Graduated 1996-01-01 General Studies</p>
 
 CERTIFICATIONS
 <p>Windows 7 Internals</p>
