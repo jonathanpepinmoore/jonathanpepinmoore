@@ -43,7 +43,7 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 <p>Development Technician at Apple Inc.</p>
 <p>February 2001 - Present (25 Years)</p>
 <p>Started out with Darwin Operating System and have had my Apple Developer Team ID since
-2001. I start with MacRuby or the RubyDev Kit on Windows for bottom up development or macOS Internals Edtions for Top Down. I can make UNIX-Like Operating Systems with FreeBSD, NetBSD, and OpenBSD. Using Gnome and KDE. I use OStree for Apple Development. Previously GNOME Continious for Gnome Development and KDE Craft for Microsoft Windows. I have Apple NeXtStep Sources for Mac to Winodws cross platform development which is proprietary to Apple. Not tthe GNUStep hack. I work with BSD With full Apple developer FTP cache for PowerPC/x86/ARM. I have a HP. Inc Contract for HP.Inc OpenVMS Freeware and OpenVMS on x86.</p>
+2001. I start with MacRuby or the RubyDev Kit on Windows for bottom up development or macOS Internals Edtions for Top Down. I can make UNIX-Like Operating Systems with FreeBSD, NetBSD, and OpenBSD. Using Gnome and KDE. I use OStree for Apple Development. Previously GNOME Continious for Gnome Development and KDE Craft for Microsoft Windows. I have Apple NeXtStep Sources for Mac to Winodws cross platform development which is proprietary to Apple. Not the GNUStep hack. I work with BSD With full Apple developer FTP cache for PowerPC/x86/ARM. I have a HP. Inc Contract for HP.Inc OpenVMS Freeware and OpenVMS on x86.</p>
 
 <p>Development Technician at Be Inc.</p>
 <p>February 2001 - 2006 (5 Years)</p>
@@ -88,6 +88,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
