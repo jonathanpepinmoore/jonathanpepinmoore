@@ -6,7 +6,7 @@
 <h2>PROFESSIONAL SUMMARY</h2>
 
 <p>I'm a 47-year-old Royal Society of the Arts Fellow, A Count recongized by the UK College of Arms. I'm a Moore, Chapman, Stoker, Hathaway, McCulley,
-Spencer and Lyon and Irish Ashkenazi Jewish. Member of the National Dames and Barrons Society. Microsoft System Integrator with valid contract from
+Spencer and Lyon and Irish Ashkenazi Jewish. Member of the National Dames and Barrons Society. A Memeber of the Astrological Association. Microsoft System Integrator with valid contract from
 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science
 Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday.</p>
 
@@ -88,6 +88,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
