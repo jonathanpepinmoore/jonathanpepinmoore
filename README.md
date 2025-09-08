@@ -26,7 +26,7 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 <p>My Senior Capstone was a Missle Container project made with The Java Programming Language IBM Rational Rose and Andriod</p>
 
 <p>Web Designer at the University College at Wise</p>
-<p>February 2007 - 2015 (3 Years)</p>
+<p>February 2008 - 2013 (4 Years)</p>
 <p>Responible for the college website for for years</p>
 
 <p>Entrepreneur at Microsoft Corporation</p>
@@ -92,6 +92,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
