@@ -57,12 +57,16 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 <p>Macromedia User Group aka Non-Employee Director and affiliate program. Licensing Flash 4Source Code now in the Computer History Museum. Made Visual Effects, Games, and UI Prototypes. with Actionscript 1.0, to 2.0 in Macromedia Flash 3, 4, 5, MX 2004 and Studio 8.
 Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Startup. Ordered ECMA Standards from Switzerland and obtained the 2000</p>
 
+<p>Librarian at Virginia Public Schools</p>
+<p>May 1992 - May 1996 (4 Years)</p>
+<p>Worked with Walnut Creek, CA, BEA Systems Tuxedo and Windows 3.1</p>
+
 <h2>EDUCATION</h2>
 <p>Udemy  2025-01-01 Coporate Cash Management and Estate Planning</p>
 <p>Stanford University -Graduated 2017-01-01 Computer Science</p>
 <p>University of Virginia -Graduated 2004-01-01 Computer Science</p>
 <p>Tennessee Board of Regents -Graduated 2000-01-01 Computer Science</p>
-<p>Bristol Virginia Public Schools -Graduated 1996-01-01 General Studies</p>
+<p>Bristol Virginia Public Schools-Graduated 1996-01-01 General Studies</p>
 
 CERTIFICATIONS
 <p>Windows 7 Internals</p>
@@ -92,6 +96,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
