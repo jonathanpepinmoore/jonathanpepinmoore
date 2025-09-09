@@ -94,7 +94,7 @@ ABOUT ME
 
 <p>Microsoft can keep there company if they work on their relationship with Component Source and Open Source Collaboration sites where I work. If Bill Gates wants a PC in every home he's going to have to stop supporting President Nixion which my family never did and work on population law otherwrwise it's Comunism (or accounting course choosen companies to invest in) and Computers from the Carter Era.</p>
 
-<p>Also housing discrimination agianst a Royal Society of the Arts lifetime fellow and career neglegence on the part of the democratic party. I paid my tution, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the acedemic journals to be avaible to the home homeowner. As much as we pay for internet service. Over $150 a month. My father is hiring a local lawyer soon he is about to go into a nursing home in five years or less. I'm inheriting two homes.</p>
+<p>Also housing discrimination agianst a Royal Society of the Arts lifetime fellow and career neglegence on the part of the democratic party. I paid my tution, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the acedemic journals to be avaible to the home homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting two homes.</p>
 
 <p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama</p>
 
