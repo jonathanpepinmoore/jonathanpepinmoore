@@ -93,7 +93,7 @@ ABOUT ME
 
 <p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama</p>
 
-Copyright 2025 Monster.com and Carrer Builder.
+Copyright 2025 Monster.com and Career Builder.
 
 <img src="./images/499506848_1876011943193349_7597840870533085049_n.jpg">
 <img src="./images/480677415_1807590220035522_5692695502039040887_n.jpg">
