@@ -12,7 +12,7 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 
 <h2>CAREER HISTORY</h2>
 
-<p>Founder at Sphinx Logic</p>
+<h2>Founder at Sphinx Logic</h2>
 <p>October 2009 - Present (16 Years)</p>
 <p>Made $48 billion in M&A shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate with IRS transcript, applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure. I use OSF 1.0 and the Open Group's Single UNIX Specification for my own UNIX Implimentation. Calling Merril Lynch after I'm done with therapy for royal and soulmate opression since 2001 to change my 1099-DIV to a 1099-NEC. </p>
 
@@ -28,25 +28,25 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 <p>100,100 Shares of Microsoft</p>
 <p>108,700 Shares of NVIDIA</p>
 
-<p>Researcher at Internet Society</p>
+<h2>Researcher at Internet Society</h2>
 <p>October 2013 - 2022 (9 Years)</p> 
 
 <p>Found a Cure for HIV in Blood Magazine, Found Malignancy without immortality? Cellular immortalization as a possible late event in melanoma progression. Gave to Salk Institute becuase they have discovered a way to regrow tissue of any type. Found a way at Soutwestern University to keep the brain alive after postmortum death and did research on family geneology.  Support Lenrordo Devinci. Found out that planet earth only has 75 years worth of oil reserves left in Forbes Magazine. Was told by the Mayo Clinc to not take more that 600 IU of Vitamin D a day as it may cause cancer. Disovered in Europe on Science Direct hat there is a philosphical understanding for schizophinia.</p>
 
-<p>Student Intern at Northrup Grumman</p>
+<h2>Student Intern at Northrup Grumman</h2>
 <p>February 2012 - 2015 (3 Years)</p>
 <p>My Senior Capstone was a Missle Container project made with The Java Programming Language IBM Rational Rose and Andriod</p>
 
-<p>Web Designer at the University College at Wise</p>
+<h2>Web Designer at the University College at Wise</h2>
 <p>February 2008 - 2013 (4 Years)</p>
 <p>Responsible for the college website for four years</p>
 
-<p>Entrepreneur at Microsoft Corporation</p>
+<h2>Entrepreneur at Microsoft Corporation</h2>
 <p>February 2009 - December 2019 (11 Years)</p>
 <p>Approved and Graduated Microsoft Bizspark. Used Microsoft Windows 2008 R2 HPC Edition an
 Microsoft Research's Cornell Universities BioHPC with esembl flat files turning a MySQL Database into a MSSQL SISS Human Genome Database. Notable Microsoft support cases include the .NET Framework Reference Source and making a Bizspark Retail Subscription for all contract holders. Investing at Merrill to invest $10K in cash in options to make $1k a day. I have a $30K Certificate of Deposit, I always use a 1040 and have a High Yield Savings account. Was funded by the actress Anne Hathaway in 2025 and gave her $20K for a movie. Signed NDA with her signature.</p>
 
-<p>Systems Integration Manager at Microsoft Corporation</p>
+<h2>Systems Integration Manager at Microsoft Corporation</h2>
 <p>February 2002 - Present (24 Years)</p>
 <ul>
 <li>Reading the Longhorn Migration Guide With new Longhorn reset layout and Vista XAML Windows with the WPF Toolkit Plus, MSDN Magazines SideBar Source Code and the Longhorn Transformation pack, Reading Disecting a C# Application and building SharpDevelop Wrox Edtion, and using ILSpy and Global Assembly Cache decompilation of .NET Assemblies for my own Vista Tansparency Center and reading the Windows Internals Supplement Series for next year’s Imagine Cup. Registered for 2026.</li>
@@ -56,20 +56,20 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 <li>University of Washington environment with Spin Operating System. Digital Corp's Gatekeeper, HP Inc. Operating Environment, HP Bridgeworks, OpenVMS VAX source and Freeware. With MinWin Source and the XP Search Companion. Windows XP/2009 Embedded Windows 7 Embedded Standard. Now with Nuangel 2019 Updates and Out of Band Updates. Made this once before but from 2007-2009 at UVa-Wise in the dorms with permission of IT. Won my Microsoft MVP in 2025 at the Imagine Cup. Now a Member of Code Center Premeium. Paid for my Windows Internals books, BSD, UNIX Migration Guide and 7 MSDN Subscriptions from 1999-2019.</li>
 </ul>
 
-<p>Development Technician at Apple Inc.</p>
+<h2>Development Technician at Apple Inc.</h2>
 <p>February 2001 - Present (25 Years)</p>
 <p>Started out with Darwin Operating System and have had my Apple Developer Team ID since
 2001. I start with MacRuby or the RubyDev Kit on Windows for bottom up development or macOS Internals Edtions for Top Down. I can make UNIX-Like Operating Systems with FreeBSD, NetBSD, and OpenBSD. Using Gnome and KDE. I use OStree for Apple Development. Previously GNOME Continious for Gnome Development and KDE Craft for Microsoft Windows. I have Apple NeXtStep Sources for Mac to Winodws cross platform development which is proprietary to Apple. Not the GNUStep hack. I work with BSD With full Apple developer FTP cache for PowerPC/x86/ARM. I have a HP Inc. Contract for HP Inc. OpenVMS Freeware and OpenVMS on x86.</p>
 
-<p>Development Technician at Be Inc.</p>
+<h2>Development Technician at Be Inc.</h2>
 <p>February 2001 - 2006 (5 Years)</p>
 
-<p>Software Engineer at Macromedia Incorporated</p>
+<h2>Software Engineer at Macromedia Incorporated</h2>
 <p>May 1999 - May 2006 (7.5 Years)</p>
 <p>Macromedia User Group aka Non-Employee Director and affiliate program. Licensing Flash 4Source Code now in the Computer History Museum. Made Visual Effects, Games, and UI Prototypes. with Actionscript 1.0, to 2.0 in Macromedia Flash 3, 4, 5, MX 2004 and Studio 8.
 Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Startup. Ordered ECMA Standards from Switzerland and obtained the 2000</p>
 
-<p>Librarian at Virginia Public Schools</p>
+<h2>Librarian at Virginia Public Schools</h2>
 <p>May 1992 - May 1996 (4 Years)</p>
 <p>Worked with Walnut Creek, CA, BEA Systems Tuxedo and Windows 3.1</p>
 
@@ -108,6 +108,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
