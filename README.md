@@ -103,6 +103,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
+<li><a target="_self" href="https://www.fsf.org/windows/upcycle-windows-7">Microsoft's support of Windows 7 is over, We call on Microsoft to upcycle it instead.</a></li>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
 <li><a target="_self" href="https://opensource.adobe.com/cla.html">Adobe CLA</a></li>
 <li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
