@@ -36,7 +36,7 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 <h2>Researcher at Internet Society</h2>
 <p>October 2013 - 2022 (9 Years)</p> 
 
-<p>Found a Cure for HIV in Blood Magazine, Found Malignancy without immortality? Cellular immortalization as a possible late event in melanoma progression. Gave to Salk Institute becuase they have discovered a way to regrow tissue of any type. Found a way at Soutwestern University to keep the brain alive after postmortum death and did research on family geneology.  Support Lenrordo Devinci. Found out that planet earth only has 75 years worth of oil reserves left in Forbes Magazine. Was told by the Mayo Clinc to not take more that 600 IU of Vitamin D a day as it may cause cancer. Disovered in Europe on Science Direct hat there is a philosphical understanding for schizophinia.</p>
+<p>Found a Cure for HIV in Blood Magazine, Found Malignancy without immortality? Cellular immortalization as a possible late event in melanoma progression. Gave to Salk Institute becuase they have discovered a way to regrow tissue of any type. Found a way at Soutwestern University to keep the brain alive after postmortum death and did research on family geneology.  Support Lenrordo Devinci. Found out that planet earth only has 75 years worth of oil reserves left in Forbes Magazine. Was told by the Mayo Clinc to not take more that 600 IU of Vitamin D a day as it may cause cancer. Disovered in Europe on Science Direct that there is a philosphical understanding for schizophinia.</p>
 
 <h2>Student Intern at Northrup Grumman</h2>
 <p>February 2012 - 2015 (3 Years)</p>
@@ -113,6 +113,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
