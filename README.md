@@ -1,7 +1,7 @@
 ﻿<img src="./images/github-header-image.png">
   
 <h2>Jonathan David Allen Moore</h2>
-<p>jonathanmoore@computer.org | Reston, Va, US | +1 276-696-1163</p>
+<p>jonathanmoore@computer.org | Reston, Va, US | +1 276-696-1163<p></p>
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
@@ -98,6 +98,8 @@ ABOUT ME
 Copyright 2025 Monster.com and Carrer Builder.
 
 <img src="./images/499506848_1876011943193349_7597840870533085049_n.jpg">
+<img src="./images/480677415_1807590220035522_5692695502039040887_n.jpg">
+<img src="./images/vpn.png">
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
@@ -115,7 +117,6 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
-
 
 
 
