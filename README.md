@@ -8,7 +8,7 @@
 <p>I'm a 47-year-old Royal Society of the Arts Fellow, I'm a Moore, Chapman, Stoker, Hathaway, McCulley,
 Spencer and Lyon and Irish Ashkenazi Jewish. Member of the National Magna Carta Dames and Barrons Society. A Member of the Astrological Association. Microsoft System Integrator with valid contract from
 2002-present. INTJ-T tested at the University of California, Cannot put my personality profile online because of CIA takedown notices. University of Virginia Computer Science
-Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecure. Lived in Jamestown, Va as a child. Molly taught me how to swim when I was six years old. I passed the CIA's PAS System.</p>
+Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecure. Lived in Jamestown, Va as a child. </p>
 
 <h2>CAREER HISTORY</h2>
 
@@ -117,9 +117,6 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
-
-
-
 
 
 
