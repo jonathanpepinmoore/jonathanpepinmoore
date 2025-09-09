@@ -17,13 +17,13 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 <p>Made $48 billion in M&A shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate with IRS transcript, applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure. I use OSF 1.0 and the Open Group's Single UNIX Specification for my own UNIX Implimentation. Calling Merril Lynch after I'm done with therapy for royal and soulmate opression since 2001 to change my 1099-DIV to a 1099-NEC. </p>
 
 <H2>Stock Portfiolio</H2>
-<p>13,750 Shares of Ford Moter Co.</p>
+<p>13,750 Shares of Ford Motor Co.</p>
 <p>22,60 Shares of NextStar Broadcasting.</p>
 <p>67,545 Shares of Califorinia Resources.</p>
 <p>10,400 Shares of William Sonoma Co.</p>
 <p>2M Shares of P&G Corp</p>
 <p>25,500 Shares of Army Technologies</p>
-<p>48,600 Shares of Adobe Inc</p>
+<p>48,600 Shares of Adobe Inc.</p>
 <p>125,100 Shares of Meta Platfdorms Inc</p>
 <p>100,100 Shares of Microsoft</p>
 <p>108,700 Shares of NVIDIA</p>
@@ -108,6 +108,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
