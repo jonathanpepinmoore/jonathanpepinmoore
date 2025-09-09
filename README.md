@@ -97,6 +97,8 @@ ABOUT ME
 
 Copyright 2025 Monster.com and Carrer Builder.
 
+<img src="./images/499506848_1876011943193349_7597840870533085049_n.jpg">
+
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
