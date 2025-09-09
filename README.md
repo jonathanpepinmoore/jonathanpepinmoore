@@ -1,7 +1,7 @@
 ﻿<img src="./images/github-header-image.png">
   
 <h2>Jonathan David Allen Moore</h2>
-<p>jonathanmoore@computer.org | Reston, Va, US | +1 276-696-1163<p></p>
+<p>jonathanmoore@computer.org | Reston, Va, US | +1 276-696-1163</p>
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
@@ -115,6 +115,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
