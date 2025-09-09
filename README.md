@@ -89,7 +89,7 @@ CERTIFICATIONS
 ABOUT ME
 <p>I have a driver’s license</p>
 <p>I have a security clearance</p>
-<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the the Virginia Joint Commission for discrimination and misdignosis at Microsoft Legal</p>
+<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the the Virginia Joint Commission for discrimination and misdignosis, and missed oputunity at Oxford University because of community service board employees. at Microsoft Legal</p>
 <p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama</p>
 
 Copyright 2025 Monster.com and Carrer Builder.
