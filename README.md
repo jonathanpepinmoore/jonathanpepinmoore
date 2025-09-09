@@ -18,7 +18,7 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 
 <H2>Stock Portfiolio</H2>
 <p>13,750 Shares of Ford Motor Co.</p>
-<p>22,60 Shares of NextStar Broadcasting.</p>
+<p>22,602 Shares of NextStar Broadcasting.</p>
 <p>67,545 Shares of Califorinia Resources.</p>
 <p>10,400 Shares of William Sonoma Co.</p>
 <p>2M Shares of P&G Corp</p>
@@ -113,6 +113,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
