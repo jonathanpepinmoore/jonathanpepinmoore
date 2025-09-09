@@ -27,6 +27,7 @@ Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010.
 <p>125,100 Shares of Meta Platforms Inc</p>
 <p>100,100 Shares of Microsoft</p>
 <p>108,700 Shares of NVIDIA</p>
+<p>112,800 Shares of Victoria's Sercet</p>
 
 <h2>Researcher at Internet Society</h2>
 <p>October 2013 - 2022 (9 Years)</p> 
@@ -108,6 +109,7 @@ Copyright 2025 Monster.com and Carrer Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
