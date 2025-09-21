@@ -46,7 +46,7 @@
 <h2>Entrepreneur at Microsoft Corporation</h2>
 <p>February 2009 - December 2019 (11 Years)</p>
 <p>Approved and Graduated Microsoft Bizspark. Used Microsoft Windows 2008 R2 HPC Edition an
-Microsoft Research's Cornell Universities BioHPC with esembl flat files turning a MySQL Database into a MSSQL SISS Human Genome Database. Notable Microsoft support cases include the .NET Framework Reference Source and making a Bizspark Retail Subscription for all contract holders. Investing at Merrill to invest $10K in cash in options to make $1k a day. I have a $30K Certificate of Deposit, I always use a 1040 and have a High Yield Savings account. Was funded by the actress Anne Hathaway in 2025 and gave her $20K for a movie. Signed NDA with her signature.</p>
+Microsoft Research's Cornell Universities BioHPC with esembl flat files turning a MySQL Database into a MSSQL SISS Human Genome Database. Notable Microsoft support cases include the .NET Framework Reference Source and making a Bizspark Retail Subscription for all contract holders. Investing at Merrill to invest $10K in cash in options to make $1k a day. I have a $30K Certificate of Deposit, I always use a 1040 and have a High Yield Savings account. Was given 99K by the actress Anne Hathaway in 2025 and gave her $20K for a movie. Signed NDA with her signature.</p>
 
 <h2>Systems Integration Manager at Microsoft 365 Partner</h2>
 <p>February 2002 - Present (24 Years)</p>
@@ -119,6 +119,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
