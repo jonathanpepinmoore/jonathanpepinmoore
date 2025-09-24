@@ -5,7 +5,7 @@
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
-<p>I'm a 47-year-old Royal Society of the Arts Fellow, I'm a Moore, Chapman, Stoker, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. Member of the National Magna Carta Dames and Barrons Society. A Member of the Astrological Association. My first Cd-R application was Roxio From TiVo Corporation in 1986. I learned CoralDRAW At TCAT in 1999. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, Cannot put my personality profile online because of CIA takedown notices. University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecure. I live in Bristol, Va the Birthplace of country music and my family owns two homes. Lived in Jamestown, Va as a child. Passed the CIA PAS System in 1984 at Sullins Academy. All official paperwork in email and on past and present Corpoate accounts.</p>
+<p>I'm a 47-year-old Royal Society of the Arts Fellow, I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infustructure in 2012 with many others. I support CEO Mathew Talyor not Andy Haldane. I was interviewed in 2025 for RSA CEO. I'm a Moore, Chapman, Stoker, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. Member of the National Magna Carta Dames and Barrons Society. A Member of the Astrological Association. My first Cd-R application was Roxio From TiVo Corporation in 1986. I learned CoralDRAW At TCAT in 1999. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, Cannot put my personality profile online because of CIA takedown notices. University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecure. I live in Bristol, Va the Birthplace of country music and my family owns two homes. Lived in Jamestown, Va as a child. Passed the CIA PAS System in 1984 at Sullins Academy. All official paperwork in email and on past and present Corpoate accounts.</p>
 
 <h2>CAREER HISTORY</h2>
 
@@ -119,6 +119,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
