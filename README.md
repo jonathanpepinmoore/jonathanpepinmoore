@@ -69,7 +69,7 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 
 <h2>Development Technician at Be Inc.</h2>
 <p>February 2001 - 2006 (5 Years)</p>
-<p>Learned Debain at TCAT.</p>
+<p>Learned Debian at TCAT.</p>
 
 <h2>Software Engineer at Macromedia Incorporated</h2>
 <p>May 1999 - May 2006 (7.5 Years)</p>
@@ -124,6 +124,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
