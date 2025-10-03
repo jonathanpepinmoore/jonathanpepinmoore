@@ -78,7 +78,7 @@ Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Sta
 
 <h2>Librarian at Virginia Public Schools</h2>
 <p>May 1992 - May 1996 (4 Years)</p>
-<p>Worked with Walnut Creek, CA, BEA Systems Tuxedo and Windows 3.1 Studying Autocad's Autodesk and Debian and AT&T UNIX System V. Best friend was Wes Edmonds.</p>
+<p>Worked with Walnut Creek, CA, BEA Systems Tuxedo and Windows 3.1 Studying Autodesk's Autocad and Debian and AT&T UNIX System V. Best friend was Wes Edmonds.</p>
 
 <h2>EDUCATION</h2>
 <p>Udemy  2025-01-01 Coporate Cash Management and Estate Planning</p>
@@ -124,6 +124,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
