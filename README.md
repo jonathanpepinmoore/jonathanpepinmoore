@@ -95,7 +95,7 @@ ABOUT ME
 <p>I have a driver’s license</p>
 <p>I have a security clearance</p>
 
-<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the the Virginia Joint Commission for discrimination and misdignosis, and missed oputunity at Oxford and Harvard University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash.</p>
+<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the the Virginia Joint Commission for discrimination and misdignosis, and missed oputunity at Stanford and Harvard University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash.</p>
 
 <p>Microsoft can keep there company if they work on their relationship with Component Source and Open Source Collaboration sites where I work. If Bill Gates wants a PC in every home he's going to have to stop supporting President Nixion which my family never did and work on population law otherwrwise it's Comunism (or accounting course choosen companies to invest in) and Computers from the Carter Era. America is still not in the Commonwealth of nations and buys too many things.</p>
 
@@ -124,6 +124,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
