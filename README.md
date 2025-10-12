@@ -47,7 +47,7 @@
 <p>February 2008 - 2013 (4 Years)</p>
 <p>Responsible for the college website for four years</p>
 
-<h2>Entrepreneur at Microsoft Corporation</h2>
+<h2>Consultant at Microsoft Corporation</h2>
 <p>February 2009 - December 2019 (11 Years)</p>
 <p>Approved and Graduated Microsoft Bizspark. Used Microsoft Windows 2008 R2 HPC Edition an
 Microsoft Research's Cornell Universities BioHPC with esembl flat files turning a MySQL Database into a MSSQL SISS Human Genome Database. Notable Microsoft support cases include the .NET Framework Reference Source and making a Bizspark Retail Subscription for all contract holders. I have a $30K Certificate of Deposit, I always use a 1040 and have a High Yield Savings account. Was given $99K by the actress Anne Hathaway in 2025 and gave her $20K for a movie. Signed NDA with her signature.</p>
@@ -62,14 +62,9 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 <li>University of Washington environment with Spin Operating System. Digital Corp's Gatekeeper, HP Inc. Operating Environment, HP Bridgeworks, OpenVMS VAX source and Freeware. With MinWin Source and the XP Search Companion. Windows XP/2009 Embedded Windows 7 Embedded Standard. Now with Nuangel 2019 Updates and Out of Band Updates. Made this once before but from 2007-2009 at UVa-Wise in the dorms with permission of IT. Won my Microsoft MVP in 2025 at the Imagine Cup. Now a Member of Code Center Premeium. Paid for my Windows Internals books, BSD, UNIX Migration Guide and paid for 7 MSDN Subscriptions from 1999-2019. We dont need computer upgrades until 2029. We don't support Windows IoT but Windows Embedded. I've been onboarding projects for Microsoft since 2003. I too civics in High School now sociology. Money is in High School Sociology not University.</li>
 </ul>
 
-<h2>Development Technician at Apple Inc.</h2>
-<p>February 2001 - Present (25 Years)</p>
-<p>Started out with Darwin Operating System and have had my Apple Developer Team ID since
-2001. I start with MacRuby or the RubyDev Kit on Windows for bottom up development or macOS Internals Edtions for Top Down. I can make UNIX-Like Operating Systems with FreeBSD, NetBSD, and OpenBSD. Using Gnome and KDE. I use OStree for Apple Development. Previously GNOME Continious for Gnome Development and KDE Craft for Microsoft Windows. I have Apple NeXtStep Sources for Mac to Winodws cross platform development which is proprietary to Apple. Not the GNUStep hack. I work with BSD With full Apple developer FTP cache for PowerPC/x86/ARM. I have a HP Inc. Contract for HP Inc. OpenVMS Freeware and OpenVMS on x86.</p>
-
-<h2>Development Technician at Be Inc.</h2>
+<h2>Warner Bros. Entertainment</h2>
 <p>February 2001 - 2006 (5 Years)</p>
-<p>Learned Debian at TCAT.</p>
+<p>Worked on the 'Artificial Intelligence' Website and Terminator 3 Rise of the Machines Screen Savers</p>
 
 <h2>Software Engineer at Macromedia Incorporated</h2>
 <p>May 1999 - May 2006 (7.5 Years)</p>
@@ -124,6 +119,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
