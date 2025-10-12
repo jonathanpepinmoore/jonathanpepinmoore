@@ -17,23 +17,6 @@
 <p>October 2009 - Present (16 Years)</p>
 <p>Made $48 billion in M&A shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate with IRS transcript, applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure. I use OSF 1.0 and the Open Group's Single UNIX Specification for my own UNIX Implimentation. Calling Merril Lynch. I invested $10K cash upfront investment in a Nationwide mutual fund to earn a 2% daily return. </p>
 
-<H2>Stock Portfiolio</H2>
-<p>13,750 Shares of Ford Motor Co.</p>
-<p>22,602 Shares of NextStar Broadcasting.</p>
-<p>67,545 Shares of Califorinia Resources.</p>
-<p>10,400 Shares of William Sonoma Co.</p>
-<p>2M Shares of P&G Corp</p>
-<p>25,500 Shares of Army Technologies</p>
-<p>48,600 Shares of Adobe Inc.</p>
-<p>125,100 Shares of Meta Platforms Inc</p>
-<p>100,100 Shares of Microsoft</p>
-<p>108,700 Shares of NVIDIA</p>
-<p>112,800 Shares of Victoria's Sercet</p>
-<p>115,900 Shares of Virgin Media Finance</p>
-<p>112,700 Shares of PTC Inc</p>
-<p>78,700 Shares of Open Text</p>
-<p>104,500 Shares of Bank Of America</p>
-
 <h2>Researcher at Internet Society</h2>
 <p>October 2013 - 2022 (9 Years)</p> 
 
@@ -123,6 +106,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
