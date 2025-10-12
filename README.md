@@ -62,6 +62,10 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 <li>University of Washington environment with Spin Operating System. Digital Corp's Gatekeeper, HP Inc. Operating Environment, HP Bridgeworks, OpenVMS VAX source and Freeware. With MinWin Source and the XP Search Companion. Windows XP/2009 Embedded Windows 7 Embedded Standard. Now with Nuangel 2019 Updates and Out of Band Updates. Made this once before but from 2007-2009 at UVa-Wise in the dorms with permission of IT. Won my Microsoft MVP in 2025 at the Imagine Cup. Now a Member of Code Center Premeium. Paid for my Windows Internals books, BSD, UNIX Migration Guide and paid for 7 MSDN Subscriptions from 1999-2019. We dont need computer upgrades until 2029. We don't support Windows IoT but Windows Embedded. I've been onboarding projects for Microsoft since 2003. I too civics in High School now sociology. Money is in High School Sociology not University.</li>
 </ul>
 
+<h2>The Walt Disney Company</h2>
+<p>February 2001 - 2006 (5 Years)</p>
+<p>Worded on 'Finding Nemo' and 'Princess Diaries 1 & 2' Made for Macromedia Enhanced CD's</p>
+
 <h2>Warner Bros. Entertainment</h2>
 <p>February 2001 - 2006 (5 Years)</p>
 <p>Worked on the 'Artificial Intelligence' Website and Terminator 3 Rise of the Machines Screen Savers</p>
@@ -119,6 +123,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
