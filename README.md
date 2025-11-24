@@ -1,4 +1,6 @@
 ﻿<img src="./images/github-header-image.png">
+<img src="./images/574941916_122189231396533710_4818550376873590445_n.jpg">
+
   
 <h2>Jonathan David Allen Moore</h2>
 <p>jonathanmoore@computer.org | jonathanmoore@sphinxlogic.onmicrosoft.com | https://sphinxlogic.visualstudio.com | Reston, Va, US | +1 276-696-1163<p></p>
