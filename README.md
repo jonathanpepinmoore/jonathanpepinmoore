@@ -7,7 +7,7 @@
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
-<p>I'm a 47-year-old Royal Society of the Arts Fellow, I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infustructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Inteligence for Steven Speilberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. I support CEO Mathew Talyor not Andy Haldane. I was interviewed in 2025 for RSA CEO in London. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Amibent Music for 8 weeks straight. I'm a Moore, Chapman, Stoker, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. Member of the National Magna Carta Dames and Barrons Society. A Member of the Astrological Association. In 2021 I wrote Buckinham Palace and recieved a warm letter from the Monarchcy after telling my story. my family didn't vote for President Nixion, I didn't qualify for the Pell Grant in college my EFC was too high I lived off campus. in research approved by the Chancellor. I'm debt free and have a 752 TansUnion credit Score.</p>
+<p>I'm a 47-year-old Royal Society of the Arts Fellow, I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infustructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Inteligence for Steven Speilberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. I support CEO Mathew Talyor not Andy Haldane. I was interviewed in 2025 for RSA CEO in London. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Amibent Music for 8 weeks straight. I'm a Moore, Chapman, Stoker, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. Member of the National Magna Carta Dames and Barrons Society. A Member of the Astrological Association. In 2021 I wrote Buckinham Palace and recieved a warm letter from the Monarchcy after telling my story. </p>
   
 <p>In 2018 I wrote President Obama and told him my family didn't vote for president Nixon, didnt support the Occupy Movement and how my University EFC was too high and I didn't qualify for the Pell Grant. My grandfather was in the Navy during WWII and was first gunner on a naval ship and sargent in WWII. My father was credit manager for <a href="https://www.perficient.com/success-stories/builders-firstsource">Builders First Source for 40 years the nations largest building supplier</a> He worked with Citrix Computers. They build homes and Data Centers. In 2021 Microsoft Partner of the year. Before he retired. I'm Lifetime Trainsec Windows Internals Certified. I have a lateral excusion lisp which was corrected in 1989.</p>
 
@@ -110,8 +110,6 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
-
-
 
 
 
