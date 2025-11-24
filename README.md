@@ -65,7 +65,7 @@ Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Sta
 <p>Worked with Walnut Creek, CA, BEA Systems Tuxedo and Windows 3.1 Studying Autodesk's Autocad and Debian and AT&T UNIX System V. Best friend was Wes Edmonds.</p>
 
 <h2>EDUCATION</h2>
-<p>Udemy  2025-01-01 Coporate Cash Management and Estate Planning</p>
+<p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
 <p>Stanford University -Graduated 2017-01-01 Computer Science</p>
 <p>University of Virginia -Graduated 2004-01-01 Computer Science</p>
 <p>Tennessee Board of Regents -Graduated 2000-01-01 Computer Science</p>
@@ -79,21 +79,19 @@ ABOUT ME
 <p>I have a driver’s license</p>
 <p>I have a security clearance</p>
 
-<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the the Virginia Joint Commission for discrimination and misdignosis, and missed oputunity at Stanford and Harvard University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash.</p>
+<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the Virginia Joint Commission for discrimination and misdiagnosis, and missed opportunity at Stanford and Harvard University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash.</p>
 
-<p>Microsoft can keep there company if they work on their relationship with Component Source and Open Source Collaboration sites where I work. If Bill Gates wants a PC in every home he's going to have to stop supporting President Nixion which my family never did and work on population law otherwrwise it's Comunism (or accounting course choosen companies to invest in) and Computers from the Carter Era. America is still not in the Commonwealth of nations and buys too many things.</p>
+<p>Microsoft can keep there company if they work on their relationship with Component Source and Open Source Collaboration sites where I work. If Bill Gates wants a PC in every home he's going to have to stop supporting President Nixion which my family never did and work on population law otherwrwise it's Communism (or accounting course chosen companies to invest in) and Computers from the Carter Era. America is still not in the Commonwealth of nations and buys too many things.</p>
 
-<p>Also housing discrimination agianst a Royal Society of the Arts lifetime fellow and career neglegence on the part of the democratic party. I paid my tution, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the acedemic journals to be avaible to the homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash $3K to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting one home and I rent. When I was funiture porter I paid for my families dinning room suit and living room. Now I rent and I've paid for everything in my apt. Including the den and bedroom suit and office equipment.</p>
+<p>Also housing discrimination against a Royal Society of the Arts lifetime fellow and career negligence on the part of the democratic party. I paid my tuition, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the academic journals to be avaible to the homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash $3K to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting one home and I rent. When I was furniture porter I paid for my families dinning room suit and living room. Now I rent and I've paid for everything in my apt. Including the den and bedroom suit and office equipment.</p>
 
 <p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama</p>
 
-<p>I own the copyright of the Princess Diaries 3 Soundtrack at the US Copyright office paid $800, And in Oxford's Abrhamic Religion's  It is the combination of Islamic and Mediterranean that rules religion with reserarch and Eyptptian Judges. Who oversees the Vatican. I'm in NDA with the actress Anne Hathaway via Adobe Sign. While she goes through her divorce, I mailed her my Salman Rushdie Collection.</p>
-
-<p>Played my last show for 7 years Pearl Jam's 'Thin Air' wasn't played.</p>
+<p>Played my last show for 7 years Pearl Jam's 'Thin Air' Wasn't played.</p>
 
 Copyright 2025 Monster.com and Career Builder.
 
-<img src="./images/499506848_1876011943193349_7597840870533085049_n.jpg">
+<img src="./images/CIA.jpg">
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
@@ -112,12 +110,6 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
-
-
-
-
-
-
 
 
 
