@@ -85,6 +85,8 @@ ABOUT ME
 
 <p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama</p>
 
+<p>Played my last show for 7 years Pearl Jam's 'Thin Air' Wasn't played.</p>
+
 Copyright 2025 Monster.com and Career Builder.
 
 <img src="./images/499506848_1876011943193349_7597840870533085049_n.jpg">
@@ -106,6 +108,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
