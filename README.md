@@ -87,6 +87,8 @@ ABOUT ME
 
 <p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama</p>
 
+<p>I own the copyright of the Princess Diaries 3 Soundtrack at the US Copyright office paid $800, And in Oxford's Arhamic Religion's  It is the compination of Islamic and Mediterranean that rules religion with reserarch and Eyptptian Judges. Who oversees the Vatican. </p>
+
 <p>Played my last show for 7 years Pearl Jam's 'Thin Air' Wasn't played.</p>
 
 Copyright 2025 Monster.com and Career Builder.
@@ -110,6 +112,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
+
 
 
 
