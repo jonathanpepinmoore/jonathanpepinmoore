@@ -101,6 +101,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
 <li><a target="_self" href="https://opensource.adobe.com/cla.html">Adobe CLA</a></li>
 <li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
+<li><a target="_self" href="https://www.youtube.com/watch?v=NnSNK-S49wY">Dante's Workshop T800 DIY KIT</a></li>
 <li><a target="_self" href="https://betawiki.net/wiki/Build_lab">Build Lab --with Microsoft Employees</a></li>
 <li><a target="_self" href="https://www.youtube.com/watch?v=MJ8SCxN1S1M">Hal 9000 explains the future of humanity</a></li> 
 <li><a target="_self" href="https://www.youtube.com/watch?v=ZcTwO2dpX8A">iCub - Humanoid Platform</a></li>
