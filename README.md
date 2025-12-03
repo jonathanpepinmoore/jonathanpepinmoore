@@ -25,7 +25,7 @@
 <p>October 2009 - Present (16 Years)</p>
 <p>Made $48 billion in M&A shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate with IRS transcript, applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure. I use OSF 1.0 and the Open Group's Single UNIX Specification for my own UNIX Implementation. Calling Merril Lynch. I invested $10K cash upfront investment in a Nationwide mutual fund to earn a 2% daily return. </p>
 
-<h2>Researcher at Internet Society</h2>
+<h2>Research Operations Coordinator at Internet Society</h2>
 <p>October 2013 - 2022 (9 Years)</p> 
 
 <p>Found a Cure for HIV in Blood Magazine, Found Malignancy without immortality? Cellular immortalization as a possible late event in melanoma progression. Gave to Salk Institute becuase they have discovered a way to regrow tissue of any type. Found a way at Soutwestern University to keep the brain alive after postmortum death and did research on family geneology.  Support Lenrordo Devinci. Found out that planet earth only has 75 years worth of oil reserves left in Forbes Magazine. Was told by the Mayo Clinc to not take more that 600 IU of Vitamin D a day as it may cause cancer. Disovered in Europe on Science Direct that there is a philosphical understanding for schizophinia.</p>
