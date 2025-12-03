@@ -4,7 +4,7 @@
   
 <h2>Jonathan David Allen Moore</h2>
 <p>jonathanmoore@computer.org | jonathanmoore@sphinxlogic.onmicrosoft.com | https://sphinxlogic.visualstudio.com | Reston, Va, US | +1 276-696-1163<p></p>
-<p>My Microsoft Bizspark Startup is a 22 year Microsoft in Contract System Intergrator and Microsoft and Builders First Source Company we support Macromedia and the Computer History Museum, Sun Microsystems, User Groups and Care Packages. We also want Computer Science and Celebrity Metadata reform. We support Amazon and IMDB, World Book and Wikipedia as a technology wiki. I don't support technology as a form of population control I supoort China. I might is Microsoft supports the DNA mach making and HLA System.</p>
+<p>My Microsoft Bizspark Startup is a 22 year Microsoft in Contract System Intergrator and Microsoft and Builders First Source Company we support Macromedia and the Computer History Museum, Sun Microsystems, User Groups and Care Packages. We also want Computer Science and Celebrity Metadata reform. We support Amazon and IMDB, World Book and Wikipedia as a technology wiki. I don't support technology as a form of population control I supoort China. I might if Microsoft supports the DNA mach making and HLA System.</p>
 
 <p>I'm a retired Microsoft Gold Partner with unfinished Business at Microsoft in email. I live on Section 8 rent and my fathers home is paid for in the Birth Place of Country Music. Bristol, Va. I have $5 Million in Housing Vouchers that need to be taken serously from California. I'm on Social Securiy for work credits and on Medicare.</p>
 
