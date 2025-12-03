@@ -43,7 +43,7 @@
 <p>Approved and Graduated Microsoft Bizspark. Used Microsoft Windows 2008 R2 HPC Edition an
 Microsoft Research's Cornell Universities BioHPC with esembl flat files turning a MySQL Database into a MSSQL SISS Human Genome Database. Notable Microsoft support cases include the .NET Framework Reference Source and making a Bizspark Retail Subscription for all contract holders. I have a $30K Certificate of Deposit, I always use a 1040 and have a High Yield Savings account. Was given $99K by the actress Anne Hathaway in 2025 and gave her $20K for a movie. Signed NDA with her signature.</p>
 
-<h2>Systems Integration Manager at Microsoft 365 Partner</h2>
+<h2>Systems Integrator at Microsoft 365 Partner</h2>
 <p>February 2002 - Present (24 Years)</p>
 <ul>
 <li>Reading the Longhorn Migration Guide With new Longhorn reset layout and Vista XAML Windows with the WPF Toolkit Plus, MSDN Magazines SideBar Source Code and the Longhorn Transformation pack, Reading Disecting a C# Application and building SharpDevelop Wrox Edtion, and using ILSpy and Global Assembly Cache decompilation of .NET Assemblies for my own Vista Tansparency Center and reading the Windows Internals Supplement Series for next year’s Imagine Cup. Registered for 2026.</li>
