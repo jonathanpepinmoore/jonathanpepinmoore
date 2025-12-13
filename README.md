@@ -21,7 +21,7 @@
 
 <p>I've read the untold story of Queen Elizabeth the I and like her If I can't have my DNA Match I'd rather die single and my DNA Match is Anne Hathaway the Actress.</p>
 
-<p>I tested as a INTJ-T at the University of California Fulerton and have the same mind and personality and Dr. Steven Hawking.</p>
+<p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same mind and personality and Dr. Steven Hawking.</p>
 
 <h2>CAREER HISTORY</h2>
 
