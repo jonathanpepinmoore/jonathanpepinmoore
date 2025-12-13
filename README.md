@@ -23,6 +23,8 @@
 
 <p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same mind and personality and Dr. Steven Hawking.</p>
 
+<p>I applied to Standord University just to graduate in 2026 into graduate program but I might have to take a undergradute degree in computer science becuase of the 8 semester public education graduation rule. All credites are being transfered with a $120 application fee.</p>
+
 <h2>CAREER HISTORY</h2>
 
 <h2>Founder at Sphinx Logic</h2>
