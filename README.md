@@ -25,6 +25,8 @@
 
 <p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergradute degree in computer science becuase of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Sowehere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
 
+<p>I've filed a lawsuit wit the Microsoft Legal about the the investors of social media it kills innovation and causes autism when competion law should be enforced.</p>
+
 <h2>CAREER HISTORY</h2>
 
 <h2>Founder at Sphinx Logic</h2>
@@ -58,7 +60,7 @@ Microsoft Research's Cornell Universities BioHPC with esembl flat files turning 
 Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS Windows XP OPK. OPK Training Courses the MSDN Library 2005 with UNIX Migration Guide, Windows XP UX Guidelines, Windows Research Kernel with Virtual Labs. Adobe CS2, ZAM3D, Swift 3D, Windows XP Embedded and Feature Pack. Microsoft Office XP Pro for PowerPoint. Visual C++ 4.2, 6.0, Visual Studio 2002, 2003, 2005 and Team Foundation Server 2005 for work groups Visual Studio 2008 Team System Oracle Tuxedo for middleware and 2010 Ultimate and the Shared Source Common Language Infrastructure. With Active State Perl 5.6 XP/2003 Platform SDK's and DDKs. Windows CE 6.0 with book and Training Courses. </li>
 <li>University of Washington environment with Spin Operating System. Digital Corp's Gatekeeper, HP Inc. Operating Environment, HP Bridgeworks, OpenVMS VAX source and Freeware. With MinWin Source and the XP Search Companion. Windows XP/2009 Embedded Windows 7 Embedded Standard. Now with Nuangel 2019 Updates and Out of Band Updates. Made this once before but from 2007-2009 at UVa-Wise in the dorms with permission of IT. Won my Microsoft MVP in 2025 at the Imagine Cup. Now a Member of Code Center Premeium. Paid for my Windows Internals books, BSD, UNIX Migration Guide and paid for 7 MSDN Subscriptions from 1999-2019. We dont need computer upgrades until 2029. We don't support Windows IoT but Windows Embedded. I've been onboarding projects for Microsoft since 2003. I too civics in High School now sociology. Money is in High School Sociology not University.</li>
 
-<li>I'm working on a version of Microsoft Windows unsupervised only supervised by telemetry services and Microsoft colaborate it is proitary andf I have my Microsoft Windows NDA at Microsoft Collaborate. Beginning with Singularity RDF 2.0, Micro .NET Framework, CHESS, Rotor And Spec# Samples and Github.</li>
+<li>I'm working on a version of Microsoft Windows unsupervised only supervised by telemetry services and Microsoft colaborate it is proitary andf I have my Microsoft Windows NDA at Microsoft Collaborate. Beginning with Singularity RDF 2.0, Micro .NET Framework, CHESS, Rotor And Spec# Samples and Github. You should start with Spec# and used the Murcical given repo.</li>
 
 </ul>
 
