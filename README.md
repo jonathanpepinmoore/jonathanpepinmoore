@@ -108,6 +108,10 @@ ABOUT ME
 
 Copyright 2025 Monster.com and Career Builder.
 
+<video width="320" height="240" controls>
+  <source src="3211065649066898.mp4" type="video/mp4">
+</video>
+
 <img src="./images/CIA.jpg">
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
