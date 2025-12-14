@@ -108,7 +108,7 @@ ABOUT ME
 
 Copyright 2025 Monster.com and Career Builder.
 
-![Jonathan David Allen Moore Building Microsoft Windows XP](building windows.gif)
+<img src="./images/building windows.gif">
 
 <video>
   <source src="3211065649066898.mp4" type="video/mp4">
