@@ -118,7 +118,8 @@ Copyright 2025 Monster.com and Career Builder.
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
-<li><a target="_self" href="https://www.ic3.gov/PSA/2025/PSA250402">Criminal Actors Steal US Taxpayer Identity to File False Tax Returns and Claim Refunds</a></li>
+<li><a target="_self" href="https://www.congress.gov/bill/119th-congress/senate-bill/1582/text">The Geunis Act Bill Passed into Law</a>
+<li><a target="_self" href="https://www.ic3.gov/PSA/2025/PSA250402">Criminal Actors Steal US Taxpayer Identity to File False Tax Returns </a></li>
 <li><a target="_self" href="https://www.iter.org/">ITER - The Way To New Energy</a></li>
 <li><a target="_self" href="https://onlinelibrary.wiley.com/doi/10.1111/iji.12525">Matchmaker, matchmaker make me a match: Opportunities and challenges in optimizing compatibility of HLA eplets in transplantation</a></li>
 <li><a target="_self" href="https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1167&context=hrhw">Synthesis v. Purity and Large-N Studies: Moore and Hathaway</a></li>
