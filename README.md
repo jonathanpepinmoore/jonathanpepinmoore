@@ -108,7 +108,7 @@ ABOUT ME
 
 Copyright 2025 Monster.com and Career Builder.
 
-<video width="320" height="240" controls>
+<video>
   <source src="3211065649066898.mp4" type="video/mp4">
 </video>
 
