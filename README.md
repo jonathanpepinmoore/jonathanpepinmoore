@@ -56,12 +56,12 @@ Microsoft Research's Cornell Universities BioHPC with esembl flat files turning 
 <ul>
 <li>I started on Cygwin from Redhat and FreeBSD, in 1993. I retained a Cygwin Netscape navigator bookmark from 1993. Reading the Longhorn Migration Guide With new Longhorn reset layout and Vista XAML Windows with the WPF Toolkit Plus, MSDN Magazines SideBar Source Code and the Longhorn Transformation pack, Reading Disecting a C# Application and building SharpDevelop Wrox Edtion, and using ILSpy and Global Assembly Cache decompilation of .NET Assemblies for my own Vista Tansparency Center and reading the Windows Internals Supplement Series for next year’s Imagine Cup. Registered for 2026.</li>
 
-<li>Made Windows NT 3.5/4.0/XP/2003 Source Code Build Server in a Windows XP 32-bit Virtual Box 1.5 Terabytes VHD with Longhorn PDC 2003 VHD mount and Microsoft MVP(Minimium Viable Product). Using Interix Services for UNIX, NetBSD 2.0, SCO, Solaris FOSS Program, Red Hat Linux 8.5 Source, AIX, AIX
+<li>Used DJGPP 1998 at TCAT. Made Windows NT 3.5/4.0/XP/2003 Source Code Build Server in a Windows XP 32-bit Virtual Box 1.5 Terabytes VHD with Longhorn PDC 2003 VHD mount and Microsoft MVP(Minimium Viable Product). Using Interix Services for UNIX, NetBSD 2.0, SCO, Solaris FOSS Program, Red Hat Linux 8.5 Source, AIX, AIX
 Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS Windows XP OPK. OPK Training Courses the MSDN Library 2005 with UNIX Migration Guide, Windows XP UX Guidelines, Windows Research Kernel with Virtual Labs. Adobe CS2, ZAM3D, Swift 3D, Windows XP Embedded and Feature Pack. Microsoft Office XP Pro for PowerPoint. Visual C++ 4.2, 6.0, Visual Studio 2002, 2003, 2005 and Team Foundation Server 2005 for work groups Visual Studio 2008 Team System Oracle Tuxedo for middleware and 2010 Ultimate and the Shared Source Common Language Infrastructure. With Active State Perl 5.6 XP/2003 Platform SDK's and DDKs. Windows CE 6.0 with book and Training Courses. </li>
 <li>University of Washington environment with Spin Operating System. Digital Corp's Gatekeeper, HP Inc. Operating Environment, HP Bridgeworks, OpenVMS VAX source and Freeware. With MinWin Source and the XP Search Companion. Windows XP/2009 Embedded Windows 7 Embedded Standard. Now with Nuangel 2019 Updates and Out of Band Updates. Made this once before but from 2007-2009 at UVa-Wise in the dorms with permission of IT. Won my Microsoft MVP in 2025 at the Imagine Cup. Now a Member of Code Center Premeium. Paid for my Windows Internals books, BSD, UNIX Migration Guide and paid for 7 MSDN Subscriptions from 1999-2019. We dont need computer upgrades until 2029. We don't support Windows IoT but Windows Embedded. I've been onboarding projects for Microsoft since 2003. I too civics in High School now sociology. Money is in High School Sociology not University.</li>
 
-<li>I'm working on a version of Microsoft Windows unsupervised only supervised by telemetry services and Microsoft colaborate it is proprietary andf I have my Microsoft Windows NDA at Microsoft Collaborate. Beginning with Singularity RDF 2.0, Micro .NET Framework, CHESS, Rotor And Spec# Samples and Github. You should start with Spec# and used the Murcical given repo.</li>
-
+<li>I'm working on a version of Microsoft Windows unsupervised only supervised by telemetry services and Microsoft colaborate it is proprietary andf I have my Microsoft Windows NDA at Microsoft Collaborate. Beginning with Singularity RDF 2.0, Micro .NET Framework, CHESS, Rotor And Spec# Samples and Github. You should start with Spec# and used the Murcical given repo.
+</li>
 </ul>
 
 <h2>The Walt Disney Company</h2>
@@ -83,7 +83,7 @@ Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Sta
 
 <h2>EDUCATION</h2>
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
-<p>Stanford Online -Graduated 2017-01-01 Computer Science</p>
+<p>Stanford Online Liqunia -Graduated 2017-01-01 Computer Science</p>
 <p>University of Virginia -Graduated 2004-01-01 Computer Science</p>
 <p>Tennessee Board of Regents -Graduated 2000-01-01 Computer Science</p>
 <p>Bristol Virginia Public Schools-Graduated 1996-01-01 General Studies</p>
