@@ -118,6 +118,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
+<li><a target="_self" href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X16300472">Time is money: Rational life cycle inertia and the delegation of investment management</a>
 <li><a target="_self" href="https://www.congress.gov/bill/119th-congress/senate-bill/1582/text">The Genuis Act Bill Passed into Law</a>
 <li><a target="_self" href="https://www.ic3.gov/PSA/2025/PSA250402">Criminal Actors Steal US Taxpayer Identity to File False Tax Returns </a></li>
 <li><a target="_self" href="https://www.iter.org/">ITER - The Way To New Energy</a></li>
