@@ -7,19 +7,19 @@
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
-<p>I'm a 47-year-old Royal Society of the Arts Fellow, with $20 Million in M&A equity from Mishibushi Financial in Japan. I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infostructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Intelligence for Steven Spielberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. I support CEO Mathew Taylor not Andy Haldane. I was interviewed in 2025 for RSA CEO in London. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Ambient Music for 8 weeks straight. In 2001 I was featured on CNN's by Aaron Brown at Macromedia as a Child Celebrity. I was mailed a Harvard University Social Sciences Application my Microsoft David Cutler. I'm suing McClure Racing for the Book. <a href="https://www.amazon.com/Hacking-Exposed-Windows-Microsoft-Solutions/dp/007149426X">'Hacking Windows'</a> Morgan McClure Racing hacked my Windows 2000 Theme to a contrast theme my the receiving Dr never took a Contrast MRI until 2018.</p> 
+<p>I'm a 47-year-old Royal Society of the Arts Fellow, with $20 Million in M&A equity from Mishibushi Financial in Japan. I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infostructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Intelligence for Steven Spielberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Ambient Music for 8 weeks straight. In 2001 I was featured on CNN's by Aaron Brown at Macromedia as a Child Celebrity. I was mailed a Harvard University Social Sciences Application my Microsoft David Cutler. I'm suing McClure Racing for the Book. <a href="https://www.amazon.com/Hacking-Exposed-Windows-Microsoft-Solutions/dp/007149426X">'Hacking Windows'</a> Morgan McClure Racing hacked my Windows 2000 Theme to a contrast theme my the receiving Dr never took a Contrast MRI until 2018.</p> 
 
 <p>My Microsoft Bizspark Startup is a 22 year Microsoft in Contract System Intergrator and Microsoft and Builders First Source Company we support Macromedia and the Computer History Museum, Sun Microsystems, User Groups and Care Packages. We also want Computer Science and Celebrity Metadata reform. We support Amazon and IMDB, World Book and Wikipedia as a technology wiki. Also Project Gutenberg. Also the SENS Foundation and giving Tuesday the first Tuesday of every month. I don't support technology as a form of population control I supoort China. I might if Microsoft supports the DNA match making and HLA System.</p>
 
-<p>I'm a retired Microsoft Gold Partner with unfinished Business at Microsoft in email. I live on Section 8 rent and my fathers big home is paid for in the Birth Place of Country Music. Bristol, Va. I have $5 Million in Housing Vouchers that need to be taken serously from California. I'm on Social Securiy for work credits and on Medicare. Since 2002 We've received millions in BIONC Grants from the National Science Foundation. I have 2 lawsuits at Microsoft legal for me one against the Chan Initiative and the unoriginal Meta that should be given back to Harvard University for stolen research, the second for a medical diagnoses for schizoaffective setup for making my cousin a hollywood star in 1999. With a normal fMRI. My investivators or investigating the 2012 internet honeypot and my Uncles. <a href="https://archive.org/details/lp_the-honey-pot-original-motion-picture-s_john-addison">The Honey Pot (Original Motion Picture Score)</a></p>
+<p>I'm a retired Microsoft Gold Partner with unfinished Business at Microsoft in email. I live in the Birth Place of Country Music. Bristol, Va. Since 2002 We've received millions in BIONC Grants from the National Science Foundation. I have 2 lawsuits at Microsoft legal for me one against the Chan Initiative and the unoriginal Meta that should be given back to Harvard University for stolen research, the second for a medical diagnoses for schizoaffective setup for making my cousin a hollywood star in 1999. With a normal fMRI.</p>
 
 <p>After 2014 I became a Royal Society of the Arts Fellow which made me immune to future hospitalization's. I'm a Moore, Chapman, Stoker, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. Member of the National Magna Carta Dames and Barrons Society. A Member of the Astrological Association. In 2021 I wrote Buckingham Palace and received a warm letter from the Monarchy after telling my story. Freemasonry originated from the Royal Society. I don't believe in Masonry because of Dr Hawking's work in God and his belief in deity. I met the Actress Anne Hathaway. On her official new X page and signed a NDA via Adobe Sign and spent 2025 in retail therapy she releveled she was related to me and accepted my marriage proposal in June of 2025. I have her in my 2026 schedule. </p>
   
 <p>In 2018 I wrote President Obama and told him my family didn't vote for president Nixon, didnt support the Occupy Movement and how my University EFC was too high and I didn't qualify for the Pell Grant. In college I lived off campus and in research approved by the chancellor. My grandfather was in the Navy during WWII and was first gunner on a naval ship and sargent in WWII. My father was credit manager for <a href="https://www.perficient.com/success-stories/builders-first source">Builders First Source for 40 years the nations largest building supplier</a> He worked with Citrix Computers. They build homes and Data Centers. In 2021 Microsoft Partner of the year. Before he retired. I'm Lifetime Trainsec Windows Internals Certified. I have a lateral excusion lisp which was corrected in 1989.</p>
 
-<p>In 2003 I revived my first millionaire statement from Edward Jones. I was 30 under 30 in my area. My first Cd-R application was Roxio From TiVo Corporation in 1986. I learned CoralDRAW At TCAT in 1999. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, Cannot put my personality profile online because of CIA takedown notices. University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecture. I live in Bristol, Va the Birthplace of country music and my family owns two homes. Lived in Jamestown, Va as a child. Passed the CIA PAS System in 1984 at Sullins Academy. All official paperwork in email and and print on past and present corporate accounts. My father approved of all of my paperwork. </p>
+<p>In 2003 I revieved my first millionaire statement from Edward Jones. I was 30 under 30 in my area. My first Cd-R application was Roxio From TiVo Corporation in 1986. I learned CoralDRAW At TCAT in 1999. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, Cannot put my personality profile online because of CIA takedown notices. University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecture. I live in Bristol, Va the Birthplace of country music and my family owns two homes. Lived in Jamestown, Va as a child. Passed the CIA PAS System in 1984 at Sullins Academy. All official paperwork in email and and print on past and present corporate accounts. My father approved of all of my paperwork. </p>
 
-<p>I've read the untold story of Queen Elizabeth the I and like her If I can't have my DNA Match I'd rather die single and my DNA Match is Anne Hathaway the Actress. I know this from paying $1k in DNA Testing. I took Advanced Placement Biology in High School a College Course.</p>
+<p>My DNA Match is Anne Hathaway the Actress. I know this from paying $1k in DNA Testing. I took Advanced Placement Biology in High School a College Course.</p>
 
 <p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same mind and personality and Dr. Steven Hawking.</p>
 
@@ -64,18 +64,10 @@ Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS W
 </li>
 </ul>
 
-<h2>The Walt Disney Company</h2>
-<p>February 2001 - 2006 (5 Years)</p>
-<p>Worded on 'Finding Nemo' and 'Princess Diaries 1 & 2' Made for Macromedia Enhanced CD's</p>
-
-<h2>Warner Bros. Entertainment</h2>
-<p>February 2001 - 2006 (5 Years)</p>
-<p>Worked on the 'Artificial Intelligence' Website and Terminator 3 Rise of the Machines Screen Savers</p>
-
 <h2>Software Engineer at Macromedia Incorporated</h2>
 <p>May 1999 - May 2006 (7.5 Years)</p>
 <p>Macromedia User Group aka Non-Employee Director and affiliate program. Licensing Flash 4Source Code now in the Computer History Museum. Made Visual Effects, Games, and UI Prototypes. with Actionscript 1.0, to 2.0 in Macromedia Flash 3, 4, 5, MX 2004 and Studio 8.
-Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Startup. Ordered ECMA Standards from Switzerland and obtained in 2000. Made Macromedia and Disney Enhanced CD's for Movies and Music.</p>
+Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Startup. Ordered ECMA Standards from Switzerland and obtained in 2000. Made Macromedia and Disney Enhanced CD's for Movies and Music. Credited withthe Movies Finding Nemo and AI.</p>
 
 <h2>Librarian at Virginia Public Schools</h2>
 <p>May 1992 - May 1996 (4 Years)</p>
@@ -96,15 +88,11 @@ ABOUT ME
 <p>I have a driver’s license</p>
 <p>I have a security clearance</p>
 
-<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the Virginia Joint Commission for discrimination and misdiagnosis, and missed opportunity at Stanford and Harvard University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash.</p>
-
-<p>Microsoft can keep there company if they work on their relationship with Component Source and Open Source Collaboration sites where I work. If Bill Gates wants a PC in every home he's going to have to stop supporting President Nixion which my family never did and work on population law otherwrwise it's Communism (or accounting course chosen companies to invest in) and Computers from the Carter Era. America is still not in the Commonwealth of nations and buys too many things.</p>
+<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the Virginia Joint Commission for discrimination and misdiagnosis, and missed opportunity at Stanford and Oxford University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash.</p>
 
 <p>Also housing discrimination against a Royal Society of the Arts lifetime fellow and career negligence on the part of the democratic party. I paid my tuition, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the academic journals to be avaible to the homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash $3K to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting one home and I rent. When I was furniture porter I paid for my families dinning room suit and living room. Now I rent and I've paid for everything in my apt. Including the den and bedroom suit and office equipment.</p>
 
 <p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama</p>
-
-<p>Played my last show for 7 years Pearl Jam's 'Thin Air' Wasn't played.</p>
 
 Copyright 2025 Monster.com and Career Builder.
 
@@ -117,19 +105,150 @@ Copyright 2025 Monster.com and Career Builder.
 <img src="./images/CIA.jpg">
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
+
 <ul>
-<li><a target="_self" href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X16300472">Time is money: Rational life cycle inertia and the delegation of investment management</a>
-<li><a target="_self" href="https://www.congress.gov/bill/119th-congress/senate-bill/1582/text">The Genuis Act Bill Passed into Law</a>
-<li><a target="_self" href="https://www.ic3.gov/PSA/2025/PSA250402">Criminal Actors Steal US Taxpayer Identity to File False Tax Returns </a></li>
-<li><a target="_self" href="https://www.iter.org/">ITER - The Way To New Energy</a></li>
-<li><a target="_self" href="https://onlinelibrary.wiley.com/doi/10.1111/iji.12525">Matchmaker, matchmaker make me a match: Opportunities and challenges in optimizing compatibility of HLA eplets in transplantation</a></li>
-<li><a target="_self" href="https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1167&context=hrhw">Synthesis v. Purity and Large-N Studies: Moore and Hathaway</a></li>
-<li><a target="_self" href="https://www.fsf.org/windows/upcycle-windows-7">Microsoft's support of Windows 7 is over, We call on Microsoft to upcycle it instead.</a></li>
-<li><a target="_self" href="VMS_Language_and_Tools_Handbook_1985.pdf">VMS Language and Tools Handbook 1985</a></li>
-<li><a target="_self" href="https://wiki.vmssoftware.com/Main_Page">VMS Software Wiki</a></li>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
 <li><a target="_self" href="https://opensource.adobe.com/cla.html">Adobe CLA</a></li>
 <li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
+</ul>
+
+<ul>
+<li><a target="_self" href="VMS_Language_and_Tools_Handbook_1985.pdf">VMS Language and Tools Handbook 1985</a></li>
+<li><a target="_self" href="https://wiki.vmssoftware.com/Main_Page">VMS Software Wiki</a></li>
+<li><a target="_self" href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X16300472">Time is money: Rational life cycle inertia and the delegation of investment management</a>
+</ul>
+
+### Software
+* [UNIX Heritage Society](https://www.tuhs.org/)
+* [Spin Operating System](http://www-spin.cs.washington.edu/)
+* [OpenVMS Archive](https://www.digiater.nl/)
+* [SCO](http://www.sco.com/skunkware/)
+* [Windows RTM and Code Name Betas](https://archive.org/details/full-windows-archive)
+* [PTC MKSToolkit for DOS](https://winworldpc.com/product/mks-toolkit/41)
+* [Darwin Source Repository Compile for x86 for a Thinkpad](https://osdn.net/projects/sfnet_darwinsource/)
+* [Macports compile maintainers to win32, link in Portfile](https://github.com/macports/)
+* [fsck.technology](https://fsck.technology/)
+* [Wallnut Creek Collection](https://archive.org/details/walnutcreekcdrom)
+* [GNUStep](http://www.gnustep.org/)
+* [Microsoft Acrchive](https://github.com/microsoftarchive)
+* [Oracle Virtual Box](https://www.virtualbox.org/)
+* [BeOS/Haiku](https://www.haiku-os.org/)
+* [Adobe CS2](https://archive.org/details/Adobe-CS2)
+* [Microsoft Expression Studio for XAML Export](https://archive.org/details/microsoft-expression-studio)
+* [IBM SIMH PDF](https://github.com/jonathanchapmanmoore/simh)
+* [Computer History Source Code](https://computerhistory.org/playlists/source-code/)
+
+### Xeinx
+* [Microsoft Xeinx](https://archive.org/details/TNM_Xenix_operating_system_-_SCO_20180304_0122/mode/1up)
+
+### MSDOS
+* [Microsoft Lisp for DOS](http://www.edm2.com/index.php/Microsoft_LISP) 
+* [Microsoft Pascal](https://winworldpc.com/product/microsoft-pascal/40)
+* [Microsoft Fortran for DOS](https://winworldpc.com/product/microsoft-fortran/5x)
+* [MSDOS 3.0](https://archive.org/details/msexe)
+
+### Windows Builds
+* [Windows 1.0](https://archive.org/details/windows-1-0)
+* [Windows 2.03](https://archive.org/details/microsoft-windows-2.03-3.5)
+* [Windows 3.1](https://archive.org/details/windows-3.1-beta-1-build-34f)
+* [Windows NT 3.5](https://archive.org/details/3.51.896-multifre-client-workstation-retail-en-us.-7z)
+* [Windows NT 4.0](https://archive.org/details/nt-4-4.00.1166.1)
+* [Windows 95](https://archive.org/details/microsoftwindowsdetroitbuild1009-1216collection16files)
+* [Windows 98](https://archive.org/details/microsoftwindowsmemphisbuild1351-1998collection73files)
+* [Windows Whistler](https://archive.org/details/windows-whistler-collection)
+* [Windows Longhorn Build 4084](https://archive.org/details/windows-longhorn-build-4084)
+* [Windows Longhorn/Vista](https://archive.org/details/thelonghornarchive)
+* [Windows Longhorn Server](https://archive.org/details/os-microsoft-windows-longhorn-server)
+* [Windows 7](https://archive.org/details/Microsoft-Windows-7-Build-Collection)
+* [Windows 8](https://archive.org/details/os-microsoft-windows-8)
+* [Windows 8.1](https://archive.org/details/os-microsoft-windows-8.1)
+* [Windows 10](https://archive.org/details/10.0.10014.0.winmain-prs.-150205-1859-amd-64fre-client-professional-retail-en-us) 
+* [Boot Windows Pre-Installation Environment](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/boot-to-winpe?view=windows-10)
+* [Features On Demand](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/features-on-demand-v2--capabilities?view=windows-11)
+* [Windows Volume Activation](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn502540(v=ws.11))
+
+### Sysinternals Suite
+* [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+* [Windows Internals](https://docs.microsoft.com/en-us/sysinternals/resources/windows-internals)
+* [Novels](https://trojanhorsethebook.com/wordpress/books/)
+
+### Microsoft Reference Source
+* [.NET Reference Source](https://referencesource.microsoft.com)
+
+### Microsoft Enterprise Third Party Disclosures 
+* [Microsoft Third Party Disclosures](https://thirdpartysource.microsoft.com/)
+* [Visual Studio 2017 Third Party Disclosures](https://github.com/jonathanchapmanmoore/VisualStudioDisclosures)
+* [Visual Studio Image Library](https://www.microsoft.com/en-us/download/details.aspx?id=35825)
+* [IcoFX](https://icofx.ro/)
+
+### Shared Source Common Langugue Infustructure
+* [SSCLI](https://github.com/sphinxlogic/sscli) 
+* [Common Type System](https://docs.microsoft.com/en-us/dotnet/standard/base-types/common-type-system)
+
+### Common Compiler Infustructure
+* [Common Compiler Infustructure](https://github.com/jonathanchapmanmoore/cci)
+
+### Microsoft Open Source Teams
+* [PowerShell](https://github.com/PowerShell/PowerShell)
+
+### Microsoft Windows Kernel Source from MSDNAA
+* [Windows XP Kernel Source, Project OZ, and CRK](https://github.com/sphinxlogic/WindowsResearchKernel)
+
+### Microsoft SDKs
+* [DirectX](https://archive.org/details/directxsdks)
+* [Windows API Code Pack 1.1](https://www.nuget.org/packages/Microsoft-WindowsAPICodePack-Shell/)
+* [Locale Builder 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=41158)
+
+### Microsoft Research
+* [Singularity RDK 2.0](https://github.com/sphinxlogic/Singularity-RDK-2.0)
+* [CHESS](https://github.com/jonathanchapmanmoore/Chess)
+* [M#](http://licensing.msharp.co.uk/Login.aspx?ReturnUrl=%2fAdmin.aspx)
+* [Microsoft Detours](https://github.com/microsoft/Detours)
+* [Whitewater Foundry Ltd](https://github.com/WhitewaterFoundry)
+* [BIND 9](https://www.isc.org/bind/)
+* [OpenPegusus](https://collaboration.opengroup.org/pegasus/)
+
+### macOS Build Collection
+* [macOS Collection](https://archive.org/details/macos-collection)
+* [iokit University of Utah](https://github.com/OSPreservProject/oskit)
+
+### University of Cambridge
+* [Nemesis](https://www.cl.cam.ac.uk/research/srg/netos/projects/archive/nemesis/)
+
+### Operating System Perseve Project
+* [OSPerserve](https://github.com/OSPreservProject)
+
+### Personal 
+* [Jonathan Chapman Moore FRSA Website](https://www.jonathanchapmanmoore.org/)
+* [Microsoft Employee Login](https://docs.microsoft.com/en-us/dynamics/s-e/howto)
+* [The Federal Tax Identification Number for Microsoft](https://support.microsoft.com/en-us/topic/the-federal-tax-identification-number-for-microsoft-0c0e93fc-b692-8d0a-748c-86714f1d7cea)
+* [Blog](https://jdm7dvcsmath.blogspot.com/)
+* [Code Project Moderator](https://www.codeproject.com/script/Membership/View.aspx?mid=527156)
+* [Deviant Art](https://www.deviantart.com/jdm7dv)
+* [Microsoft Announces Preliminary Results of Tender Offer](https://news.microsoft.com/2006/08/18/microsoft-announces-preliminary-results-of-tender-offer/)
+* [Volunteered for the Forsight Insitute in 2001](https://foresight.org/our-history/)
+
+### Links
+* [How to pull a Bill Gates and don't let your company drown in cash](https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/)
+* [Assessing the stability of egocentric networks over time using the digital participant-aided sociogram tool Network Canvas](papers/assessing_the_stability_of_egocentric_networks_over_time_using_the_digital_participantaided_sociogram_tool_network_canvas.pdf)
+* [Stanford Network Analysis Project](http://snap.stanford.edu/)
+* [Microsoft researchers win ImageNet computer vision challenge](https://blogs.microsoft.com/ai/microsoft-researchers-win-imagenet-computer-vision-challenge/)
+* [Deep Neural Networks for Indoor Localization Using WiFi Fingerprints](https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21)
+* [Experimenting with Spirituality: Analyzing The God Gene in a Nonmajors Laboratory Course](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2262126/)
+* [The Supreme Court pared down a controversial anti-hacking law](https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed)
+
+<ul>
+<li><a target="_self" href="https://www.congress.gov/bill/119th-congress/senate-bill/1582/text">The Genuis Act Bill Passed into Law</a>
+<li><a target="_self" href="https://www.ic3.gov/PSA/2025/PSA250402">Criminal Actors Steal US Taxpayer Identity to File False Tax Returns </a></li>
+<li><a target="_self" href="https://www.iter.org/">ITER - The Way To New Energy</a></li>
+</ul>
+
+<ul>
+<li><a target="_self" href="https://onlinelibrary.wiley.com/doi/10.1111/iji.12525">Matchmaker, matchmaker make me a match: Opportunities and challenges in optimizing compatibility of HLA eplets in transplantation</a></li>
+<li><a target="_self" href="https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1167&context=hrhw">Synthesis v. Purity and Large-N Studies: Moore and Hathaway</a></li>
+<li><a target="_self" href="https://www.fsf.org/windows/upcycle-windows-7">Microsoft's support of Windows 7 is over, We call on Microsoft to upcycle it instead.</a></li>
+</ul>
+
 <li><a target="_self" href="https://www.youtube.com/watch?v=NnSNK-S49wY">Dante's Workshop T800 DIY KIT</a></li>
 <li><a target="_self" href="https://betawiki.net/wiki/Build_lab">Build Lab --with Microsoft Employees</a></li>
 <li><a target="_self" href="https://www.youtube.com/watch?v=MJ8SCxN1S1M">Hal 9000 explains the future of humanity</a></li> 
@@ -141,7 +260,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a></li>
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
 <li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
-</ul>
+
 
 
 
