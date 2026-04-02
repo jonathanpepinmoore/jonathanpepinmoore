@@ -114,10 +114,9 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <p>Met Stone Gossard and Jeff Amet and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
 
 <h2>EDUCATION</h2>
-<p>2026 In the California State Fulerton Founders Society supporting the Myers Briggs</p>
-<p>2026 In the Oxford University Founders Society supporting the new social mobility now Count Moore [old new thing]</p>
+
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
-<p>Stanford Online Liqunia -Graduated 2017-01-01 Computer Science</p>
+<p>Stanford Online Liqunia-Graduated 2017-01-01 Computer Science</p>
 <p>University of Virginia College at Wise -Graduated 2013-01-01 Computer Science GPA 3.5 in 2025 Joined UVa's Founder Society</p>
 <p>Tennessee Board of Regents - Graduated 2000-01-01 Microcomputer Specialist GPA 4.0 Class Valaditorian</p>
 <p>Bristol Virginia Public Schools-Graduated 1996-01-01 General Studies GPA 2.8 Secion-V First String Catcher for the Toronto Blu-Jays Farm Team at Avoca in Bristol, TN</p>
@@ -125,7 +124,12 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <p>St. Anne's Catholic School Graduate 1990</p>
 <p>Sullins Academy 1984</p>
 
-CERTIFICATIONS
+<h2>Socities</h2>
+<p>2026 Joined California State Fulerton Founders Society supporting the Myers Briggs</p>
+<p>2026 Joined Oxford University Founders Society supporting the new social mobility now Count Moore [old new thing]</p>
+<p>2025 Joined UVa's Founder Society</p>
+
+<h2>CERTIFICATIONS</h2>
 <p>Windows 7 Internals</p>
 <p>Lifetime Windows Internals Trainsec</p>
 
