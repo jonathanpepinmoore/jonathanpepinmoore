@@ -157,7 +157,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <a href="https://www.forbes.com/sites/dbloom/2021/09/27/hollywood-edges-closer-to-strike-with-cinematographers-vote/">Hollywood Edges Closer To Strike With Cinematographers Vote</a>
 
-<p>Still Single, Thumbing My Way at 48</p>
+<p>Still Single, Thumbing My Way at 48, Up here eating grapes in my toga. Or am I dreaming Katie Kouric.</p>
 
 <!--<img src="./images/building windows.gif">
 
