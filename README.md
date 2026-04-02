@@ -159,18 +159,6 @@ Copyright 2025 Monster.com and Career Builder.
 
 <p>Still Single, Thumbing My Way at 48, Up here eating grapes in my toga. Or am I dreaming Katie Kouric.</p>
 
-<!--<img src="./images/building windows.gif">
-
-<video>
-  <source src="3211065649066898.mp4" type="video/mp4">
-</video>-->
-
-<img src="./images/new_site_2027.png">
-<img src="./images/vpn.png">
-<img src="./images/CIA.jpg">
-
-<h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
-
 <h2>Source Server Paths</h2>
 
 (Thanks again to C++ MVP Jonathan David Allen Moore for providing this list.)
@@ -216,6 +204,20 @@ XP SP3: codepremium.msdn.microsoft.com/source/windows%20XP/SP3</p>
 <p>W2k SP3: codepremium.msdn.microsoft.com/source/Windows%202000/SP3</p>
 
 <p>W2k SP4: codepremium.msdn.microsoft.com/source/Windows%202000/SP4</p>
+
+<!--<img src="./images/building windows.gif">
+
+<video>
+  <source src="3211065649066898.mp4" type="video/mp4">
+</video>-->
+
+<img src="./images/new_site_2027.png">
+<img src="./images/vpn.png">
+<img src="./images/CIA.jpg">
+
+<img src="./images/Untitled.png">
+
+<h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 
 <!--<ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
