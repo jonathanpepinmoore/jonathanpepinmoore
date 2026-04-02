@@ -49,7 +49,7 @@ Mom said IQ was around 120 to 140 tested in Atlanta, Ga and tested as a INTJ-T a
 
 Certified Trainer 2017 - 2022 Berlin, Germany
 
-Made five ambient albums and went #1 on the Ireland charts. Licenced the PX-18 Source Code. Licenced Reason Studios Source Code. Making Vinyl in 2025-2026 at Discmakers. Vero is my music label.
+Made five ambient albums and went #1 on the Ireland charts. Licenced the PX-18 Source Code. Licenced Reason Studios Source Code. Making Vinyl in 2025-2026 at Discmakers. Vero is my music label. Was in Apple Music.
 
 <h3>Northrop Grumman Corporation</h3>
 
