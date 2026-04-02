@@ -177,45 +177,46 @@ Copyright 2025 Monster.com and Career Builder.
 
 Here is the list of all currently available source server paths. Links are not clickable because these links are only for use in Visual Studio, not in your browser.
 
-Win7 RTM: https://codepremium.msdn.microsoft.com/source/Windows%207/RTM
+<p>Win7 RTM: https://codepremium.msdn.microsoft.com/source/Windows%207/RTM</p>
 
-Win7 SP1: https://codepremium.msdn.microsoft.com/source/Windows%207/SP1
+<p>Win7 SP1: https://codepremium.msdn.microsoft.com/source/Windows%207/SP1</p>
 
-W2k8 RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/RTM
+<p>W2k8 RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/RTM</p>
 
-W2k8 Hyper-V-RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/Hyper-V%20RTM
+<p>W2k8 Hyper-V-RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/Hyper-V%20RTM</p>
 
-W2k8 SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/SP2
+<p>W2k8 SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/SP2</p>
 
-W2k8 R2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/R2
+<p>W2k8 R2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/R2</p>
 
-W2k3 RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/RTM
+<p>W2k3 RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/RTM</p>
 
-W2k3 R2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20R2
+<p>W2k3 R2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20R2</p>
 
-W2k3 SP1: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP1%20RTM
+<p>W2k3 SP1: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP1%20RTM</p>
 
-W2k3 SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP2%20RTM
+<p>W2k3 SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP2%20RTM</p>
 
-Vista RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/RTM
+<p>Vista RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/RTM</p>
 
-Vista SP1: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/SP1
+<p>Vista SP1: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/SP1</p>
 
-Vista SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/SP2
+<p>Vista SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/SP2</p>
 
-XP RTM: https://codepremium.msdn.microsoft.com/source/windows%20XP/RTM
+<p>XP RTM: https://codepremium.msdn.microsoft.com/source/windows%20XP/RTM</p>
 
-XP SP1: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP1
+<p>XP SP1: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP1</p>
 
-XP SP2: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP2
+<p>XP SP2: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP2</p>
 
-XP SP3: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP3
+XP SP3: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP3</p>
 
-W2k Datacenter RTM: https://codepremium.msdn.microsoft.com/source/Windows%202000/Datacenter%20RTM
+<p>W2k Datacenter RTM: https://codepremium.msdn.microsoft.com/source/Windows%202000/Datacenter%20RTM</p>
 
-W2k SP3: https://codepremium.msdn.microsoft.com/source/Windows%202000/SP3
+<p>W2k SP3: https://codepremium.msdn.microsoft.com/source/Windows%202000/SP3</p>
 
-W2k SP4: https://codepremium.msdn.microsoft.com/source/Windows%202000/SP4
+<p>W2k SP4: https://codepremium.msdn.microsoft.com/source/Windows%202000/SP4</p>
+
 <!--<ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
 <li><a target="_self" href="https://opensource.adobe.com/cla.html">Adobe CLA</a></li>
