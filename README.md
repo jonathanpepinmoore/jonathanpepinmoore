@@ -159,7 +159,8 @@ Copyright 2025 Monster.com and Career Builder.
   <source src="3211065649066898.mp4" type="video/mp4">
 </video>-->
 
-<img src="./images/427961022_1557556791705534_5331822365305597886_n.jpg">
+<img src="./images/new_site_2027.png">
+<img src="./images/vpn.png">
 <img src="./images/CIA.jpg">
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
