@@ -191,31 +191,31 @@ Here is the list of all currently available source server paths. Links are not c
 
 <p>W2k3 RTM: codepremium.msdn.microsoft.com/source/Windows%20Server%202003/RTM</p>
 
-<p>W2k3 R2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20R2</p>
+<p>W2k3 R2: codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20R2</p>
 
-<p>W2k3 SP1: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP1%20RTM</p>
+<p>W2k3 SP1: codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP1%20RTM</p>
 
-<p>W2k3 SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP2%20RTM</p>
+<p>W2k3 SP2: codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP2%20RTM</p>
 
-<p>Vista RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/RTM</p>
+<p>Vista RTM: codepremium.msdn.microsoft.com/source/Windows%20Vista/RTM</p>
 
-<p>Vista SP1: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/SP1</p>
+<p>Vista SP1: codepremium.msdn.microsoft.com/source/Windows%20Vista/SP1</p>
 
-<p>Vista SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/SP2</p>
+<p>Vista SP2: codepremium.msdn.microsoft.com/source/Windows%20Vista/SP2</p>
 
-<p>XP RTM: https://codepremium.msdn.microsoft.com/source/windows%20XP/RTM</p>
+<p>XP RTM: codepremium.msdn.microsoft.com/source/windows%20XP/RTM</p>
 
-<p>XP SP1: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP1</p>
+<p>XP SP1: codepremium.msdn.microsoft.com/source/windows%20XP/SP1</p>
 
-<p>XP SP2: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP2</p>
+<p>XP SP2: codepremium.msdn.microsoft.com/source/windows%20XP/SP2</p>
 
-XP SP3: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP3</p>
+XP SP3: codepremium.msdn.microsoft.com/source/windows%20XP/SP3</p>
 
-<p>W2k Datacenter RTM: https://codepremium.msdn.microsoft.com/source/Windows%202000/Datacenter%20RTM</p>
+<p>W2k Datacenter RTM: codepremium.msdn.microsoft.com/source/Windows%202000/Datacenter%20RTM</p>
 
-<p>W2k SP3: https://codepremium.msdn.microsoft.com/source/Windows%202000/SP3</p>
+<p>W2k SP3: codepremium.msdn.microsoft.com/source/Windows%202000/SP3</p>
 
-<p>W2k SP4: https://codepremium.msdn.microsoft.com/source/Windows%202000/SP4</p>
+<p>W2k SP4: codepremium.msdn.microsoft.com/source/Windows%202000/SP4</p>
 
 <!--<ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
