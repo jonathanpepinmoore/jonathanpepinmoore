@@ -111,7 +111,7 @@ Pearl Jam Ten Club 1991-present
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
 <p>Stanford Online Liqunia -Graduated 2017-01-01 Computer Science</p>
 <p>University of Virginia College at Wise -Graduated 2013-01-01 Computer Science GPA 3.5 in 2025 Joined UVa's Founder Society</p>
-<p>Tennessee Board of Regents - Graduated 2000-01-01 Computer Science GPA 4.0</p>
+<p>Tennessee Board of Regents - Graduated 2000-01-01 Microcomputer Specialist GPA 4.0 Class Valaditorian</p>
 <p>Bristol Virginia Public Schools-Graduated 1996-01-01 General Studies GPA 2.8 Secion-V First String Catcher for the Toronto Blu-Jays Farm Team at Avoca in Bristol, TN</p>
 <p>Hollins Communinications Sept 11th 1989-April 1990 Lateral Ecusion Lisp with Emily Blunt the Actress</p>
 <p>St. Anne's Catholic School Graduate 1990</p>
