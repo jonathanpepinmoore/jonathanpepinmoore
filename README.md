@@ -83,8 +83,8 @@ Pearl Jam Ten Club 1991-present
 <ul>
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/1998/thompson-boling-arena-knoxville-tn-63d61233.html">Thompson-Boling Arena - Knoxville, Tennssesse, Sept 06, 1998</a> [attended]</li>
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2003/assembly-hall-champaign-il-1bd6217c.html">Assembly Hall, Champaign - IL - April 23rd 2003</a></li>
-<li>Wachovia Spectrum - Philadelphia, PA, USA 2009</li>
-<li>Copps Coliseum - Hamilton, ON, Canada 2011</li>
+<li><a href="https://www.setlist.fm/setlist/pearl-jam/2009/wachovia-spectrum-philadelphia-pa-1bd7c9c0.html">Wachovia Spectrum - Philadelphia, PA, USA 2009</a></li>
+<li><a href="https://www.setlist.fm/setlist/pearl-jam/2011/copps-coliseum-hamilton-on-canada-3d029df.html">Copps Coliseum - Hamilton, ON, Canada 2011</a></li>
 <li>John Paul Jones Arena - Charlottesville, VA October 29th 2013</li>
 </ul>
 
