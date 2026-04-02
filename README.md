@@ -35,7 +35,7 @@
 
 Microsoft Imagine Cup 2025
 
-Won My Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 System Intergrator Shared Source Contract in 2003
+Won my Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 System Intergrator Shared Source Contract in 2003
 
 RSA Fellowship  · 2018 - Present
 
