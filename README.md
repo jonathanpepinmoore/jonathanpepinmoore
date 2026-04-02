@@ -145,6 +145,8 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 
 Copyright 2025 Monster.com and Career Builder.
 
+<a href="https://dl.acm.org/doi/10.1145/2445196.2445344">Learning computer science in the "comfort zone of proximal development"</a>
+
 <a href="https://answersingenesis.org/charles-darwin/was-charles-darwin-a-christian">Was Charles Darwin a Christian?</a>
 
 <a href="https://www.forbes.com/sites/dbloom/2021/09/27/hollywood-edges-closer-to-strike-with-cinematographers-vote/">Hollywood Edges Closer To Strike With Cinematographers Vote</a>
