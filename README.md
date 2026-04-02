@@ -61,7 +61,11 @@ Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeB
 Apple Computer
 
 Software Developer  · 2001 - Present
-Start with the Bash shell and GNUStep, Project Builder and the Darwin SDK the project files-files. Licensed Quicktime Source Code.
+Start with the Bash shell and GNUStep, Project Center, Windows Maker and the Darwin SDK the project files-files. Licensed Quicktime Source Code.
+
+Silicon Graphics Inc.
+
+Visual Effects 2000-present
 
 Adobe
 
