@@ -28,50 +28,38 @@
 <p>I've filed a lawsuit with the Microsoft Legal about the the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>
 
 <h2>CAREER HISTORY</h2>
+RSA Fellowship  · 2018 - Present
+Mom said IQ was around 120 to 140 tested in Atlanta, Ga and tested as a INTJ-T at 16 Personalities DOI: 10.34218/IJM.11.9.2020.025. NERIS Type Explorer® Scale. That same as Dr. Steven Hawking. Applied for the Genius Act in the United States. Investing in Unisys, HPE, Meta, Alphabet, Microsoft, Adobe, Nintendo, Square Enix, Kasha Saudi Arabia Oil and a Nationwide Mutual Fund. Anne Hathaway the actress and me share the same HLA System or are a DNA Match according to National Geographic and Family Tree DNA transfer. Also share 8 alignments for a healthy relationship. We share three surnames. Was given $99k by Anne Hathaway in to my account and bailed for 2 months because she was going to get in trouble with crypto. We've worked it out. Paid her back $21K for a FBI Movie.
 
-<h2>Founder at Sphinx Logic</h2>
-<p>October 2009 - Present (16 Years)</p>
-<p>Made $48 billion in M&A shareholder equity waiting on a equity to cash IPO. Have a 2011 return for $1 million in intangibles for real estate with IRS transcript, applying for tax except status my website is www.sphinxlogic.net paid for 10 years. With Startup Tenure. I use OSF 1.0 and the Open Group's Single UNIX Specification for my own UNIX Implementation. Calling Merril Lynch. I invested $10K cash upfront investment in a Nationwide mutual fund to earn a 2% daily return. </p>
+Northrop Grumman Corporation
+Intern engineer  · 2012 - 2015  · Falls Church, Virginia
+Made a Missile Container with Java and Android. With Secret Security Clearance and NDA. Defends the 'Jonathan' law. Conspiracy is a crime unless an agreement is made.
 
-<h2>Research Operations Coordinator at Internet Society</h2>
-<p>October 2013 - 2022 (9 Years)</p> 
+Microsoft for Startups
+Network Partner  · 2009 - Present  · Abingdon, Virginia
+Microsoft Bizspark Graduate. Made a Human Genome Database from flat files from Esembl in the UK. From Oracle MySQL to Microsoft SQL Server using Microsoft SQL SISS Projects and Microsoft Technical Support. With startup tenure in the contract. Bought 6 MSDN Subscriptions and have $14.4 million in licensing value. Possible net worth used for capital or inventory spending.
 
-<p>Found a Cure for HIV in Blood Magazine, Found Malignancy without immortality? Cellular immortalization as a possible late event in melanoma progression. Gave to Salk Institute becuase they have discovered a way to regrow tissue of any type. Found a way at Soutwestern University to keep the brain alive after postmortum death and did research on family geneology.  Support Lenrordo Devinci. Found out that planet earth only has 75 years worth of oil reserves left in Forbes Magazine. Was told by the Mayo Clinc to not take more that 600 IU of Vitamin D a day as it may cause cancer. Disovered in Europe on Science Direct that there is a philosphical understanding for schizophinia.</p>
+Microsoft US Partner Community
+Gold Partner  · 2003 - Present  · Bristol, Virginia
+Made a System Integrator Website for Microsoft Windows. Built MS-DOS 1.22 with Build Disk with MKS Toolkit, Microsoft Windows 1.0 Premiere Edition, 2.11 with OEM Adaptation Kit, RSM-11M, PDP-11 through PDP-11 70, OS/2, VMS, POSIX, Project MICA, Visual Studio 6.0 Enterprise. Visual Studio.NET, UNIX Migration Guide. Shared Source Licensee, Microsoft Windows NT 4.0 (With Dean Harris' Permission) , 2000, XP, 2003, XP, 2009 Embedded w/ Windows Automotive, CE 3.0-2013 with Preinstallation Environment 1.0, Interix with Santa Cruz Operation Source Code. Longhorn Migration Guide using build 4074, Source Server Virtual Appliances. Won Microsoft SQL Server Sales award and have yet to collect sales revenue. Submitted my Visual Style Sample and it shipped. Used Goliath in Remote Installation Services. Worked on Windows 8 Storyboards and Codeplex and .NET 6.0 GA. Using Microsoft Windows Server Deployment Services as a Transport Server and a Vista DDK Windows Management Instrumentation Sample for Image Enumeration. To connect to a Microsoft Corporate Deployment Server. Also built the Powershell v7.0 With Visual Studio.NET Disclosures. Bought the Book Hard Drive: Bill Gates Birth of a Microsoft Empire and worked 20 years on a copy of Bill Gates Hard Drive.
 
-<h2>Student Intern at Northrup Grumman</h2>
-<p>February 2012 - 2015 (3 Years)</p>
-<p>My Senior Capstone was a Missle Container project made with The Java Programming Language IBM Rational Rose and Andriod</p>
+IMDbPro
+Animator  · 2001 - 2014  · Los Angeles, California
+Artificial Intelligence, Finding Nemo,
 
-<h2>Web Designer at the University College at Wise</h2>
-<p>February 2008 - 2013 (4 Years)</p>
-<p>Responsible for the college website for four years</p>
+FreeBSD Foundation
+System Builder  · 2001 - Present
+Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeBSD and NetBSD on a 1996 IBM Aptiva, Mac Pro 2008 running Mac OS X Snow Leopard and Lion, HP Intel i7 12 Core for x86 and use Oracle Virtual Box to build UNIX-Like Appliances with the Common Desktop Environment without XQuartz with the Cairo Dock, Sourceware's Cygwin and Microsoft's and ECMA's Shared Source Common Language Infrastructure 1.0 For FreeBSD and Gyro Generics and now on a Mac Pro 2024 M3 ARM64 Platform 8 TB SSD. and a 2025 Windows 11 IoT LTSC Digital Storm PC. x2 20 TB SSD's 100 TB Orico In support until 2040. I use premade appliances from FreeBSD to be a committer. iPhone 14 Max in support until 2029 contract at Verizon. I build FreeBSD using bmake on macOS.
 
-<h2>Consultant at Microsoft Corporation</h2>
-<p>February 2009 - December 2019 (11 Years)</p>
-<p>Approved and Graduated Microsoft Bizspark. Used Microsoft Windows 2008 R2 HPC Edition an
-Microsoft Research's Cornell Universities BioHPC with esembl flat files turning a MySQL Database into a MSSQL SISS Human Genome Database. Notable Microsoft support cases include the .NET Framework Reference Source and making a Bizspark Retail Subscription for all contract holders. I have a $30K Certificate of Deposit, I always use a 1040 and have a High Yield Savings account. Was given $99K by the actress Anne Hathaway in 2025 and gave her $20K for a movie. Signed NDA with her signature.</p>
+Apple
+Software Developer  · 2001 - Present
+Start with the Bash shell and GNUStep, Project Builder and the Darwin SDK the project files-files. Licensed Quicktime Source Code.
 
-<h2>Systems Integrator at Microsoft 365 Partner</h2>
-<p>February 2002 - Present (24 Years)</p>
-<ul>
-<li>I started on Cygwin from Redhat and FreeBSD, in 1993. I retained a Cygwin Netscape navigator bookmark from 1993. Reading the Longhorn Migration Guide With new Longhorn reset layout and Vista XAML Windows with the WPF Toolkit Plus, MSDN Magazines SideBar Source Code and the Longhorn Transformation pack, Reading Disecting a C# Application and building SharpDevelop Wrox Edtion, and using ILSpy and Global Assembly Cache decompilation of .NET Assemblies for my own Vista Tansparency Center and reading the Windows Internals Supplement Series for next year’s Imagine Cup. Registered for 2026.</li>
-
-<li>Used DJGPP 1998 at TCAT. Made Windows NT 3.5/4.0/XP/2003 Source Code Build Server in a Windows XP 32-bit Virtual Box 1.5 Terabytes VHD with Longhorn PDC 2003 VHD mount and Microsoft MVP(Minimium Viable Product). Using Interix Services for UNIX, NetBSD 2.0, SCO, Solaris FOSS Program, Red Hat Linux 8.5 Source, AIX, AIX
-Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS Windows XP OPK. OPK Training Courses the MSDN Library 2005 with UNIX Migration Guide, Windows XP UX Guidelines, Windows Research Kernel with Virtual Labs. Adobe CS2, ZAM3D, Swift 3D, Windows XP Embedded and Feature Pack. Microsoft Office XP Pro for PowerPoint. Visual C++ 4.2, 6.0, Visual Studio 2002, 2003, 2005 and Team Foundation Server 2005 for work groups Visual Studio 2008 Team System Oracle Tuxedo for middleware and 2010 Ultimate and the Shared Source Common Language Infrastructure. With Active State Perl 5.6 XP/2003 Platform SDK's and DDKs. Windows CE 6.0 with book and Training Courses. </li>
-<li>University of Washington environment with Spin Operating System. Digital Corp's Gatekeeper, HP Inc. Operating Environment, HP Bridgeworks, OpenVMS VAX source and Freeware. With MinWin Source and the XP Search Companion. Windows XP/2009 Embedded Windows 7 Embedded Standard. Now with Nuangel 2019 Updates and Out of Band Updates. Made this once before but from 2007-2009 at UVa-Wise in the dorms with permission of IT. Won my Microsoft MVP in 2025 at the Imagine Cup. Now a Member of Code Center Premeium. Paid for my Windows Internals books, BSD, UNIX Migration Guide and paid for 7 MSDN Subscriptions from 1999-2019. We dont need computer upgrades until 2029. We don't support Windows IoT but Windows Embedded. I've been onboarding projects for Microsoft since 2003. I too civics in High School now sociology. Money is in High School Sociology not University.</li>
-
-<li>I'm working on a version of Microsoft Windows unsupervised only supervised by telemetry services and Microsoft colaborate it is proprietary andf I have my Microsoft Windows NDA at Microsoft Collaborate. Beginning with Singularity RDF 2.0, Micro .NET Framework, CHESS, Rotor And Spec# Samples and Github. You should start with Spec# and used the Murcical given repo.
-</li>
-</ul>
-
-<h2>Software Engineer at Macromedia Incorporated</h2>
-<p>May 1999 - May 2006 (7.5 Years)</p>
-<p>Macromedia User Group aka Non-Employee Director and affiliate program. Licensing Flash 4Source Code now in the Computer History Museum. Made Visual Effects, Games, and UI Prototypes. with Actionscript 1.0, to 2.0 in Macromedia Flash 3, 4, 5, MX 2004 and Studio 8.
-Held meetings at ETSU and in the computer lab with the FBI. Was a Macromedia Startup. Ordered ECMA Standards from Switzerland and obtained in 2000. Made Macromedia and Disney Enhanced CD's for Movies and Music. Credited withthe Movies Finding Nemo and AI.</p>
-
-<h2>Librarian at Virginia Public Schools</h2>
-<p>May 1992 - May 1996 (4 Years)</p>
-<p>Worked with Walnut Creek, CA, BEA Systems Tuxedo and Windows 3.1 Studying Autodesk's Autocad and Debian and AT&T UNIX System V. Best friend was Wes Edmonds.</p>
+Adobe
+Non Employee Director  · 1999 - 2017  · San Francisco, California
+Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.
+Shared with Public
+git@github.com:jonathanpepinmoore/jonathanpepinmoore.git
 
 <h2>EDUCATION</h2>
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
@@ -106,7 +94,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 
-<ul>
+<!--<ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
 <li><a target="_self" href="https://opensource.adobe.com/cla.html">Adobe CLA</a></li>
 <li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
@@ -116,9 +104,9 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="VMS_Language_and_Tools_Handbook_1985.pdf">VMS Language and Tools Handbook 1985</a></li>
 <li><a target="_self" href="https://wiki.vmssoftware.com/Main_Page">VMS Software Wiki</a></li>
 <li><a target="_self" href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X16300472">Time is money: Rational life cycle inertia and the delegation of investment management</a>
-</ul>
+</ul>-->
 
-### Software
+<!--### Software
 * [UNIX Heritage Society](https://www.tuhs.org/)
 * [Spin Operating System](http://www-spin.cs.washington.edu/)
 * [OpenVMS Archive](https://www.digiater.nl/)
@@ -235,9 +223,9 @@ Copyright 2025 Monster.com and Career Builder.
 * [Microsoft researchers win ImageNet computer vision challenge](https://blogs.microsoft.com/ai/microsoft-researchers-win-imagenet-computer-vision-challenge/)
 * [Deep Neural Networks for Indoor Localization Using WiFi Fingerprints](https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21)
 * [Experimenting with Spirituality: Analyzing The God Gene in a Nonmajors Laboratory Course](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2262126/)
-* [The Supreme Court pared down a controversial anti-hacking law](https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed)
+* [The Supreme Court pared down a controversial anti-hacking law](https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed)-->
 
-<ul>
+<!--<ul>
 <li><a target="_self" href="https://www.congress.gov/bill/119th-congress/senate-bill/1582/text">The Genuis Act Bill Passed into Law</a>
 <li><a target="_self" href="https://www.ic3.gov/PSA/2025/PSA250402">Criminal Actors Steal US Taxpayer Identity to File False Tax Returns </a></li>
 <li><a target="_self" href="https://www.iter.org/">ITER - The Way To New Energy</a></li>
@@ -259,7 +247,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://arxiv.org/abs/1308.4526">Formalization, Mechanization and Automation of Gödel's Proof of God's Existence</a></li>
 <li><a target="_self" href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a></li>
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
-<li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
+<li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>-->
 
 
 
