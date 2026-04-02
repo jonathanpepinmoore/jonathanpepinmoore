@@ -80,6 +80,9 @@ Pearl Jam Ten Club 1991-present
 
 <p>Morrell Music and Builders First Source Cutris Morrell, Kelly Curtis, and my father were promoter for 8 Pearl Jam shows. Including my graduation show in 2013.</p>
 
+<ul>
+<li>Champaign, IL - April 23rd 2003</>
+
 <h2>EDUCATION</h2>
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
 <p>Stanford Online Liqunia -Graduated 2017-01-01 Computer Science</p>
