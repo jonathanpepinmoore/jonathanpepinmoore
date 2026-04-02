@@ -88,6 +88,8 @@ Pearl Jam Ten Club 1991-present
 <li>John Paul Jones Arena - Charlottesville, VA October 29th 2013</li>
 </ul>
 
+<p>Met Stone Gossard and Jeff Amet. Had a Press Pass</p>
+
 <h2>EDUCATION</h2>
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
 <p>Stanford Online Liqunia -Graduated 2017-01-01 Computer Science</p>
