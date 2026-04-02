@@ -50,7 +50,9 @@ Microsoft Bizspark Graduate. Made a Human Genome Database from flat files from E
 Microsoft US Partner Community
 
 Gold Partner  · 2003 - Present  · Bristol, Virginia
-Made a System Integrator Website for Microsoft Windows. Built MS-DOS 1.22 with Build Disk with MKS Toolkit, Microsoft Windows 1.0 Premiere Edition, 2.11 with OEM Adaptation Kit, RSM-11M, PDP-11 through PDP-11 70, OS/2, VMS, POSIX, Project MICA, Visual Studio 6.0 Enterprise. Visual Studio.NET, UNIX Migration Guide. Shared Source Licensee, Microsoft Windows NT 4.0 (With Dean Harris' Permission) , 2000, XP, 2003, XP, 2009 Embedded w/ Windows Automotive, CE 3.0-2013 with Preinstallation Environment 1.0, Interix with Santa Cruz Operation Source Code. Longhorn Migration Guide using build 4074, Source Server Virtual Appliances. Won Microsoft SQL Server Sales award and have yet to collect sales revenue. Submitted my Visual Style Sample and it shipped. Used Goliath in Remote Installation Services. Worked on Windows 8 Storyboards and Codeplex and .NET 6.0 GA. Using Microsoft Windows Server Deployment Services as a Transport Server and a Vista DDK Windows Management Instrumentation Sample for Image Enumeration. To connect to a Microsoft Corporate Deployment Server. Signed Desktop Application NDA in 2022. Also built the Powershell v7.0 With Visual Studio.NET Disclosures. Bought the Book Hard Drive: Bill Gates Birth of a Microsoft Empire and worked 20 years on a copy of Bill Gates Hard Drive. Using RSTAT Tools for Active Directory and DSQuery.
+<p>Made a System Integrator Website for Microsoft Windows. Built MS-DOS 1.22 with Build Disk with MKS Toolkit, Microsoft Windows 1.0 Premiere Edition, 2.11 with OEM Adaptation Kit, RSM-11M, PDP-11 through PDP-11 70, OS/2, VMS, POSIX, Project MICA, Visual Studio 6.0 Enterprise. Visual Studio.NET, UNIX Migration Guide. Shared Source Licensee, Microsoft Windows NT 4.0 (With Dean Harris' Permission) , 2000, XP, 2003, XP, 2009 Embedded w/ Windows Automotive, CE 3.0-2013 with Preinstallation Environment 1.0, Interix with Santa Cruz Operation Source Code. Longhorn Migration Guide using build 4074, Source Server Virtual Appliances.</p>
+
+<p>Won Microsoft SQL Server Sales award and have yet to collect sales revenue. Submitted my Visual Style Sample and it shipped. Used Goliath in Remote Installation Services. Worked on Windows 8 Storyboards and Codeplex and .NET 6.0 GA. Using Microsoft Windows Server Deployment Services as a Transport Server and a Vista DDK Windows Management Instrumentation Sample for Image Enumeration. To connect to a Microsoft Corporate Deployment Server. Signed Desktop Application NDA in 2022. Also built the Powershell v7.0 With Visual Studio.NET Disclosures. Bought the Book Hard Drive: Bill Gates Birth of a Microsoft Empire and worked 20 years on a copy of Bill Gates Hard Drive. Using RSTAT Tools for Active Directory and DSQuery.</p>
 
 IMDbPro
 
@@ -98,7 +100,7 @@ Pearl Jam Ten Club 1991-present
 <h2>EDUCATION</h2>
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
 <p>Stanford Online Liqunia -Graduated 2017-01-01 Computer Science</p>
-<p>University of Virginia -Graduated 2013-01-01 Computer Science GPA 3.5</p>
+<p>University of Virginia -Graduated 2013-01-01 Computer Science GPA 3.5 in 2025 Joined UVa's Founder Society</p>
 <p>Tennessee Board of Regents -Graduated 2000-01-01 Computer Science GPA 4.0</p>
 <p>Bristol Virginia Public Schools-Graduated 1996-01-01 General Studies GPA 2.8</p>
 <p>Hollins Communinications Sept 11th 1989-April 1990 Lateral Ecusion Lisp with Emily Blunt the Actress</p>
