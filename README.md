@@ -81,7 +81,7 @@ Pearl Jam Ten Club 1991-present
 <p>Morrell Music and Builders First Source Cutris Morrell, Kelly Curtis, and my father were promoter for 5 Pearl Jam shows. Including my graduation show in 2013.</p>
 
 <ul>
-<li>Thompson-Boling Arena - Knoxville, Tennssesse, Sept 06, 1998 [attended]</li>
+<li><a href="https://www.setlist.fm/setlist/pearl-jam/1998/thompson-boling-arena-knoxville-tn-63d61233.html">Thompson-Boling Arena - Knoxville, Tennssesse, Sept 06, 1998</a> [attended]</li>
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2003/assembly-hall-champaign-il-1bd6217c.html">Assembly Hall, Champaign - IL - April 23rd 2003</a></li>
 <li>Wachovia Spectrum - Philadelphia, PA, USA 2009</li>
 <li>Copps Coliseum - Hamilton, ON, Canada 2011</li>
