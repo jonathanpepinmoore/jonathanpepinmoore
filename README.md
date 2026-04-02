@@ -83,6 +83,8 @@ Worked on the movie Artificial Intelligence Website at Flash Kit at a started a 
 <p>Tennessee Board of Regents -Graduated 2000-01-01 Computer Science</p>
 <p>Bristol Virginia Public Schools-Graduated 1996-01-01 General Studies</p>
 <p>Hollins Communinications Sept 11th 1989-April 1990 Lateral Ecusion Lisp with Emily Blunt the Actress</p>
+<p>St. Anne's Catholic School Graduate 1990</p>
+<p>Sullins Academy 1984</p>
 
 CERTIFICATIONS
 <p>Windows 7 Internals</p>
