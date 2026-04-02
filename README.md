@@ -157,6 +157,8 @@ Copyright 2025 Monster.com and Career Builder.
 
 <a href="https://www.forbes.com/sites/dbloom/2021/09/27/hollywood-edges-closer-to-strike-with-cinematographers-vote/">Hollywood Edges Closer To Strike With Cinematographers Vote</a>
 
+<a href="https://channeldrive.in/cloud-computing/perficient-enables-azure-cloud-solutions-for-builders-firstsource/">Perficient Enables Azure Cloud Solutions for Builders FirstSource</a>
+
 <p>Still Single, Thumbing My Way at 48, Up here eating grapes in my toga. Or am I dreaming Katie Kouric. The Peacock's Mating Call.</p>
 
 <h2>Source Server Paths</h2>
