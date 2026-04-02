@@ -39,7 +39,7 @@
 
 Won my Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 System Intergrator Shared Source Contract in 2003
 
-<h3>RSA Fellowship</h3>
+<h3>Royal Society of the Arts Fellowship</h3>
 
 2018 - Present
 
