@@ -87,7 +87,7 @@ Start with the Bash shell and GNUStep, Project Center, Window Maker and the Darw
 
 Visual Effects 2000-present
 
-SGI's Standard Template Library Port.
+SGI's Standard Template Library Port. Used Windows NT 4.0 for MIPS computer architecure and IRIX and had a IBM Aptiva and 3d 3d Labs Oxygen Grapics Card. an a Nintendo 64 with Dev Kit and SDK's.
 
 <h3>Adobe</h3>
 
