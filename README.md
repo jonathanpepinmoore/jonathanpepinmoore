@@ -69,6 +69,8 @@ Silicon Graphics Inc.
 
 Visual Effects 2000-present
 
+SGI's Standard Template Library Port.
+
 Adobe
 
 Non Employee Director  · 1999 - 2017  · San Francisco, California
