@@ -39,7 +39,7 @@ Mom said IQ was around 120 to 140 tested in Atlanta, Ga and tested as a INTJ-T a
 
 Ableton 
 
-Certifited Trainer 2017-2022 Abingdon, Va
+Certifited Trainer 2017-2022 Berlin, Germany
 
 Made five ambient albums and went number one on the Ireland charts. Licenced the PX-118 Source Code.
 
