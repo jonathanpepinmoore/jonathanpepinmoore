@@ -177,19 +177,19 @@ Copyright 2025 Monster.com and Career Builder.
 
 Here is the list of all currently available source server paths. Links are not clickable because these links are only for use in Visual Studio, not in your browser.
 
-<p>Win7 RTM: https://codepremium.msdn.microsoft.com/source/Windows%207/RTM</p>
+<p>Win7 RTM: codepremium.msdn.microsoft.com/source/Windows%207/RTM</p>
 
-<p>Win7 SP1: https://codepremium.msdn.microsoft.com/source/Windows%207/SP1</p>
+<p>Win7 SP1: codepremium.msdn.microsoft.com/source/Windows%207/SP1</p>
 
-<p>W2k8 RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/RTM</p>
+<p>W2k8 RTM: codepremium.msdn.microsoft.com/source/Windows%20Server%202008/RTM</p>
 
-<p>W2k8 Hyper-V-RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/Hyper-V%20RTM</p>
+<p>W2k8 Hyper-V-RTM: codepremium.msdn.microsoft.com/source/Windows%20Server%202008/Hyper-V%20RTM</p>
 
-<p>W2k8 SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/SP2</p>
+<p>W2k8 SP2: codepremium.msdn.microsoft.com/source/Windows%20Server%202008/SP2</p>
 
-<p>W2k8 R2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/R2</p>
+<p>W2k8 R2: codepremium.msdn.microsoft.com/source/Windows%20Server%202008/R2</p>
 
-<p>W2k3 RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/RTM</p>
+<p>W2k3 RTM: codepremium.msdn.microsoft.com/source/Windows%20Server%202003/RTM</p>
 
 <p>W2k3 R2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20R2</p>
 
