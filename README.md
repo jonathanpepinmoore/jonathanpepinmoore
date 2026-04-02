@@ -87,12 +87,12 @@ Start with the Bash shell and GNUStep, Project Center, Window Maker and the Darw
 
 Visual Effects 2000-present
 
-SGI's Standard Template Library Port. Used Windows NT 4.0 for MIPS computer architecure and IRIX and had a IBM Aptiva and 3d Labs Oxygen Grapics Card. an a Nintendo 64 with Dev Kit and SDK's.
+SGI's Standard Template Library Port. Used Windows NT 4.0 for MIPS computer architecure and IRIX and had a IBM Aptiva and 3d Labs Oxygen Grapics Card an a Nintendo 64 with Dev Kit and SDK's.
 
 <h3>Adobe</h3>
 
 Non Employee Director  · 1999 - 2017  · San Francisco, California
-First investmet was at Moors and Cabot for Disney and Macromedia. Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.
+First investment was at Moors and Cabot for Disney and Macromedia. Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.
 
 <h3>Pearl Jam Ten Club</h3>
 
@@ -114,6 +114,7 @@ First investmet was at Moors and Cabot for Disney and Macromedia. Worked on the 
 <p>Met Stone Gossard and Jeff Amet and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
 
 <h2>EDUCATION</h2>
+<p>In the Oxford University Founders Society supporting the new social mobility [old new thing]
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
 <p>Stanford Online Liqunia -Graduated 2017-01-01 Computer Science</p>
 <p>University of Virginia College at Wise -Graduated 2013-01-01 Computer Science GPA 3.5 in 2025 Joined UVa's Founder Society</p>
