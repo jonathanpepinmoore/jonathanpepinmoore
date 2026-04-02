@@ -114,7 +114,8 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <p>Met Stone Gossard and Jeff Amet and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
 
 <h2>EDUCATION</h2>
-<p>In the Oxford University Founders Society supporting the new social mobility now Count Moore [old new thing]
+<p>2026 In the California State Fulerton Founders Society supporting the Myers Briggs</p>
+<p>2026 In the Oxford University Founders Society supporting the new social mobility now Count Moore [old new thing]</p>
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
 <p>Stanford Online Liqunia -Graduated 2017-01-01 Computer Science</p>
 <p>University of Virginia College at Wise -Graduated 2013-01-01 Computer Science GPA 3.5 in 2025 Joined UVa's Founder Society</p>
