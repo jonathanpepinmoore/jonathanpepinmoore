@@ -33,64 +33,67 @@
 
 <h2>The following is CD/DVD date stamped</h2>
 
-Microsoft Imagine Cup 2025
+<h3>Microsoft Imagine Cup 2025</h3>
 
 Won my Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 System Intergrator Shared Source Contract in 2003
 
-RSA Fellowship  · 2018 - Present
+<h3>RSA Fellowship  · 2018 - Present</h3>
+
 
 Mom said IQ was around 120 to 140 tested in Atlanta, Ga and tested as a INTJ-T at 16 Personalities DOI: 10.34218/IJM.11.9.2020.025. NERIS Type Explorer® Scale. That same as Dr. Steven Hawking. Applied for the Genius Act in the United States. Investing in Unisys, HPE, Meta, Alphabet, Microsoft, Adobe, Nintendo, Square Enix, Kasha Saudi Arabia Oil and a Nationwide Mutual Fund. Anne Hathaway the actress and me share the same HLA System or are a DNA Match according to National Geographic and Family Tree DNA transfer. Also share 8 alignments for a healthy relationship. We share three surnames. Was given $99k by Anne Hathaway in to my account and bailed for 2 months because she was going to get in trouble with crypto. We've worked it out. Paid her back $21K for a FBI Movie.
 
-Ableton 
+<h3>Ableton</h3> 
 
 Certified Trainer 2017 - 2022 Berlin, Germany
 
 Made five ambient albums and went #1 on the Ireland charts. Licenced the PX-18 Source Code. Licenced Reason Studios Source Code. Making Vinyl in 2025-2026 at Discmakers. Vero is my music label.
 
-Northrop Grumman Corporation
+<h3>Northrop Grumman Corporation</h3>
 
 Intern engineer  2012 - 2015  · Falls Church, Virginia
 Made a Missile Container with Java and Android. With Secret Security Clearance and NDA. Defends the <a href="https://www.justicecenter.ny.gov/system/files/documents/2020/03/51800-jonathans-law.pdf">Jonathan's law.</a> Conspiracy is a crime unless an agreement is made.
 
-Microsoft for Startups
+<h3>Microsoft for Startups</h3>
 
 Network Partner  2009 - Present  · Abingdon, Virginia
 Microsoft Bizspark Graduate. Made a Human Genome Database from flat files from Esembl in the UK. From Oracle MySQL to Microsoft SQL Server using Microsoft SQL SISS Projects and Microsoft Technical Support. With startup tenure in the contract. Bought 6 MSDN Subscriptions and have $14.4 million in licensing value. Possible net worth used for capital or inventory spending. cached the Microsoft's Code Plex and organizing it.
 
-Microsoft US Partner Community
+<h3>Microsoft US Partner Community</h3>
 
 Gold Partner  · 2003 - Present  · Bristol, Virginia
 <p>Made a System Integrator Website for Microsoft Windows. Built MS-DOS 1.22 with Build Disk with MKS Toolkit, Microsoft Windows 1.0 Premiere Edition, 2.11 with OEM Adaptation Kit, RSM-11M, PDP-11 through PDP-11 70, OS/2, VMS, POSIX, Project MICA, Visual Studio 6.0 Enterprise. Visual Studio.NET, UNIX Migration Guide. Shared Source Licensee, Microsoft Windows NT 4.0 (With Dean Harris' Permission) , 2000, XP, 2003, XP, 2009 Embedded w/ Windows Automotive, CE 3.0-2013 with Preinstallation Environment 1.0, Interix with Santa Cruz Operation Source Code. Longhorn Migration Guide using build 4074, Source Server Virtual Appliances.</p>
 
 <p>Won Microsoft SQL Server Sales award and have yet to collect sales revenue. Submitted my Visual Style Sample and it shipped. Used Goliath in Remote Installation Services. Worked on Windows 8 Storyboards and Codeplex and .NET 6.0 GA. Using Microsoft Windows Server Deployment Services as a Transport Server and a Vista DDK Windows Management Instrumentation Sample for Image Enumeration. To connect to a Microsoft Corporate Deployment Server. Signed Desktop Application NDA in 2022. Also built the Powershell v7.0 With Visual Studio.NET Disclosures. Bought the Book Hard Drive: Bill Gates Birth of a Microsoft Empire and worked 20 years on a copy of Bill Gates Hard Drive. Using RSTAT Tools for Active Directory and DSQuery.</p>
 
-IMDbPro
+<h3>IMDbPro</h3>
 
 Animator  · 2001 - 2014  · Los Angeles, California
 Artificial Intelligence, Finding Nemo,
 
-FreeBSD Foundation
+<h3>FreeBSD Foundation</h3>
 
 System Builder  · 2001 - Present
 Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeBSD and NetBSD on a 1996 IBM Aptiva, Mac Pro 2008 running Mac OS X Snow Leopard and Lion, HP Intel i7 12 Core for x86 and use Oracle Virtual Box to build UNIX-Like Appliances with the Common Desktop Environment without XQuartz with the Cairo Dock, Sourceware's Cygwin and Microsoft's and ECMA's Shared Source Common Language Infrastructure 1.0 For FreeBSD and Gyro Generics and now on a Mac Pro 2024 M3 ARM64 Platform 8 TB SSD. and a 2025 Windows 11 IoT LTSC Digital Storm PC. x2 20 TB SSD's 100 TB Orico In support until 2040. I use premade appliances from FreeBSD to be a committer. iPhone 14 Max in support until 2029 contract at Verizon. I build FreeBSD using bmake on macOS.
 
-Apple Computer
+<h3>Apple Computer</h3>
 
 Software Developer  · 2001 - Present
 Start with the Bash shell and GNUStep, Project Center, Window Maker and the Darwin SDK the project files-files. Licensed Quicktime Source Code.
 
-Silicon Graphics Inc.
+<h3>Silicon Graphics Inc.</h3>
 
 Visual Effects 2000-present
 
 SGI's Standard Template Library Port.
 
-Adobe
+<h3>Adobe</h3>
 
 Non Employee Director  · 1999 - 2017  · San Francisco, California
 Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.
 
-Pearl Jam Ten Club 1991-present
+<h3>Pearl Jam Ten Club</h3>
+
+1991-present
 
 <p>Morrell Music and Builders First Source Cutris Morrell, Kelly Curtis, and my father were promoter for 8 Pearl Jam shows. Including my graduation show in 2013.</p>
 
