@@ -45,12 +45,12 @@ Made five ambient albums and went number one on the Ireland charts. Licenced the
 
 Northrop Grumman Corporation
 
-Intern engineer  · 2012 - 2015  · Falls Church, Virginia
+Intern engineer  2012 - 2015  · Falls Church, Virginia
 Made a Missile Container with Java and Android. With Secret Security Clearance and NDA. Defends the <a href="https://www.justicecenter.ny.gov/system/files/documents/2020/03/51800-jonathans-law.pdf">Jonathan's law.</a> Conspiracy is a crime unless an agreement is made.
 
 Microsoft for Startups
 
-Network Partner  · 2009 - Present  · Abingdon, Virginia
+Network Partner  2009 - Present  · Abingdon, Virginia
 Microsoft Bizspark Graduate. Made a Human Genome Database from flat files from Esembl in the UK. From Oracle MySQL to Microsoft SQL Server using Microsoft SQL SISS Projects and Microsoft Technical Support. With startup tenure in the contract. Bought 6 MSDN Subscriptions and have $14.4 million in licensing value. Possible net worth used for capital or inventory spending. cached the Microsoft's Code Plex and organizing it.
 
 Microsoft US Partner Community
