@@ -90,6 +90,7 @@ Pearl Jam Ten Club 1991-present
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2013/john-paul-jones-arena-charlottesville-va-3bc754f4.html">John Paul Jones Arena - Charlottesville, VA October 29th 2013</a></li>
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2016/wells-fargo-center-philadelphia-pa-13f13119.html">Wells Fargo Center, Philadelphia, PA, USA North American Tour 2016</a></li>
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2022/firstontario-centre-hamilton-on-canada-13b08999.html">FirstOntario Centre, Hamilton, ON, Canada 2022</a></li>
+<li><a href="https://www.setlist.fm/setlist/pearl-jam/2025/lenovo-center-raleigh-nc-3b5fcc0c.html">Lenovo Center, Raleigh, NC, USA 2025</a></li>
 </ul>
 
 <p>Met Stone Gossard and Jeff Amet and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
