@@ -145,9 +145,9 @@ Copyright 2025 Monster.com and Career Builder.
 
 <p>Still Single, Thumbing My Way at 48</p>
 
-<img src="./images/building windows.gif">
+<!--<img src="./images/building windows.gif">
 
-<!--<video>
+<video>
   <source src="3211065649066898.mp4" type="video/mp4">
 </video>-->
 
