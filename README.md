@@ -124,7 +124,7 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <p>St. Anne's Catholic School Graduate 1990</p>
 <p>Sullins Academy 1984</p>
 
-<h2>Socities</h2>
+<h2>SOCITIES</h2>
 <p>2026 Joined California State Fulerton Founders Society supporting the Myers Briggs</p>
 <p>2026 Joined Oxford University Founders Society supporting the new social mobility now Count Moore [old new thing]</p>
 <p>2025 Joined UVa's Founder Society</p>
