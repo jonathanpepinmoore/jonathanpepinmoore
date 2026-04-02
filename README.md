@@ -100,6 +100,8 @@ CERTIFICATIONS
 
 Copyright 2025 Monster.com and Career Builder.
 
+<a href="https://answersingenesis.org/charles-darwin/was-charles-darwin-a-christian/?srsltid=AfmBOopbfhvw0dEGEJLQF7oR_ruSeIImbwqDaXdQfxI_P1rvUBxSe1yZ">Was Charles Darwin a Christian?</a>
+
 <img src="./images/building windows.gif">
 
 <video>
