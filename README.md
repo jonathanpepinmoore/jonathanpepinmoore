@@ -41,7 +41,7 @@ Ableton
 
 Certifited Trainer 2017-2022 Berlin, Germany
 
-Made five ambient albums and went number one on the Ireland charts. Licenced the PX-118 Source Code.
+Made five ambient albums and went number one on the Ireland charts. Licenced the PX-18 Source Code.
 
 Northrop Grumman Corporation
 
