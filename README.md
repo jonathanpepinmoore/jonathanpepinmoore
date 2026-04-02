@@ -82,7 +82,7 @@ Pearl Jam Ten Club 1991-present
 
 <ul>
 <li>Thompson-Boling Arena - Knoxville, Tennssesse, Sept 06, 1998 [attended]</li>
-<li>Assembly Hall, Champaign - IL - April 23rd 2003</li>
+<li><a href="https://www.setlist.fm/setlist/pearl-jam/2003/assembly-hall-champaign-il-1bd6217c.html">Assembly Hall, Champaign - IL - April 23rd 2003</a></li>
 <li>Wachovia Spectrum - Philadelphia, PA, USA 2009</li>
 <li>Copps Coliseum - Hamilton, ON, Canada 2011</li>
 <li>John Paul Jones Arena - Charlottesville, VA October 29th 2013</li>
