@@ -88,7 +88,7 @@ Pearl Jam Ten Club 1991-present
 <li>John Paul Jones Arena - Charlottesville, VA October 29th 2013</li>
 </ul>
 
-<p>Met Stone Gossard and Jeff Amet. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end.</p>
+<p>Met Stone Gossard and Jeff Amet and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a mean security guard.</p>
 
 <h2>EDUCATION</h2>
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
