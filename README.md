@@ -96,7 +96,7 @@ CERTIFICATIONS
 <p>I have a driver’s license</p>
 <p>I have a security clearance</p>
 
-<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the Virginia Joint Commission for discrimination and misdiagnosis, and missed opportunity at Stanford and Oxford University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash.</p>
+<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the Virginia Joint Commission for discrimination and misdiagnosis, and missed opportunity at Stanford and Oxford University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash. Never told Dr. Barash my grades and the game theroy trick was played on me to agree to disagree. </p>
 
 <p>Also housing discrimination against a Royal Society of the Arts lifetime fellow and career negligence on the part of the democratic party. I paid my tuition, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the academic journals to be avaible to the homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash $3K to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting one home and I rent. When I was furniture porter I paid for my families dinning room suit and living room. Now I rent and I've paid for everything in my apt. Including the den and bedroom suit and office equipment.</p>-->
 
@@ -104,7 +104,7 @@ CERTIFICATIONS
 
 Copyright 2025 Monster.com and Career Builder.
 
-<a href="https://answersingenesis.org/charles-darwin/was-charles-darwin-a-christian/?srsltid=AfmBOopbfhvw0dEGEJLQF7oR_ruSeIImbwqDaXdQfxI_P1rvUBxSe1yZ">Was Charles Darwin a Christian?</a>
+<a href="https://answersingenesis.org/charles-darwin/was-charles-darwin-a-christian">Was Charles Darwin a Christian?</a>
 
 <img src="./images/building windows.gif">
 
