@@ -81,9 +81,9 @@ Worked on the movie Artificial Intelligence Website at Flash Kit at a started a 
 <h2>EDUCATION</h2>
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
 <p>Stanford Online Liqunia -Graduated 2017-01-01 Computer Science</p>
-<p>University of Virginia -Graduated 2004-01-01 Computer Science</p>
-<p>Tennessee Board of Regents -Graduated 2000-01-01 Computer Science</p>
-<p>Bristol Virginia Public Schools-Graduated 1996-01-01 General Studies</p>
+<p>University of Virginia -Graduated 2004-01-01 Computer Science GPA 3.5</p>
+<p>Tennessee Board of Regents -Graduated 2000-01-01 Computer Science GPA 4.0</p>
+<p>Bristol Virginia Public Schools-Graduated 1996-01-01 General Studies GPA 2.8</p>
 <p>Hollins Communinications Sept 11th 1989-April 1990 Lateral Ecusion Lisp with Emily Blunt the Actress</p>
 <p>St. Anne's Catholic School Graduate 1990</p>
 <p>Sullins Academy 1984</p>
@@ -96,7 +96,7 @@ CERTIFICATIONS
 <p>I have a driver’s license</p>
 <p>I have a security clearance</p>
 
-<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the Virginia Joint Commission for discrimination and misdiagnosis, and missed opportunity at Stanford and Oxford University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash. Never told Dr. Barash my grades and the game theroy trick was played on me to agree to disagree. </p>
+<p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the Virginia Joint Commission for discrimination and misdiagnosis, and missed opportunity at Stanford and Oxford University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash. Never told Dr. Barash my grades and the game theroy trick was played on me to agree to disagree.</p>
 
 <p>Also housing discrimination against a Royal Society of the Arts lifetime fellow and career negligence on the part of the democratic party. I paid my tuition, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the academic journals to be avaible to the homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash $3K to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting one home and I rent. When I was furniture porter I paid for my families dinning room suit and living room. Now I rent and I've paid for everything in my apt. Including the den and bedroom suit and office equipment.</p>-->
 
