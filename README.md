@@ -21,7 +21,7 @@
 
 <p>My DNA Match is Anne Hathaway the Actress. I know this from paying $1k in DNA Testing. I took Advanced Placement Biology in High School a College Course.</p>-->
 
-<p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same personality and Dr. Steven Hawking. Bought a Harvard University Press book on how to fund a bank. In 2025 with Anne Hathaway the actress.</p><a href="https://vero.co/">Vero</a>
+<p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same personality and Dr. Steven Hawking. Bought a Harvard University Press book on how to fund a bank. In 2025 with Anne Hathaway the actress.</p><a href="https://vero.co/"> Verified Vero</a> the Anti-Facebook
 
 <!--<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergradute degree in computer science becuase of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Sowehere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
 
@@ -43,7 +43,7 @@ Made a Missile Container with Java and Android. With Secret Security Clearance a
 Microsoft for Startups
 
 Network Partner  · 2009 - Present  · Abingdon, Virginia
-Microsoft Bizspark Graduate. Made a Human Genome Database from flat files from Esembl in the UK. From Oracle MySQL to Microsoft SQL Server using Microsoft SQL SISS Projects and Microsoft Technical Support. With startup tenure in the contract. Bought 6 MSDN Subscriptions and have $14.4 million in licensing value. Possible net worth used for capital or inventory spending.
+Microsoft Bizspark Graduate. Made a Human Genome Database from flat files from Esembl in the UK. From Oracle MySQL to Microsoft SQL Server using Microsoft SQL SISS Projects and Microsoft Technical Support. With startup tenure in the contract. Bought 6 MSDN Subscriptions and have $14.4 million in licensing value. Possible net worth used for capital or inventory spending. cached the Microsoft's Code Plex and organizing it.
 
 Microsoft US Partner Community
 
