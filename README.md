@@ -171,6 +171,51 @@ Copyright 2025 Monster.com and Career Builder.
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 
+<h2>Source Server Paths</h2>
+
+(Thanks again to C++ MVP Jonathan David Allen Moore for providing this list.)
+
+Here is the list of all currently available source server paths. Links are not clickable because these links are only for use in Visual Studio, not in your browser.
+
+Win7 RTM: https://codepremium.msdn.microsoft.com/source/Windows%207/RTM
+
+Win7 SP1: https://codepremium.msdn.microsoft.com/source/Windows%207/SP1
+
+W2k8 RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/RTM
+
+W2k8 Hyper-V-RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/Hyper-V%20RTM
+
+W2k8 SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/SP2
+
+W2k8 R2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202008/R2
+
+W2k3 RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/RTM
+
+W2k3 R2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20R2
+
+W2k3 SP1: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP1%20RTM
+
+W2k3 SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP2%20RTM
+
+Vista RTM: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/RTM
+
+Vista SP1: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/SP1
+
+Vista SP2: https://codepremium.msdn.microsoft.com/source/Windows%20Vista/SP2
+
+XP RTM: https://codepremium.msdn.microsoft.com/source/windows%20XP/RTM
+
+XP SP1: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP1
+
+XP SP2: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP2
+
+XP SP3: https://codepremium.msdn.microsoft.com/source/windows%20XP/SP3
+
+W2k Datacenter RTM: https://codepremium.msdn.microsoft.com/source/Windows%202000/Datacenter%20RTM
+
+W2k SP3: https://codepremium.msdn.microsoft.com/source/Windows%202000/SP3
+
+W2k SP4: https://codepremium.msdn.microsoft.com/source/Windows%202000/SP4
 <!--<ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
 <li><a target="_self" href="https://opensource.adobe.com/cla.html">Adobe CLA</a></li>
