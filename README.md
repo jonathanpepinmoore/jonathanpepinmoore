@@ -157,7 +157,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <a href="https://www.forbes.com/sites/dbloom/2021/09/27/hollywood-edges-closer-to-strike-with-cinematographers-vote/">Hollywood Edges Closer To Strike With Cinematographers Vote</a>
 
-<p>Still Single, Thumbing My Way at 48, Up here eating grapes in my toga. Or am I dreaming Katie Kouric.</p>
+<p>Still Single, Thumbing My Way at 48, Up here eating grapes in my toga. Or am I dreaming Katie Kouric. The Peacock's Mating Call.</p>
 
 <h2>Source Server Paths</h2>
 
@@ -217,7 +217,7 @@ XP SP3: codepremium.msdn.microsoft.com/source/windows%20XP/SP3</p>
 
 <img src="./images/Untitled.png">
 
-<h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
+<h2>Every Microsoft Windows Release, SDK, DDK, and Symbols; Worlking on a build server with every build.<h2>
 
 <!--<ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
