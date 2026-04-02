@@ -25,6 +25,8 @@
 
 <p>Reading becoming a ethical hacker by O'Riley Media Set up a Metasploitable Vitrual Machine. Don't support the MIT Media lab and their metadata dept on the internet.</p>
 
+<a href="https://blogs.microsoft.com/datalaw/initiative/legal-cases/microsofts-search-warrant-case/">Legal cases: Microsoft’s Search Warrant Case</a>
+
 <a href="https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-create-new-tenant">Set up a new Microsoft Entra tenant</a>
 <a href="https://github.com/windowsdevops">Windows DevopOps</a>
 <a href="https://github.com/icsharpcode/ilspy">ILSpy; Some Transparency</a>
