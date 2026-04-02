@@ -5,7 +5,7 @@
 <h2>Jonathan David Allen Moore</h2>
 <p>jonathanmoore@computer.org | jonathanmoore@sphinxlogic.onmicrosoft.com | https://sphinxlogic.visualstudio.com | Reston, Va, US | +1 276-696-1163<p></p>
 
-<h2>PROFESSIONAL SUMMARY</h2>
+<!--<h2>PROFESSIONAL SUMMARY</h2>
 
 <p>I'm a 47-year-old Royal Society of the Arts Fellow, with $20 Million in M&A equity from Mishibushi Financial in Japan. I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infostructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Intelligence for Steven Spielberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Ambient Music for 8 weeks straight. In 2001 I was featured on CNN's by Aaron Brown at Macromedia as a Child Celebrity. I was mailed a Harvard University Social Sciences Application my Microsoft David Cutler. I'm suing McClure Racing for the Book. <a href="https://www.amazon.com/Hacking-Exposed-Windows-Microsoft-Solutions/dp/007149426X">'Hacking Windows'</a> Morgan McClure Racing hacked my Windows 2000 Theme to a contrast theme my the receiving Dr never took a Contrast MRI until 2018.</p> 
 
@@ -19,47 +19,56 @@
 
 <p>In 2003 I revieved my first millionaire statement from Edward Jones. I was 30 under 30 in my area. My first Cd-R application was Roxio From TiVo Corporation in 1986. I learned CoralDRAW At TCAT in 1999. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, Cannot put my personality profile online because of CIA takedown notices. University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecture. I live in Bristol, Va the Birthplace of country music and my family owns two homes. Lived in Jamestown, Va as a child. Passed the CIA PAS System in 1984 at Sullins Academy. All official paperwork in email and and print on past and present corporate accounts. My father approved of all of my paperwork. </p>
 
-<p>My DNA Match is Anne Hathaway the Actress. I know this from paying $1k in DNA Testing. I took Advanced Placement Biology in High School a College Course.</p>
+<p>My DNA Match is Anne Hathaway the Actress. I know this from paying $1k in DNA Testing. I took Advanced Placement Biology in High School a College Course.</p>-->
 
 <p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same mind and personality and Dr. Steven Hawking.</p>
 
-<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergradute degree in computer science becuase of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Sowehere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
+<--<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergradute degree in computer science becuase of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Sowehere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
 
-<p>I've filed a lawsuit with the Microsoft Legal about the the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>
+<p>I've filed a lawsuit with the Microsoft Legal about the the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>-->
 
 <h2>CAREER HISTORY</h2>
+
 RSA Fellowship  · 2018 - Present
+
 Mom said IQ was around 120 to 140 tested in Atlanta, Ga and tested as a INTJ-T at 16 Personalities DOI: 10.34218/IJM.11.9.2020.025. NERIS Type Explorer® Scale. That same as Dr. Steven Hawking. Applied for the Genius Act in the United States. Investing in Unisys, HPE, Meta, Alphabet, Microsoft, Adobe, Nintendo, Square Enix, Kasha Saudi Arabia Oil and a Nationwide Mutual Fund. Anne Hathaway the actress and me share the same HLA System or are a DNA Match according to National Geographic and Family Tree DNA transfer. Also share 8 alignments for a healthy relationship. We share three surnames. Was given $99k by Anne Hathaway in to my account and bailed for 2 months because she was going to get in trouble with crypto. We've worked it out. Paid her back $21K for a FBI Movie.
 
 Northrop Grumman Corporation
+
 Intern engineer  · 2012 - 2015  · Falls Church, Virginia
 Made a Missile Container with Java and Android. With Secret Security Clearance and NDA. Defends the 'Jonathan' law. Conspiracy is a crime unless an agreement is made.
 
 Microsoft for Startups
+
 Network Partner  · 2009 - Present  · Abingdon, Virginia
 Microsoft Bizspark Graduate. Made a Human Genome Database from flat files from Esembl in the UK. From Oracle MySQL to Microsoft SQL Server using Microsoft SQL SISS Projects and Microsoft Technical Support. With startup tenure in the contract. Bought 6 MSDN Subscriptions and have $14.4 million in licensing value. Possible net worth used for capital or inventory spending.
 
 Microsoft US Partner Community
+
 Gold Partner  · 2003 - Present  · Bristol, Virginia
 Made a System Integrator Website for Microsoft Windows. Built MS-DOS 1.22 with Build Disk with MKS Toolkit, Microsoft Windows 1.0 Premiere Edition, 2.11 with OEM Adaptation Kit, RSM-11M, PDP-11 through PDP-11 70, OS/2, VMS, POSIX, Project MICA, Visual Studio 6.0 Enterprise. Visual Studio.NET, UNIX Migration Guide. Shared Source Licensee, Microsoft Windows NT 4.0 (With Dean Harris' Permission) , 2000, XP, 2003, XP, 2009 Embedded w/ Windows Automotive, CE 3.0-2013 with Preinstallation Environment 1.0, Interix with Santa Cruz Operation Source Code. Longhorn Migration Guide using build 4074, Source Server Virtual Appliances. Won Microsoft SQL Server Sales award and have yet to collect sales revenue. Submitted my Visual Style Sample and it shipped. Used Goliath in Remote Installation Services. Worked on Windows 8 Storyboards and Codeplex and .NET 6.0 GA. Using Microsoft Windows Server Deployment Services as a Transport Server and a Vista DDK Windows Management Instrumentation Sample for Image Enumeration. To connect to a Microsoft Corporate Deployment Server. Also built the Powershell v7.0 With Visual Studio.NET Disclosures. Bought the Book Hard Drive: Bill Gates Birth of a Microsoft Empire and worked 20 years on a copy of Bill Gates Hard Drive.
 
 IMDbPro
+
 Animator  · 2001 - 2014  · Los Angeles, California
 Artificial Intelligence, Finding Nemo,
 
 FreeBSD Foundation
+
 System Builder  · 2001 - Present
 Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeBSD and NetBSD on a 1996 IBM Aptiva, Mac Pro 2008 running Mac OS X Snow Leopard and Lion, HP Intel i7 12 Core for x86 and use Oracle Virtual Box to build UNIX-Like Appliances with the Common Desktop Environment without XQuartz with the Cairo Dock, Sourceware's Cygwin and Microsoft's and ECMA's Shared Source Common Language Infrastructure 1.0 For FreeBSD and Gyro Generics and now on a Mac Pro 2024 M3 ARM64 Platform 8 TB SSD. and a 2025 Windows 11 IoT LTSC Digital Storm PC. x2 20 TB SSD's 100 TB Orico In support until 2040. I use premade appliances from FreeBSD to be a committer. iPhone 14 Max in support until 2029 contract at Verizon. I build FreeBSD using bmake on macOS.
 
-Apple
+Apple Computer
+
 Software Developer  · 2001 - Present
 Start with the Bash shell and GNUStep, Project Builder and the Darwin SDK the project files-files. Licensed Quicktime Source Code.
 
 Adobe
+
 Non Employee Director  · 1999 - 2017  · San Francisco, California
 Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.
-Shared with Public
-git@github.com:jonathanpepinmoore/jonathanpepinmoore.git
+
+
 
 <h2>EDUCATION</h2>
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
@@ -72,15 +81,15 @@ CERTIFICATIONS
 <p>Windows 7 Internals</p>
 <p>Lifetime Windows Internals Trainsec</p>
 
-ABOUT ME
+<!--ABOUT ME
 <p>I have a driver’s license</p>
 <p>I have a security clearance</p>
 
 <p>Spoke with Microsoft Legal about indenity theft in my community and in Hollywood and the Virginia Joint Commission for discrimination and misdiagnosis, and missed opportunity at Stanford and Oxford University because of community service board employees in Virginia at Microsoft Legal. I've also spoke with Microsoft Legal about my normal contrast MRI and lawsuit against Morgan Maclure racing and SWVAMHI Dr. Barash.</p>
 
-<p>Also housing discrimination against a Royal Society of the Arts lifetime fellow and career negligence on the part of the democratic party. I paid my tuition, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the academic journals to be avaible to the homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash $3K to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting one home and I rent. When I was furniture porter I paid for my families dinning room suit and living room. Now I rent and I've paid for everything in my apt. Including the den and bedroom suit and office equipment.</p>
+<p>Also housing discrimination against a Royal Society of the Arts lifetime fellow and career negligence on the part of the democratic party. I paid my tuition, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the academic journals to be avaible to the homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash $3K to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting one home and I rent. When I was furniture porter I paid for my families dinning room suit and living room. Now I rent and I've paid for everything in my apt. Including the den and bedroom suit and office equipment.</p>-->
 
-<p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama</p>
+<p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama.</p>
 
 Copyright 2025 Monster.com and Career Builder.
 
