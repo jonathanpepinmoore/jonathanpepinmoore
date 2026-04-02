@@ -85,7 +85,7 @@ Pearl Jam Ten Club 1991-present
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2003/assembly-hall-champaign-il-1bd6217c.html">Assembly Hall, Champaign - IL - April 23rd 2003</a></li>
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2009/wachovia-spectrum-philadelphia-pa-1bd7c9c0.html">Wachovia Spectrum - Philadelphia, PA, USA 2009</a></li>
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2011/copps-coliseum-hamilton-on-canada-3d029df.html">Copps Coliseum - Hamilton, ON, Canada 2011</a></li>
-<li>John Paul Jones Arena - Charlottesville, VA October 29th 2013</li>
+<li><a href="https://www.setlist.fm/setlist/pearl-jam/2013/john-paul-jones-arena-charlottesville-va-3bc754f4.html">John Paul Jones Arena - Charlottesville, VA October 29th 2013</a></li>
 </ul>
 
 <p>Met Stone Gossard and Jeff Amet and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
