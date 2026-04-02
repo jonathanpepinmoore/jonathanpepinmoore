@@ -41,7 +41,7 @@ Ableton
 
 Certifited Trainer 2017-2022 Berlin, Germany
 
-Made five ambient albums and went number one on the Ireland charts. Licenced the PX-18 Source Code.
+Made five ambient albums and went number one on the Ireland charts. Licenced the PX-18 Source Code. Making Vinyl in 2025-2026 at Discmakers. Vero is my music lable.
 
 Northrop Grumman Corporation
 
