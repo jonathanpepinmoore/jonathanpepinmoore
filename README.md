@@ -82,7 +82,7 @@ Worked on the movie Artificial Intelligence Website at Flash Kit at a started a 
 
 Pearl Jam Ten Club 1991-present
 
-<p>Morrell Music and Builders First Source Cutris Morrell, Kelly Curtis, and my father were promoter for 5 Pearl Jam shows. Including my graduation show in 2013.</p>
+<p>Morrell Music and Builders First Source Cutris Morrell, Kelly Curtis, and my father were promoter for 8 Pearl Jam shows. Including my graduation show in 2013.</p>
 
 <ul>
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/1998/thompson-boling-arena-knoxville-tn-63d61233.html">Thompson-Boling Arena - Knoxville, Tennssesse, Sept 06, 1998</a> [attended]</li>
