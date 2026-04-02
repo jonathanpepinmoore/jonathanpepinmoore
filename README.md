@@ -23,6 +23,9 @@
 
 <p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same personality and Dr. Steven Hawking. Bought a Harvard University Press book on how to fund a bank. In 2025 with Anne Hathaway the actress.</p><a href="https://vero.co/"> Verified Vero</a> the Anti-Facebook. Finishing a 2003 Microsoft help case of turning HXS files into online documentation project scope may still be too large. Finishing my BYO Computer Science and Infomation Technology Code Center Preimium from the years 1968 to Present. With my B in Infomation Security, A in Pychology, A in Sociology. I believe ethical hacking of Igor Sakhnov of Microsoft is just and not wasting your life programming the debug help just signing Microsoft's Master Source Code Agreement. The university graduation rule and public education law is 8 complete semesters. On the waiting list at New Beginings in Santa Barbra, California. With $5 million in housing vouchers. Researching why INTJ's don't like ordinary people.</p>
 
+<p>Reading becoming a ethical hacker by O'Riley Media Set up a Metasploitable Vitrual Machine. Don't support the MIT Media lab and their metadata dept on the internet.</p>
+
+<a href="https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-create-new-tenant">Set up a new Microsoft Entra tenant</a>
 <a href="https://github.com/windowsdevops">Windows DevopOps</a>
 <a href="https://github.com/icsharpcode/ilspy">ILSpy; Some Transparency</a>
 
