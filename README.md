@@ -29,6 +29,8 @@
 
 <p><a href="https://thirdpartysource.microsoft.com/">Third Party Disclosures</a></p>
 
+<p>Your first step is to set up Git For Windows the Microsoft Way from the Disclousures</p>
+
 <p>Reading becoming a ethical hacker by O'Riley Media Set up a Metasploitable Vitrual Machine. Don't support the MIT Media lab and their metadata dept on the internet.</p>
 
 <p><a href="https://blogs.microsoft.com/datalaw/initiative/legal-cases/microsofts-search-warrant-case/">Legal cases: Microsoft’s Search Warrant Case</a></p>
