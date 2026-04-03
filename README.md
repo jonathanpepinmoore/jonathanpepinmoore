@@ -27,9 +27,9 @@
 
 <p><a href="https://blogs.microsoft.com/datalaw/initiative/legal-cases/microsofts-search-warrant-case/">Legal cases: Microsoft’s Search Warrant Case</a></p>
 
-<p>The Windows Repository is here <a href="http://microsoft.visualstudio.com">http://microsoft.visualstudio.com</a>You need a Personal Access Token</p>
+<p>The Windows Repository is here <a href="http://microsoft.visualstudio.com">http://microsoft.visualstudio.com</a> You need a Personal Access Token</p>
 
-<p><href="https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows">Personal Access Token</a>
+<p><a href="https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows">Personal Access Token</a>
 
 <p><a href="https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-create-new-tenant">Set up a new Microsoft Entra tenant</a></p>
 <p><a href="https://github.com/windowsdevops">Windows DevopOps</a></p>
