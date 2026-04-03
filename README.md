@@ -219,7 +219,7 @@ XP SP3: codepremium.msdn.microsoft.com/source/windows%20XP/SP3</p>
 
 <img src="./images/Untitled.png">
 
-<h2>Every Microsoft Windows Release, SDK, DDK, and Symbols; Working on a build server with every build.<h2>
+<h2>Every Microsoft Windows Release, SDK, DDK, and Symbols; 1.63 TB Working on a build server with every build.<h2>
 
 <!--<ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
