@@ -172,7 +172,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <a href="https://channeldrive.in/cloud-computing/perficient-enables-azure-cloud-solutions-for-builders-firstsource/">Perficient Enables Azure Cloud Solutions for Builders FirstSource</a>
 
-<p>Still Single, Thumbing My Way at 48, Up here eating grapes in my toga. Or am I dreaming Katie Kouric. The Peacock's Mating Call.</p>
+<p>Still Single, at 48, </p>
 
 <h2>Source Server Paths</h2>
 
