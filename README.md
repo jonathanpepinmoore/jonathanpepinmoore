@@ -48,6 +48,11 @@
 <p><a href="https://github.com/windowsdevops">Windows DevOps</a></p>
 <p><a href="https://github.com/icsharpcode/ilspy">ILSpy; Some Transparency</a></p>
 
+<h2>Games></h2>
+<ul>
+  <li><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 Operating System</a></p></li>
+</ul>
+
 <p><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 Operating System</a></p>
 
 <p><a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a></p>
