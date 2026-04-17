@@ -48,7 +48,7 @@
 <p><a href="https://github.com/windowsdevops">Windows DevOps</a></p>
 <p><a href="https://github.com/icsharpcode/ilspy">ILSpy; Some Transparency</a></p>
 
-<h2>Games></h2>
+<h2>Games</h2>
 <ul>
   <li><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 Operating System</a></p></li>
   <li><a href="https://ultra64.ca/resources/software/">Nindendo 64 SDK's</a></p></li>
