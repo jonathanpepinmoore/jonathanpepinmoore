@@ -50,7 +50,7 @@
 <p><a href="https://github.com/windowsdevops">Windows DevOps</a></p>
 <p><a href="https://github.com/icsharpcode/ilspy">ILSpy; Some Transparency</a></p>
 
-<h2>Games</h2>
+<h2>Operating Systems and Games</h2>
 <ul>
   <li><a href="https://archive.org/details/win-95-osr-2">Microsoft Windows 95</a></p></li>
   <li><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 & Cube Operating System</a></p></li>
