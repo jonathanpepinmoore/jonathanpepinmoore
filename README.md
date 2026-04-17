@@ -50,7 +50,7 @@
 
 <h2>Games</h2>
 <ul>
-  <li><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 Operating System</a></p></li>
+  <li><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 & Cube Operating System</a></p></li>
   <li><a href="https://ultra64.ca/resources/software/">Nintendo 64 SDK's</a></p></li>
 </ul>
 
