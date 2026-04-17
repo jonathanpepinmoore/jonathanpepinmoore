@@ -27,11 +27,11 @@
 
 <p><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a><p>
 
+<p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
+
 <p><a href="https://ftp.zx.net.nz/pub/mirror/ftp.hp.com/">HP Freeware</a></p>
 
 <p><a href="https://ftp.zx.net.nz/pub/mirror/sgi-freeware/">SGI IRIX Freeware</a></p>
-
-<p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
 
 <p><a href="https://www.microsoft.com/en-us/securityengineering/gsp?msockid=312bc345a4a06dbc26e6d530a50e6c4c">Government Security Program</a></p>
 
