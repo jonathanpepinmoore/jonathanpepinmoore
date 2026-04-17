@@ -56,7 +56,7 @@
   <li><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 & Cube Operating System</a></p></li>
   <li><a href="https://ultra64.ca/resources/software/">Nintendo 64 SDK's</a></p></li>
   <li><a href="https://github.com/windowsdevops/Microsoft-Windows-NT-4.0-Source-Kit">Windows NT 4.0 Source KIt</a></p></li>
-  <li><a href="https://github.com/windowsdevops/Microsoft-Windows-Server-2003-Source-Kit">Windows Server 2003 Sourcve KIt</a></p></li>
+  <li><a href="https://github.com/windowsdevops/Microsoft-Windows-Server-2003-Source-Kit">Windows Server 2003 Source Kit</a></p></li>
   <li><a href="https://archive.org/download/GamecubeCollectionByGhostware">Nintendo Game Cube Games</a></p></li>
   <li><a href="https://www.gc-forever.com/wiki/index.php?title=Main_Page">Game Cube Forever Wiki</a></p></li>
   <li><a href="https://games.softpedia.com/get/Tools/Gamecube-ISO-Tool.shtml">Game Cube ISO Tool</a></p></li>
