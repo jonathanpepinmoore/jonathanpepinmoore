@@ -25,7 +25,9 @@
 
 <p>It is just your BYO Code Center Priemium and a lot of Knowledge Work stay in school. Or you can go to a <a href="https://learn.microsoft.com/en-us/security/engineering/onlinesources">Microsoft Transpanency Center</a> which I'm trying to make with the Windows Internals Suplement Series.</p>
 
-<p><a href="https://ftp.zx.net.nz/pub/mirror/sgi-freeware/">SGI IRIX Freeware</a>a>
+<p><a href="https://ftp.zx.net.nz/pub/mirror/ftp.hp.com/">HP Freeware</a></p>
+
+<p><a href="https://ftp.zx.net.nz/pub/mirror/sgi-freeware/">SGI IRIX Freeware</a></p>
 
 <p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
 
