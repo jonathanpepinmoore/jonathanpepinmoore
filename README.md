@@ -55,6 +55,7 @@
   <li><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 & Cube Operating System</a></p></li>
   <li><a href="https://ultra64.ca/resources/software/">Nintendo 64 SDK's</a></p></li>
   <li><a href="https://archive.org/download/GamecubeCollectionByGhostware">Nintendo Game Cube Games</a></p></li>
+  <li><a href="https://www.gc-forever.com/wiki/index.php?title=Main_Page">Game Cube Forever Wiki</a></p></li>
 </ul>
 
 <p><a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a></p>
