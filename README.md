@@ -62,7 +62,7 @@
 
 <h2>Macromedia</h2>
 <ul>
-   <li><a href="https://macintoshgarden.org/search/node/macromedia">Macromeida</a>a>
+   <li><a href="https://macintoshgarden.org/search/node/macromedia">Macromeida</a>
 </ul>
 
 <p><a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a></p>
