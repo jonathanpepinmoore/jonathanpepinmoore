@@ -192,7 +192,7 @@ Nullsoft DJ Software, Cycling 74 Max with Planet CCARMA and a Ableton licensed P
 
 $100K pre investment assistance grant  and ONADA Forex trading.
 
-Quickbooks 2025 Enterprise for COCOMO II inventory reporting and owners draws from M&A Share holders equity starting from 1982.  
+Quickbooks 2025 Enterprise for COCOMO II inventory reporting and owners draws from M&A Shareholders equity starting from 1982.  
 
 The software running are :
 
