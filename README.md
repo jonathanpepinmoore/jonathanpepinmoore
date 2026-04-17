@@ -207,11 +207,8 @@ The price or cost is about $45K from Direct and Amazon.
   <source src="3211065649066898.mp4" type="video/mp4">
 </video>-->
 
-<img src="./images/new_site_2027.png">
-<img src="./images/vpn.png">
 <img src="./images/CIA.jpg">
 
-<img src="./images/Untitled.png">
 
 <h2>Every Microsoft Windows Release, SDK, DDK, and Symbols; 1.63 TB Working on a build server with every build. A FTP Server that 1.62 TB, 183 GB in Research, 3.73 TB in Virual Machines<h2>
 
