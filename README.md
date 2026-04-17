@@ -83,6 +83,8 @@ Won my Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 Sy
 
 <h3>Royal Society of the Arts Fellowship</h3>
 
+<p><a href="https://www.jstor.org/journal/rsaj">RSA Journal</a></p>
+
 2018 - Present
 
 Mom said IQ was around 120 to 140 tested in Atlanta, Ga and tested as a INTJ-T at 16 Personalities DOI: 10.34218/IJM.11.9.2020.025. NERIS Type Explorer® Scale. That same as Dr. Steven Hawking. Applied for the Genius Act in the United States. Investing in Unisys, HPE, Meta, Alphabet, Microsoft, Adobe, Nintendo, Square Enix, Kasha Saudi Arabia Oil and a Nationwide Mutual Fund. Anne Hathaway the actress and me share the same HLA System or are a DNA Match according to National Geographic and Family Tree DNA transfer. Also share 8 alignments for a healthy relationship. We share three surnames. Was given $99k by Anne Hathaway in to my account and bailed for 2 months because she was going to get in trouble with crypto. We've worked it out. Paid her back $21K for a FBI Movie.
