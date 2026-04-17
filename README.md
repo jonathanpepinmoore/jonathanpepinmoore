@@ -174,52 +174,31 @@ Copyright 2025 Monster.com and Career Builder.
 
 <p>Still Single, at 48, </p>
 
-<h2>Source Server Paths</h2>
+In 2024-2025 I began home networking again here is what I accomplished.
 
-(Thanks again to C++ MVP Jonathan David Allen Moore for providing this list.)
+Here is my Setup
 
-Here is the list of all currently available source server paths. Links are not clickable because these links are only for use in Visual Studio, not in your browser.
+2 Computers on 2024 Mac Pro, One Elite Desk Hewlett Packard 2020 running Microsoft Windows 2019 Enterprise LTSC, LG Smart TV connected to a Comcast Enterprise Cable Modem. via Category 5 Ethernet cable. Sony PlayStation 5,  Microsoft Xbox X Series. Nintendo Switch and Switch 2. with about 30 games and 75 movies on Blu-ray. A 50 Terabyte Enclosure. with a Universal Sony Disc Player. The Consoles are connected to a HDMI Switch connected to the Klisph home theater. Biometic Fingerprint reader, and a Bluetooth Logi tech Webcam. LP Record Player. Kodak Pro Camera and JVC Video Capture Equipment and a Xerox Laser Jet Printer and USB Hub and peripherals. I'm connecting a Digital Storm Windows Server to the network in 2026. 100TB Orico Encousure to hot swap the drives. Final Cut Pro, Virtual Box, Coral Draw Suite with Licensed Macromedia Flash Source Code now in the Computer History Museum. Matlab 
 
-<p>Win7 RTM: codepremium.msdn.microsoft.com/source/Windows%207/RTM</p>
+I made my own personal Virtual Machine Cluster of Computer History Operating Systems from AT&T System V to Windows Server 2025 about 12 VM's with Source Code and Microsoft Code Center Premium.
 
-<p>Win7 SP1: codepremium.msdn.microsoft.com/source/Windows%207/SP1</p>
+I make UNIX-Like Operating Systems with the Common Desktop Environment and other Desktop Environments. VAX and Digital Corp Programming Environments from Bitsavers. OpenVMS for VAX source.  However I found it. Reading the Longhorn Migration Guide Build 4074 With new Longhorn reset layout and Vista XAML Windows with the WPF Toolkit Plus, MSDN Magazines SideBar Source Code and the Longhorn Transformation pack, Reading Disecting a C# Application and building SharpDevelop Wrox Edtion, and using ILSpy and Global Assembly Cache decompilation of .NET Assemblies for my own Vista Tansparency Center and reading the Windows Internals Supplement Series for next year’s Imagine Cup. Registered for 2026.
 
-<p>W2k8 RTM: codepremium.msdn.microsoft.com/source/Windows%20Server%202008/RTM</p>
+Made Windows NT 3.5/4.0/XP/2003 Source Code Build Server in a Windows XP 32-bit Virtual Box 1.5 Terabytes VHD with Longhorn PDC 2003 VHD mount and Microsoft MVP. Using Interix Services for UNIX, NetBSD 2.0, SCO, Solaris FOSS Program, Red Hat Linux 8.5 Source, AIX, AIX Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS Windows XP OPK. OPK Training Courses the MSDN Library 2005 with UNIX Migration Guide, Windows XP UX Guidelines, Windows Research Kernel with Virtual Labs. Adobe CS2, ZAM3D, Swift 3D, Windows XP Embedded and Feature Pack. Microsoft Office XP Pro for PowerPoint. Visual C++ 4.2, 6.0, Visual Studio 2002, 2003, 2005 and Team Foundation Server 2005 for work groups Visual Studio 2008 Team System Oracle Tuxedo for middleware and 2010 Ultimate and the Shared Source Common Language Infrastructure. With Active State Perl 5.6 XP/2003 Platform SDK's and DDKs. Windows CE 6.0 with book and Training Courses. 
 
-<p>W2k8 Hyper-V-RTM: codepremium.msdn.microsoft.com/source/Windows%20Server%202008/Hyper-V%20RTM</p>
+My 1983 Nintendo's back  the NES and SNES Mini's with HDMI the N64 with SDK's and Operating Environments with Konami Code. Game Cube XENO Chip MOD with all the Game Cube ISO's with a SWISS  and a Mac G4 Cube PowerPC and XBox original Operating System source.
 
-<p>W2k8 SP2: codepremium.msdn.microsoft.com/source/Windows%20Server%202008/SP2</p>
+Nullsoft DJ Software, Cycling 74 Max with Planet CCARMA and a Ableton licensed PX-18 Source Code Gaming Console SDK's, Operating Systems and Development Kits. MSDN Subscription from 1999-2019. Recently bought Office 2024 LTSC, Visual Studio 2026 Enterprise. Windows 10 IoT 2021 Enterprise LTSC. Steinberg Cubase connected to 2 Yamaha Studio Monitors to a Creative Audigy Soudblaster. One Epiphone Les Paul Standard with Princeton Fender Amp and one AKAI 49 Key MIDI Controller and a Avid MBox Studio.
 
-<p>W2k8 R2: codepremium.msdn.microsoft.com/source/Windows%20Server%202008/R2</p>
+$100K pre investment assistance grant  and ONADA Forex trading.
 
-<p>W2k3 RTM: codepremium.msdn.microsoft.com/source/Windows%20Server%202003/RTM</p>
+Quickbooks 2025 Enterprise for COCOMO II inventory reporting and owners draws from M&A Share holders equity starting from 1982.  
 
-<p>W2k3 R2: codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20R2</p>
+The software running are :
 
-<p>W2k3 SP1: codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP1%20RTM</p>
+Cornell University's Bio HPC from Microsoft Research.
 
-<p>W2k3 SP2: codepremium.msdn.microsoft.com/source/Windows%20Server%202003/Windows%20Server%202003%20SP2%20RTM</p>
-
-<p>Vista RTM: codepremium.msdn.microsoft.com/source/Windows%20Vista/RTM</p>
-
-<p>Vista SP1: codepremium.msdn.microsoft.com/source/Windows%20Vista/SP1</p>
-
-<p>Vista SP2: codepremium.msdn.microsoft.com/source/Windows%20Vista/SP2</p>
-
-<p>XP RTM: codepremium.msdn.microsoft.com/source/windows%20XP/RTM</p>
-
-<p>XP SP1: codepremium.msdn.microsoft.com/source/windows%20XP/SP1</p>
-
-<p>XP SP2: codepremium.msdn.microsoft.com/source/windows%20XP/SP2</p>
-
-XP SP3: codepremium.msdn.microsoft.com/source/windows%20XP/SP3</p>
-
-<p>W2k Datacenter RTM: codepremium.msdn.microsoft.com/source/Windows%202000/Datacenter%20RTM</p>
-
-<p>W2k SP3: codepremium.msdn.microsoft.com/source/Windows%202000/SP3</p>
-
-<p>W2k SP4: codepremium.msdn.microsoft.com/source/Windows%202000/SP4</p>
-
+The price or cost is about $45K from Direct and Amazon. 
 <!--<img src="./images/building windows.gif">
 
 <video>
