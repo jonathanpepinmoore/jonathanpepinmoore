@@ -52,6 +52,7 @@
 
 <h2>Games</h2>
 <ul>
+  <li><a href="https://archive.org/details/win-95-osr-2">Microsoft Windows 95</a></p></li>
   <li><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 & Cube Operating System</a></p></li>
   <li><a href="https://ultra64.ca/resources/software/">Nintendo 64 SDK's</a></p></li>
   <li><a href="https://archive.org/download/GamecubeCollectionByGhostware">Nintendo Game Cube Games</a></p></li>
