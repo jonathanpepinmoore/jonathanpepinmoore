@@ -110,6 +110,7 @@ Made a Missile Container with Java and Android. With Secret Security Clearance a
 <h3>Microsoft for Startups</h3>
 
 Network Partner  2009 - Present  · Abingdon, Virginia
+
 Microsoft Bizspark Graduate. Made a Human Genome Database from flat files from Esembl in the UK. From Oracle MySQL to Microsoft SQL Server using Microsoft SQL SISS Projects and Microsoft Technical Support. With startup tenure in the contract. Bought 6 MSDN Subscriptions and have $14.4 million in licensing value. Possible net worth used for capital or inventory spending.
 
 <h3>Microsoft US Partner Community</h3>
