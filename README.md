@@ -90,7 +90,7 @@
 
 Chair inheired a 1800's Shakespeare Collection from London, UK raised on Macmillian and Oxford Environmental History, David Attenbough, Dainiel Quinn Novels and support the Story of B., Darwin, Dr. Who not Disney and studying the World Federation of Exchanges Markets and Banking Laws all 200 Volumes. Cached the Security and Exchange Commision EDGER in the USA. My family have alwasy paid our taxes dating back to William the Conquer and the Doomsday book. 
 
-I tested as Anne Hathawasy the Actress DNA Match in 2018 and as a INTJ-T in 2006 after finding out I was related to Jane Austin the author and the movie 'Becoming Jane' there are two references to me in the movie the retarded scene after I made fun of a retarad man at VHCC in 2006 in bolwing class and the boxing cousin scene.
+I tested as Anne Hathawasy the Actress DNA match in 2018 and as a INTJ-T in 2006 after finding out I was related to Jane Austin the author and the movie 'Becoming Jane' there are two references to me in the movie the retarded scene after I made fun of a retarad man at VHCC in 2006 in bolwing class and the boxing cousin scene.
 
 <h3>Microsoft Imagine Cup </h3>
 
