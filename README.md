@@ -150,7 +150,7 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 
 <h3>Pearl Jam Ten Club</h3>
 
-1991-present
+1991-2026
 
 <p>Morrell Music and Builders First Source Cutris Morrell, Kelly Curtis, and my father were promoter for 8 Pearl Jam shows. Including my graduation show in 2013.</p>
 
