@@ -88,7 +88,7 @@
 
 2026-present
 
-Chair inheired a 1800's Shakespeare Collection from London, UK raised on Macmillian and Environmental History, Darwin, Dr. Who not Disney and studying the World Federation of Exchanges Markets and Banking Laws all 200 Volumes. Cached the Security and Exchange Commision EDGER in the USA.
+Chair inheired a 1800's Shakespeare Collection from London, UK raised on Macmillian and Oxford Environmental History, Darwin, Dr. Who not Disney and studying the World Federation of Exchanges Markets and Banking Laws all 200 Volumes. Cached the Security and Exchange Commision EDGER in the USA.
 
 <h3>Microsoft Imagine Cup </h3>
 
