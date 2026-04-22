@@ -84,6 +84,12 @@
 
 <h2>The following is CD/DVD date stamped</h2>
 
+<h3>Consil Of Foregin Relations</h3>
+
+2026-present
+
+Chair and studying Market and Banking Laws.
+
 <h3>Microsoft Imagine Cup </h3>
 
 2025
