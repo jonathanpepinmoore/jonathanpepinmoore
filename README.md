@@ -88,7 +88,7 @@
 
 2026-present
 
-Chair and studying the World Federation of Exchanges Markets and Banking Laws all 200 Volumes.
+Chair inheired a 1800 Sharekspeake colletion from London, UK and studying the World Federation of Exchanges Markets and Banking Laws all 200 Volumes.
 
 <h3>Microsoft Imagine Cup </h3>
 
