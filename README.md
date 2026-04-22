@@ -29,6 +29,7 @@
 
 <p>Liquidity Value means that amount which your Provider has determined is available to settle your Check transactions based on (i) the amount of cash in your Base Account, if any, (ii) the amount of money in the Deposit Accounts that are linked to your Base Account, (iii) the value of the Fund shares in your Base Account, and (iv) margin loans, but only to the extent of the available margin collateral value of securities in your Base Account as determined by your Provider. Your Provider may determine that the available margin collateral value for purposes of paying Check transactions is an amount less than that which could be used to purchase securities or otherwise be withdrawn from your Base Account. The available margin collateral value will fluctuate from day to day, since it depends upon securities prices and the debit balance in your Base Account, and your outstanding Check transactions received for processing. </p>
 
+<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">My Personality</a></p>
 
 <p><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a><p>
 
