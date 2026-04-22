@@ -88,7 +88,7 @@
 
 2026-present
 
-Chair inheired a 1800's Shakespeare Collection from London, UK raised on Macmillian and Oxford Environmental History, David Attenbough, Dainiel Quinn Novels and support the Story of B., Darwin, Dr. Who not Disney and studying the World Federation of Exchanges Markets and Banking Laws all 200 Volumes. Cached the Security and Exchange Commision EDGER in the USA. My family have alwasy paid our taxes dataing back to William the Conquer and the Doomsday book.
+Chair inheired a 1800's Shakespeare Collection from London, UK raised on Macmillian and Oxford Environmental History, David Attenbough, Dainiel Quinn Novels and support the Story of B., Darwin, Dr. Who not Disney and studying the World Federation of Exchanges Markets and Banking Laws all 200 Volumes. Cached the Security and Exchange Commision EDGER in the USA. My family have alwasy paid our taxes dating back to William the Conquer and the Doomsday book.
 
 <h3>Microsoft Imagine Cup </h3>
 
