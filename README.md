@@ -84,7 +84,7 @@
 
 <h2>The following is CD/DVD date stamped</h2>
 
-<h3>Cuonsil Of Foregin Relations</h3>
+<h3>Counsil Of Foregin Relations</h3>
 
 2026-present
 
