@@ -207,6 +207,8 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <p>Windows 7 Internals</p>
 <p>Lifetime Windows Internals Trainsec</p>
 
+<img src="./images/1776655742383.jpg">
+
 <!--ABOUT ME
 <p>I have a driver’s license</p>
 <p>I have a security clearance</p>
