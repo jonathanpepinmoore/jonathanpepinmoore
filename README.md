@@ -23,6 +23,8 @@
 
 <p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same personality and Dr. Steven Hawking. Bought a Harvard University Press book on how to fund a bank. In 2025 with Anne Hathaway the actress.</p><a href="https://vero.co/">I'm Verified on Vero</a> the Anti-Facebook. Finishing a 2003 Microsoft help case of turning HXS files into online documentation project scope may still be too large. Finishing my BYO Computer Science and Infomation Technology Code Center Preimium from the years 1968 to Present. With my B in Infomation Security, A in Pychology, A in Sociology. I believe ethical hacking of Igor Sakhnov of Microsoft is just and not wasting your life programming the debug help just signing Microsoft's Master Source Code Agreement. The university graduation rule and public education law is 8 complete semesters. On the waiting list at New Beginings in Santa Barbra, California. With $5 million in housing vouchers. Researching why INTJ's don't like ordinary people. </p>
 
+<a herf="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a>
+
 <p>It is just your BYO Code Center Priemium and a lot of Knowledge Work stay in school. Or you can go to a <a href="https://learn.microsoft.com/en-us/security/engineering/onlinesources">Microsoft Transpanency Center</a> which I'm trying to make with the Windows Internals Suplement Series.</p>
 
 <p><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value</a></p>
