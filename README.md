@@ -102,6 +102,12 @@ Another one was my Uncles Glenn's Flower Shop when I was my car to get fixed wit
 
 Won my Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 System Intergrator Shared Source Contract in 2003
 
+<h3>Nintendo of America</h3>
+
+2024-present
+
+<p>Signed Non-Disclourse Agreement Nintendo of America Gamer since 1984</p>
+
 <h3>Royal Society of the Arts Fellowship</h3>
 
 <p><a href="https://www.jstor.org/journal/rsaj">RSA Journal</a></p>
