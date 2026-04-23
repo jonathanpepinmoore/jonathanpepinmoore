@@ -94,7 +94,7 @@ Chair inheired a 1800's Shakespeare Collection from London, UK raised on Macmill
 
 I tested as Anne Hathaway the Actress DNA match in 2018 from National Genographic 2.0. I worked for Macromedia and my first investment was at Moors and Cabot in 1999 for Disney and Macromedia, I was valaditorian of my prepatory college class in 2000 as she played a valaditorian in the TV Series 'Get Real' and as a INTJ-T in 2006 after finding out I was related to Jane Austin the author and the movie 'Becoming Jane' there are two references to me in the movie the retarded scene after I made fun of a retarad man at VHCC in 2006 in bolwing class and the boxing cousin scene. Another one was in Bride Wars were my roomates were getting marrried and and the uncanny likeiness to them in the movie I grew up on Murphy Brown. Another one was Brokeback Mountain were in 2005 where I told my father about my homosexual experience in elementry school with Scott Shepard. Another one was Sex and Other Drugs were I won a Microsoft SQL Server Sales Award in 2007. 
 
-Another one was my Uncles Glenn's Flower Shop when I was my car to get fixed with Kara Kiser and her Valentines Day movie I stutter or used to and the Pete Townshend GS Scooter reference. She is very good at method acting with family.
+Another one was my Uncles Glenn's Flower Shop when I was my car to get fixed with Kara Kiser and her Valentines Day movie I stutter or used to and the Pete Townshend GS Scooter reference. She is very good at method acting with family. In modern love she mocked me alwasy going to the grocery store and a letter from Brack Obama 
 
 <h3>Microsoft Imagine Cup </h3>
 
