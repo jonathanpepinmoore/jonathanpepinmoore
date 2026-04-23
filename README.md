@@ -1,4 +1,4 @@
-﻿<img src="./images/github-header-image.png">
+﻿<img src="./images/github-header-banner.png">
 <img src="./images/594154753_2036832087111333_3537455058827388930_n.jpg">
 
   
