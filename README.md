@@ -2,7 +2,7 @@
 <img src="./images/594154753_2036832087111333_3537455058827388930_n.jpg">
 
   
-<h2>Jonathan David Allen Moore</h2>
+<h2>Jonathan David Allen Moore FRSA </h2>
 <p>jonathanmoore@computer.org | jonathanmoore@sphinxlogic.onmicrosoft.com | https://sphinxlogic.visualstudio.com | Reston, Va, US | +1 276-696-1163<p></p>
 
 <!--<h2>PROFESSIONAL SUMMARY</h2>
