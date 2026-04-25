@@ -30,7 +30,7 @@ My licensed work is in the Computer History Museum for Macromedia. I own a Macro
 </ul>
 
 <ul>
-<li>Building a DAW with Planet CCARMA from Stanford</li>
+<li>Building a DAW with Planet CCARMA from Stanford University</li>
 </ul>
 
 <p><a href="https://psycnet.apa.org/record/2020-93235-006">Functional MRI findings in schizophrenia.</a></p>
