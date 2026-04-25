@@ -5,7 +5,11 @@
 <h2>Jonathan Windsor Moore FRSA </h2>
 <p>jonathanmoore@computer.org | jonathanmoore@sphinxlogic.onmicrosoft.com | https://sphinxlogic.visualstudio.com | Reston, Va, US | +1 276-696-1163<p></p>
 
-<a href="https://www.libraryireland.com/Pedigrees1/Moore1Ir.php">Moore No. 1 Family pedigree</a>
+<p><a href="https://www.libraryireland.com/Pedigrees1/Moore1Ir.php">Moore No. 1 Family pedigree</a></p>
+
+<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen Moore's Personality</a></p>
+
+<p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
@@ -208,11 +212,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <p><a href="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a></p>
 
-<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen Moore's Personality</a></p>
-
 <p><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a><p>
-
-<p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
 
 <p><a href="https://ftp.zx.net.nz/pub/mirror/ftp.hp.com/">HP Freeware</a></p>
 
