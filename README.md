@@ -35,12 +35,6 @@ My licensed work is in the Computer History Museum for Macromedia. I own a Macro
 
 <p><a href="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a></p>
 
-<p>It is just your BYO Code Center Priemium and a lot of Knowledge Work stay in school. Or you can go to a <a href="https://learn.microsoft.com/en-us/security/engineering/onlinesources">Microsoft Transpanency Center</a> which I'm trying to make with the Windows Internals Suplement Series.</p>
-
-<p><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value</a></p>
-
-<p>Liquidity Value means that amount which your Provider has determined is available to settle your Check transactions based on (i) the amount of cash in your Base Account, if any, (ii) the amount of money in the Deposit Accounts that are linked to your Base Account, (iii) the value of the Fund shares in your Base Account, and (iv) margin loans, but only to the extent of the available margin collateral value of securities in your Base Account as determined by your Provider. Your Provider may determine that the available margin collateral value for purposes of paying Check transactions is an amount less than that which could be used to purchase securities or otherwise be withdrawn from your Base Account. The available margin collateral value will fluctuate from day to day, since it depends upon securities prices and the debit balance in your Base Account, and your outstanding Check transactions received for processing. </p>
-
 <p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen Moore's Personality</a></p>
 
 <p><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a><p>
@@ -199,7 +193,7 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2025/lenovo-center-raleigh-nc-3b5fcc0c.html">Lenovo Center, Raleigh, NC, USA 2025</a></li>
 </ul>
 
-<p>Met Stone Gossard and Jeff Amet and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
+<p>Met Stone Gossard and Jeff Ament and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
 
 <h2>EDUCATION</h2>
 
@@ -222,6 +216,12 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <p>Lifetime Windows Internals Trainsec</p>
 
 <img src="./images/1776655742383.jpg">
+
+<p>It is just your BYO Code Center Priemium and a lot of Knowledge Work stay in school. Or you can go to a <a href="https://learn.microsoft.com/en-us/security/engineering/onlinesources">Microsoft Transpanency Center</a> which I'm trying to make with the Windows Internals Suplement Series.</p>
+
+<p><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value</a></p>
+
+<p>Liquidity Value means that amount which your Provider has determined is available to settle your Check transactions based on (i) the amount of cash in your Base Account, if any, (ii) the amount of money in the Deposit Accounts that are linked to your Base Account, (iii) the value of the Fund shares in your Base Account, and (iv) margin loans, but only to the extent of the available margin collateral value of securities in your Base Account as determined by your Provider. Your Provider may determine that the available margin collateral value for purposes of paying Check transactions is an amount less than that which could be used to purchase securities or otherwise be withdrawn from your Base Account. The available margin collateral value will fluctuate from day to day, since it depends upon securities prices and the debit balance in your Base Account, and your outstanding Check transactions received for processing. </p>
 
 <!--ABOUT ME
 <p>I have a driver’s license</p>
