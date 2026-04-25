@@ -33,26 +33,6 @@ My licensed work is in the Computer History Museum for Macromedia. I own a Macro
 <li>Building a DAW with Planet CCARMA from Stanford University</li>
 </ul>
 
-<p><a href="https://psycnet.apa.org/record/2020-93235-006">Functional MRI findings in schizophrenia.</a></p>
-
-<p><a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a></p>
-
-<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen Moore's Personality</a></p>
-
-<p><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a><p>
-
-<p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
-
-<p><a href="https://ftp.zx.net.nz/pub/mirror/ftp.hp.com/">HP Freeware</a></p>
-
-<p><a href="https://ftp.zx.net.nz/pub/mirror/sgi-freeware/">SGI IRIX Freeware</a></p>
-
-<p><a href="https://www.microsoft.com/en-us/securityengineering/gsp?msockid=312bc345a4a06dbc26e6d530a50e6c4c">Government Security Program</a></p>
-
-<p><a href="https://thirdpartysource.microsoft.com/">Third Party Disclosures</a></p>
-
 <h2>CAREER HISTORY</h2>
 
 <h2>The following is CD/DVD date stamped</h2>
@@ -225,6 +205,28 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama.</p>
 
 Copyright 2025 Monster.com and Career Builder.
+
+<h2>Links</h2>
+
+<p><a href="https://psycnet.apa.org/record/2020-93235-006">Functional MRI findings in schizophrenia.</a></p>
+
+<p><a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a></p>
+
+<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen Moore's Personality</a></p>
+
+<p><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a><p>
+
+<p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
+
+<p><a href="https://ftp.zx.net.nz/pub/mirror/ftp.hp.com/">HP Freeware</a></p>
+
+<p><a href="https://ftp.zx.net.nz/pub/mirror/sgi-freeware/">SGI IRIX Freeware</a></p>
+
+<p><a href="https://www.microsoft.com/en-us/securityengineering/gsp?msockid=312bc345a4a06dbc26e6d530a50e6c4c">Government Security Program</a></p>
+
+<p><a href="https://thirdpartysource.microsoft.com/">Third Party Disclosures</a></p>
 
 <a href="https://dl.acm.org/doi/10.1145/2445196.2445344">Learning computer science in the "comfort zone of proximal development"</a>
 
