@@ -17,81 +17,6 @@ I've done work with BSD in 2001 on the Common Desktop Environment for x86. I wou
 
 My licensed work is in the Computer History Museum for Macromedia. I own a Macromedia Patent Portfolio. I helped ship Macromedia Studio 8 and Windows Server 2003 and the Windows 11 Dev Drive. I also worked on official Windows 8/8.1 PowerPoint Storyboards. I'm also A Windows Compact Embedded Shared Source Initiative Licensee 2000-2023.  The Royal Society of the Arts fired a hospital executive that did me injustice in 2021. Future work will be for Mathworks in Matlab. I'm seeing a patent lawyer to get inventors compensation in a Taiwan judgment on Lexology. My family lives in NY, California</p>
 
-<!--<p>I'm a 47-year-old Royal Society of the Arts Fellow, with $20 Million in M&A equity from Mishibushi Financial in Japan. I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infostructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Intelligence for Steven Spielberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Ambient Music for 8 weeks straight. In 2001 I was featured on CNN's by Aaron Brown at Macromedia as a Child Celebrity. I was mailed a Harvard University Social Sciences Application my Microsoft David Cutler. I'm suing McClure Racing for the Book. <a href="https://www.amazon.com/Hacking-Exposed-Windows-Microsoft-Solutions/dp/007149426X">'Hacking Windows'</a> Morgan McClure Racing hacked my Windows 2000 Theme to a contrast theme my the receiving Dr never took a Contrast MRI until 2018.</p> 
-
-<p>My Microsoft Bizspark Startup is a 22 year Microsoft in Contract System Intergrator and Microsoft and Builders First Source Company we support Macromedia and the Computer History Museum, Sun Microsystems, User Groups and Care Packages. We also want Computer Science and Celebrity Metadata reform. We support Amazon and IMDB, World Book and Wikipedia as a technology wiki. Also Project Gutenberg. Also the SENS Foundation and giving Tuesday the first Tuesday of every month. I don't support technology as a form of population control I supoort China. I might if Microsoft supports the DNA match making and HLA System.</p>
-
-<p>I'm a retired Microsoft Gold Partner with unfinished Business at Microsoft in email. I live in the Birth Place of Country Music. Bristol, Va. Since 2002 We've received millions in BIONC Grants from the National Science Foundation. I have 2 lawsuits at Microsoft legal for me one against the Chan Initiative and the unoriginal Meta that should be given back to Harvard University for stolen research, the second for a medical diagnoses for schizoaffective setup for making my cousin a hollywood star in 1999. With a normal fMRI.</p>
-
-<p>After 2014 I became a Royal Society of the Arts Fellow which made me immune to future hospitalization's. I'm a Moore, Chapman, Stoker, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. Member of the National Magna Carta Dames and Barrons Society. A Member of the Astrological Association. In 2021 I wrote Buckingham Palace and received a warm letter from the Monarchy after telling my story. Freemasonry originated from the Royal Society. I don't believe in Masonry because of Dr Hawking's work in God and his belief in deity. I met the Actress Anne Hathaway. On her official new X page and signed a NDA via Adobe Sign and spent 2025 in retail therapy she releveled she was related to me and accepted my marriage proposal in June of 2025. I have her in my 2026 schedule. </p>
-  
-<p>In 2018 I wrote President Obama and told him my family didn't vote for president Nixon, didnt support the Occupy Movement and how my University EFC was too high and I didn't qualify for the Pell Grant. In college I lived off campus and in research approved by the chancellor. My grandfather was in the Navy during WWII and was first gunner on a naval ship and sargent in WWII. My father was credit manager for <a href="https://www.perficient.com/success-stories/builders-first source">Builders First Source for 40 years the nations largest building supplier</a> He worked with Citrix Computers. They build homes and Data Centers. In 2021 Microsoft Partner of the year. Before he retired. I'm Lifetime Trainsec Windows Internals Certified. I have a lateral excusion lisp which was corrected in 1989.</p>
-
-<p>In 2003 I revieved my first millionaire statement from Edward Jones. I was 30 under 30 in my area. My first Cd-R application was Roxio From TiVo Corporation in 1986. I learned CoralDRAW At TCAT in 1999. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, Cannot put my personality profile online because of CIA takedown notices. University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecture. I live in Bristol, Va the Birthplace of country music and my family owns two homes. Lived in Jamestown, Va as a child. Passed the CIA PAS System in 1984 at Sullins Academy. All official paperwork in email and and print on past and present corporate accounts. My father approved of all of my paperwork. </p>-->
-
-<p>My DNA Match is Anne Hathaway the Actress. I know this from paying $1k in DNA Testing. I took Advanced Placement Biology in High School a College Course.</p>
-
-<p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same personality and Dr. Steven Hawking. Bought a Harvard University Press book on how to fund a bank. In 2025 with Anne Hathaway the actress.</p><a href="https://vero.co/">I'm Verified on Vero</a> the Anti-Facebook. Finishing a 2003 Microsoft help case of turning HXS files into online documentation project scope may still be too large. Finishing my BYO Computer Science and Infomation Technology Code Center Preimium from the years 1968 to Present. With my B in Infomation Security, A in Pychology, A in Sociology. I believe ethical hacking of Igor Sakhnov of Microsoft is just and not wasting your life programming the debug help just signing Microsoft's Master Source Code Agreement. The university graduation rule and public education law is 8 complete semesters. On the waiting list at New Beginings in Santa Barbra, California. With $5 million in housing vouchers. Researching why INTJ's don't like ordinary people. </p>
-
-<p><a href="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a></p>
-
-<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen Moore's Personality</a></p>
-
-<p><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a><p>
-
-<p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
-
-<p><a href="https://ftp.zx.net.nz/pub/mirror/ftp.hp.com/">HP Freeware</a></p>
-
-<p><a href="https://ftp.zx.net.nz/pub/mirror/sgi-freeware/">SGI IRIX Freeware</a></p>
-
-<p><a href="https://www.microsoft.com/en-us/securityengineering/gsp?msockid=312bc345a4a06dbc26e6d530a50e6c4c">Government Security Program</a></p>
-
-<p><a href="https://thirdpartysource.microsoft.com/">Third Party Disclosures</a></p>
-
-<p>Your first step is to set up Git For Windows the Microsoft Way from the Disclousures</p>
-
-<p>Reading becoming a ethical hacker by O'Riley Media Set up a Metasploitable Vitrual Machine. Don't support the MIT Media lab and their metadata dept on the internet.</p>
-
-<p><a href="https://docs.freebsd.org/en/books/handbook/cutting-edge/#building-on-non-freebsd-hosts">Building on Non FreeBSD</a></p>
-
-<p><a href="https://blogs.microsoft.com/datalaw/initiative/legal-cases/microsofts-search-warrant-case/">Legal cases: Microsoft’s Search Warrant Case</a></p>
-
-<p>The Windows Repository is here <a href="http://microsoft.visualstudio.com">http://microsoft.visualstudio.com</a> You need a Personal Access Token</p>
-<p><a href="https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows">Personal Access Token</a></p>
-
-<p><a href="https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-create-new-tenant">Set up a new Microsoft Entra tenant</a></p>
-<p><a href="https://github.com/windowsdevops">Windows DevOps</a></p>
-<p><a href="https://github.com/icsharpcode/ilspy">ILSpy; Some Transparency</a></p>
-
-<p><a href="https://www.newscientist.com/article/mg21829140-200-psychiatry-needs-its-higgs-boson-moment/">Psychiatry needs its higgs boson moment</a></p>
-
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a></p>
-
-<h2>Operating Systems and Games</h2>
-<ul>
-  <li><a href="https://archive.org/details/win-95-osr-2">Microsoft Windows 95</a></p></li>
-  <li><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 & Cube Operating System</a></p></li>
-  <li><a href="https://ultra64.ca/resources/software/">Nintendo 64 SDK's</a></p></li>
-  <li><a href="https://github.com/windowsdevops/Microsoft-Windows-NT-4.0-Source-Kit">Windows NT 4.0 Source KIt</a></p></li>
-  <li><a href="https://github.com/windowsdevops/Microsoft-Windows-Server-2003-Source-Kit">Windows Server 2003 Source Kit</a></p></li>
-  <li><a href="https://archive.org/download/GamecubeCollectionByGhostware">Nintendo Game Cube Games</a></p></li>
-  <li><a href="https://www.gc-forever.com/wiki/index.php?title=Main_Page">Game Cube Forever Wiki</a></p></li>
-  <li><a href="https://games.softpedia.com/get/Tools/Gamecube-ISO-Tool.shtml">Game Cube ISO Tool</a></p></li>
-  <li><a href="https://github.com/windowsdevops/Microsoft-Windows-Vista-Buffer-Lab03_n">Microsoft-Windows-Vista-Buffer-Lab03_n</a></li>
-</ul>
-
-<h2>Macromedia</h2>
-<ul>
-   <li><a href="https://macintoshgarden.org/search/node/macromedia">Macromedia</a>
-</ul>
-
-<p><a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a></p>
-
-<!--<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergradute degree in computer science becuase of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Sowehere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
-
-<p>I've filed a lawsuit with the Microsoft Legal about the the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>-->
-
 <h2>CAREER HISTORY</h2>
 
 <h2>The following is CD/DVD date stamped</h2>
@@ -105,6 +30,40 @@ Chair inheired a 1800's Shakespeare Collection from London, UK raised on Macmill
 I tested as Anne Hathaway the Actress DNA match in 2018 from National Genographic 2.0. My mother was on the board of the YWCA who named my blanket gigi after a Audrey Hepburn film in 1983. I worked for Macromedia and my first investment was at Moors and Cabot in 1999 for Disney and Macromedia, I was valaditorian of my prepatory college class in 2000 as she played a valaditorian in the TV Series 'Get Real' and as a INTJ-T in 2006 after finding out I was related to Jane Austin the author and the movie 'Becoming Jane' there are two references to me in the movie the retarded scene after I made fun of a retarad man at VHCC in 2006 in bolwing class and the boxing cousin scene. Another one was in Bride Wars were my roomates were getting marrried and and the uncanny likeiness to them in the movie I grew up on Murphy Brown. Another one was Brokeback Mountain were in 2005 where I told my father about my homosexual experience in elementry school with Scott Shepard. Another one was Sex and Other Drugs were I won a Microsoft SQL Server Sales Award in 2007. 
 
 Another one was my Uncles Glenn's Flower Shop when I was my car to get fixed with Kara Kiser and her Valentines Day movie I stutter or used to and the Pete Townshend GS Scooter reference. She is very good at method acting with family. Another one was in Passengers the Movie with me always flirting with hospital staff. In the TV Series Modern Love Season 1 Episode 3 she mocked me always going to the grocery store and a letter from Brack Obama. Another one was in the movie the Idea of You. Where I shaperoned Tasha Sokolow and Frances Masterson at Lollapalooza 1996 and met the band Soundgarden. Another one was the igunana scene and the mental ward scenes in the movie the Hustle my ex girlfiend had a igunana in college in 2000 and I went to SWVAMHI for rehab for <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony ESP</a>, COCOMO II, 2006 Microsoft Tender Offer which was extended for 75 years, and a million dollar IRS return of intangables. I bought and promoted Pearl Jam's Backspacer and Urge Overkill's 'Rock & Roll Submarine' in 2011. Sold Adobe and Microsoft Stock in 2017, bought and promoted James Blunt's Afterlove. Bought and promoted Digital Storm PC's in 2025. Hoping for a Microsoft Aquistion. In 2025 I invested in Nintendo, Square Enix and Unysis the first open source software company the former Burrough's Company. My assests are frozen and these stocks are a hold indefinitly.
+
+<p>My DNA Match is Anne Hathaway the Actress. I know this from paying $1k in DNA Testing. I took Advanced Placement Biology in High School a College Course.</p>
+
+<p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same personality and Dr. Steven Hawking. Bought a Harvard University Press book on how to fund a bank. In 2025 with Anne Hathaway the actress.</p><a href="https://vero.co/">I'm Verified on Vero</a> the Anti-Facebook. Finishing a 2003 Microsoft help case of turning HXS files into online documentation project scope may still be too large. Finishing my BYO Computer Science and Infomation Technology Code Center Preimium from the years 1968 to Present. With my B in Infomation Security, A in Pychology, A in Sociology. I believe ethical hacking of Igor Sakhnov of Microsoft is just and not wasting your life programming the debug help just signing Microsoft's Master Source Code Agreement. The university graduation rule and public education law is 8 complete semesters. On the waiting list at New Beginings in Santa Barbra, California. With $5 million in housing vouchers. Researching why INTJ's don't like ordinary people. </p>
+
+
+
+<p>Still Single, at 48, </p>
+
+In 2024-2025 I began home networking again here is what I accomplished.
+
+Here is my Setup
+
+2 Computers on 2024 Mac Pro, One Elite Desk Hewlett Packard 2020 running Microsoft Windows 2019 Enterprise LTSC, LG Smart TV connected to a Comcast Enterprise Cable Modem. via Category 5 Ethernet cable. Sony PlayStation 5,  Microsoft Xbox X Series. Nintendo Switch and Switch 2. with about 30 games and 75 movies on Blu-ray. A 100 Terabyte Enclosure. with a Universal Sony Disc Player. The Consoles are connected to a HDMI Switch connected to the Klisph home theater. Biometic Fingerprint reader, and a Bluetooth Logi tech Webcam. LP Record Player. Kodak Pro Camera and JVC Video Capture Equipment and a Xerox Laser Jet Printer and USB Hub and peripherals. I'm connecting a Digital Storm Windows Server to the network in 2026. 100TB Orico Encousure to hot swap the drives. Final Cut Pro, Virtual Box, Coral Draw Suite with Licensed Macromedia Flash Source Code now in the Computer History Museum. Matlab 
+
+I made my own personal Virtual Machine Cluster of Computer History Operating Systems from AT&T System V to Windows Server 2025 about 12 VM's with Source Code and Microsoft Code Center Premium.
+
+I make UNIX-Like Operating Systems with the Common Desktop Environment and other Desktop Environments. VAX and Digital Corp Programming Environments from Bitsavers. OpenVMS for VAX source.  However I found it. Reading the Longhorn Migration Guide Build 4074 With new Longhorn reset layout and Vista XAML Windows with the WPF Toolkit Plus, MSDN Magazines SideBar Source Code and the Longhorn Transformation pack, Reading Disecting a C# Application and building SharpDevelop Wrox Edtion, and using ILSpy and Global Assembly Cache decompilation of .NET Assemblies for my own Vista Tansparency Center and reading the Windows Internals Supplement Series for next year’s Imagine Cup. Registered for 2026.
+
+Made Windows NT 3.5/4.0/XP/2003 Source Code Build Server in a Windows XP 32-bit Virtual Box 1.5 Terabytes VHD with Longhorn PDC 2003 VHD mount and Microsoft MVP. Using Interix Services for UNIX, NetBSD 2.0, SCO, Solaris FOSS Program, Red Hat Linux 8.5 Source, AIX, AIX Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS Windows XP OPK. OPK Training Courses the MSDN Library 2005 with UNIX Migration Guide, Windows XP UX Guidelines, Windows Research Kernel with Virtual Labs. Adobe CS2, ZAM3D, Swift 3D, Windows XP Embedded and Feature Pack. Microsoft Office XP Pro for PowerPoint. Visual C++ 4.2, 6.0, Visual Studio 2002, 2003, 2005 and Team Foundation Server 2005 for work groups Visual Studio 2008 Team System Oracle Tuxedo for middleware and 2010 Ultimate and the Shared Source Common Language Infrastructure. With Active State Perl 5.6 XP/2003 Platform SDK's and DDKs. Windows CE 6.0 with book and Training Courses. 
+
+My 1983 Nintendo's back the NES and SNES Mini's with HDMI the N64 with SDK's and Operating Environments with Konami Code. Game Cube XENO Chip MOD with all the Game Cube ISO's with a SWISS  and a Mac G4 Cube PowerPC and XBox original Operating System source.
+
+Nullsoft DJ Software, Cycling 74 Max with Planet CCARMA and a Ableton licensed PX-18 Source Code Gaming Console SDK's, Operating Systems and Development Kits. MSDN Subscription from 1999-2019. Recently bought Office 2024 LTSC, Visual Studio 2026 Enterprise. Windows 11 IoT 2024 Enterprise LTSC. Steinberg Cubase connected to 2 Yamaha Studio Monitors to a Creative Audigy Soudblaster. One Epiphone Les Paul Standard with Princeton Fender Amp and one AKAI 49 Key MIDI Controller and a Avid MBox Studio.
+
+$100K pre investment assistance grant  and ONADA Forex trading.
+
+Quickbooks 2025 Enterprise for COCOMO II inventory reporting and owners draws from M&A Shareholders equity starting from 1982.  
+
+The software running are :
+
+Cornell University's Bio HPC from Microsoft Research.
+
+The price or cost is about $45K from Direct and Amazon. 
 
 <h3>Microsoft Imagine Cup </h3>
 
@@ -245,33 +204,77 @@ Copyright 2025 Monster.com and Career Builder.
 
 <a href="https://www.techpowerup.com/183152/digital-storm-ends-the-pre-built-vs-diy-debate-with-vanquish-line-of-gaming-pcs">Digital Storm Ends the Pre-Built vs. DIY Debate with VANQUISH Line of Gaming PCs</a>
 
-<p>Still Single, at 48, </p>
+<!--<p>I'm a 47-year-old Royal Society of the Arts Fellow, with $20 Million in M&A equity from Mishibushi Financial in Japan. I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infostructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Intelligence for Steven Spielberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Ambient Music for 8 weeks straight. In 2001 I was featured on CNN's by Aaron Brown at Macromedia as a Child Celebrity. I was mailed a Harvard University Social Sciences Application my Microsoft David Cutler. I'm suing McClure Racing for the Book. <a href="https://www.amazon.com/Hacking-Exposed-Windows-Microsoft-Solutions/dp/007149426X">'Hacking Windows'</a> Morgan McClure Racing hacked my Windows 2000 Theme to a contrast theme my the receiving Dr never took a Contrast MRI until 2018.</p> 
 
-In 2024-2025 I began home networking again here is what I accomplished.
+<p>My Microsoft Bizspark Startup is a 22 year Microsoft in Contract System Intergrator and Microsoft and Builders First Source Company we support Macromedia and the Computer History Museum, Sun Microsystems, User Groups and Care Packages. We also want Computer Science and Celebrity Metadata reform. We support Amazon and IMDB, World Book and Wikipedia as a technology wiki. Also Project Gutenberg. Also the SENS Foundation and giving Tuesday the first Tuesday of every month. I don't support technology as a form of population control I supoort China. I might if Microsoft supports the DNA match making and HLA System.</p>
 
-Here is my Setup
+<p>I'm a retired Microsoft Gold Partner with unfinished Business at Microsoft in email. I live in the Birth Place of Country Music. Bristol, Va. Since 2002 We've received millions in BIONC Grants from the National Science Foundation. I have 2 lawsuits at Microsoft legal for me one against the Chan Initiative and the unoriginal Meta that should be given back to Harvard University for stolen research, the second for a medical diagnoses for schizoaffective setup for making my cousin a hollywood star in 1999. With a normal fMRI.</p>
 
-2 Computers on 2024 Mac Pro, One Elite Desk Hewlett Packard 2020 running Microsoft Windows 2019 Enterprise LTSC, LG Smart TV connected to a Comcast Enterprise Cable Modem. via Category 5 Ethernet cable. Sony PlayStation 5,  Microsoft Xbox X Series. Nintendo Switch and Switch 2. with about 30 games and 75 movies on Blu-ray. A 100 Terabyte Enclosure. with a Universal Sony Disc Player. The Consoles are connected to a HDMI Switch connected to the Klisph home theater. Biometic Fingerprint reader, and a Bluetooth Logi tech Webcam. LP Record Player. Kodak Pro Camera and JVC Video Capture Equipment and a Xerox Laser Jet Printer and USB Hub and peripherals. I'm connecting a Digital Storm Windows Server to the network in 2026. 100TB Orico Encousure to hot swap the drives. Final Cut Pro, Virtual Box, Coral Draw Suite with Licensed Macromedia Flash Source Code now in the Computer History Museum. Matlab 
+<p>After 2014 I became a Royal Society of the Arts Fellow which made me immune to future hospitalization's. I'm a Moore, Chapman, Stoker, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. Member of the National Magna Carta Dames and Barrons Society. A Member of the Astrological Association. In 2021 I wrote Buckingham Palace and received a warm letter from the Monarchy after telling my story. Freemasonry originated from the Royal Society. I don't believe in Masonry because of Dr Hawking's work in God and his belief in deity. I met the Actress Anne Hathaway. On her official new X page and signed a NDA via Adobe Sign and spent 2025 in retail therapy she releveled she was related to me and accepted my marriage proposal in June of 2025. I have her in my 2026 schedule. </p>
+  
+<p>In 2018 I wrote President Obama and told him my family didn't vote for president Nixon, didnt support the Occupy Movement and how my University EFC was too high and I didn't qualify for the Pell Grant. In college I lived off campus and in research approved by the chancellor. My grandfather was in the Navy during WWII and was first gunner on a naval ship and sargent in WWII. My father was credit manager for <a href="https://www.perficient.com/success-stories/builders-first source">Builders First Source for 40 years the nations largest building supplier</a> He worked with Citrix Computers. They build homes and Data Centers. In 2021 Microsoft Partner of the year. Before he retired. I'm Lifetime Trainsec Windows Internals Certified. I have a lateral excusion lisp which was corrected in 1989.</p>
 
-I made my own personal Virtual Machine Cluster of Computer History Operating Systems from AT&T System V to Windows Server 2025 about 12 VM's with Source Code and Microsoft Code Center Premium.
+<p>In 2003 I revieved my first millionaire statement from Edward Jones. I was 30 under 30 in my area. My first Cd-R application was Roxio From TiVo Corporation in 1986. I learned CoralDRAW At TCAT in 1999. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, Cannot put my personality profile online because of CIA takedown notices. University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecture. I live in Bristol, Va the Birthplace of country music and my family owns two homes. Lived in Jamestown, Va as a child. Passed the CIA PAS System in 1984 at Sullins Academy. All official paperwork in email and and print on past and present corporate accounts. My father approved of all of my paperwork. </p>-->
 
-I make UNIX-Like Operating Systems with the Common Desktop Environment and other Desktop Environments. VAX and Digital Corp Programming Environments from Bitsavers. OpenVMS for VAX source.  However I found it. Reading the Longhorn Migration Guide Build 4074 With new Longhorn reset layout and Vista XAML Windows with the WPF Toolkit Plus, MSDN Magazines SideBar Source Code and the Longhorn Transformation pack, Reading Disecting a C# Application and building SharpDevelop Wrox Edtion, and using ILSpy and Global Assembly Cache decompilation of .NET Assemblies for my own Vista Tansparency Center and reading the Windows Internals Supplement Series for next year’s Imagine Cup. Registered for 2026.
+<p><a href="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a></p>
 
-Made Windows NT 3.5/4.0/XP/2003 Source Code Build Server in a Windows XP 32-bit Virtual Box 1.5 Terabytes VHD with Longhorn PDC 2003 VHD mount and Microsoft MVP. Using Interix Services for UNIX, NetBSD 2.0, SCO, Solaris FOSS Program, Red Hat Linux 8.5 Source, AIX, AIX Toolbox, HP-UX and the Open-Source Tru-64 UNIX, OSF 1.0, Sourceware, and DECUS Windows XP OPK. OPK Training Courses the MSDN Library 2005 with UNIX Migration Guide, Windows XP UX Guidelines, Windows Research Kernel with Virtual Labs. Adobe CS2, ZAM3D, Swift 3D, Windows XP Embedded and Feature Pack. Microsoft Office XP Pro for PowerPoint. Visual C++ 4.2, 6.0, Visual Studio 2002, 2003, 2005 and Team Foundation Server 2005 for work groups Visual Studio 2008 Team System Oracle Tuxedo for middleware and 2010 Ultimate and the Shared Source Common Language Infrastructure. With Active State Perl 5.6 XP/2003 Platform SDK's and DDKs. Windows CE 6.0 with book and Training Courses. 
+<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen Moore's Personality</a></p>
 
-My 1983 Nintendo's back the NES and SNES Mini's with HDMI the N64 with SDK's and Operating Environments with Konami Code. Game Cube XENO Chip MOD with all the Game Cube ISO's with a SWISS  and a Mac G4 Cube PowerPC and XBox original Operating System source.
+<p><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a><p>
 
-Nullsoft DJ Software, Cycling 74 Max with Planet CCARMA and a Ableton licensed PX-18 Source Code Gaming Console SDK's, Operating Systems and Development Kits. MSDN Subscription from 1999-2019. Recently bought Office 2024 LTSC, Visual Studio 2026 Enterprise. Windows 11 IoT 2024 Enterprise LTSC. Steinberg Cubase connected to 2 Yamaha Studio Monitors to a Creative Audigy Soudblaster. One Epiphone Les Paul Standard with Princeton Fender Amp and one AKAI 49 Key MIDI Controller and a Avid MBox Studio.
+<p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
 
-$100K pre investment assistance grant  and ONADA Forex trading.
+<p><a href="https://ftp.zx.net.nz/pub/mirror/ftp.hp.com/">HP Freeware</a></p>
 
-Quickbooks 2025 Enterprise for COCOMO II inventory reporting and owners draws from M&A Shareholders equity starting from 1982.  
+<p><a href="https://ftp.zx.net.nz/pub/mirror/sgi-freeware/">SGI IRIX Freeware</a></p>
 
-The software running are :
+<p><a href="https://www.microsoft.com/en-us/securityengineering/gsp?msockid=312bc345a4a06dbc26e6d530a50e6c4c">Government Security Program</a></p>
 
-Cornell University's Bio HPC from Microsoft Research.
+<p><a href="https://thirdpartysource.microsoft.com/">Third Party Disclosures</a></p>
 
-The price or cost is about $45K from Direct and Amazon. 
+<p>Your first step is to set up Git For Windows the Microsoft Way from the Disclousures</p>
+
+<p>Reading becoming a ethical hacker by O'Riley Media Set up a Metasploitable Vitrual Machine. Don't support the MIT Media lab and their metadata dept on the internet.</p>
+
+<p><a href="https://docs.freebsd.org/en/books/handbook/cutting-edge/#building-on-non-freebsd-hosts">Building on Non FreeBSD</a></p>
+
+<p><a href="https://blogs.microsoft.com/datalaw/initiative/legal-cases/microsofts-search-warrant-case/">Legal cases: Microsoft’s Search Warrant Case</a></p>
+
+<p>The Windows Repository is here <a href="http://microsoft.visualstudio.com">http://microsoft.visualstudio.com</a> You need a Personal Access Token</p>
+<p><a href="https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows">Personal Access Token</a></p>
+
+<p><a href="https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-create-new-tenant">Set up a new Microsoft Entra tenant</a></p>
+<p><a href="https://github.com/windowsdevops">Windows DevOps</a></p>
+<p><a href="https://github.com/icsharpcode/ilspy">ILSpy; Some Transparency</a></p>
+
+<p><a href="https://www.newscientist.com/article/mg21829140-200-psychiatry-needs-its-higgs-boson-moment/">Psychiatry needs its higgs boson moment</a></p>
+
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a></p>
+
+<h2>Operating Systems and Games</h2>
+<ul>
+  <li><a href="https://archive.org/details/win-95-osr-2">Microsoft Windows 95</a></p></li>
+  <li><a href="https://www.riscosopen.org/content/">RISC OS Open Limited the Nintendo 64 & Cube Operating System</a></p></li>
+  <li><a href="https://ultra64.ca/resources/software/">Nintendo 64 SDK's</a></p></li>
+  <li><a href="https://github.com/windowsdevops/Microsoft-Windows-NT-4.0-Source-Kit">Windows NT 4.0 Source KIt</a></p></li>
+  <li><a href="https://github.com/windowsdevops/Microsoft-Windows-Server-2003-Source-Kit">Windows Server 2003 Source Kit</a></p></li>
+  <li><a href="https://archive.org/download/GamecubeCollectionByGhostware">Nintendo Game Cube Games</a></p></li>
+  <li><a href="https://www.gc-forever.com/wiki/index.php?title=Main_Page">Game Cube Forever Wiki</a></p></li>
+  <li><a href="https://games.softpedia.com/get/Tools/Gamecube-ISO-Tool.shtml">Game Cube ISO Tool</a></p></li>
+  <li><a href="https://github.com/windowsdevops/Microsoft-Windows-Vista-Buffer-Lab03_n">Microsoft-Windows-Vista-Buffer-Lab03_n</a></li>
+</ul>
+
+<h2>Macromedia</h2>
+<ul>
+   <li><a href="https://macintoshgarden.org/search/node/macromedia">Macromedia</a>
+</ul>
+
+<p><a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a></p>
+
+<!--<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergradute degree in computer science becuase of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Sowehere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
+
+<p>I've filed a lawsuit with the Microsoft Legal about the the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>-->
+
 <!--<img src="./images/building windows.gif">
 
 <video>
@@ -279,7 +282,6 @@ The price or cost is about $45K from Direct and Amazon.
 </video>-->
 
 <img src="./images/CIA.jpg">
-
 
 <h2>Every Microsoft Windows Release, SDK, DDK, and Symbols; 1.63 TB Working on a build server with every build. A FTP Server that 1.62 TB, 183 GB in Research, 3.73 TB in Virual Machines<h2>
 
