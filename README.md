@@ -182,8 +182,6 @@ The price or cost is about $45K from Direct and Amazon.
 
 <img src="./images/1776655742383.jpg">
 
-<a href="https://www.theguardian.com/global-development/2016/sep/28/destruction-of-heritage-weapon-of-war-timbuktu-shrines-irina-bokova">At last, the destruction of heritage has been recognised as a weapon of war</a>
-
 <p>It is just your BYO Code Center Priemium and a lot of Knowledge Work stay in school. Or you can go to a <a href="https://learn.microsoft.com/en-us/security/engineering/onlinesources">Microsoft Transpanency Center</a> which I'm trying to make with the Windows Internals Suplement Series.</p>
 
 <p><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value</a></p>
@@ -391,6 +389,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.congress.gov/bill/119th-congress/senate-bill/1582/text">The Genuis Act Bill Passed into Law</a>
 <li><a target="_self" href="https://www.ic3.gov/PSA/2025/PSA250402">Criminal Actors Steal US Taxpayer Identity to File False Tax Returns </a></li>
 <li><a target="_self" href="https://www.iter.org/">ITER - The Way To New Energy</a></li>
+<li><a target="_self" href="https://www.theguardian.com/global-development/2016/sep/28/destruction-of-heritage-weapon-of-war-timbuktu-shrines-irina-bokova">At last, the destruction of heritage has been recognised as a weapon of war</a></li>
 </ul>
 
 <!--<p>I'm a 47-year-old Royal Society of the Arts Fellow, with $20 Million in M&A equity from Mishibushi Financial in Japan. I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infostructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Intelligence for Steven Spielberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Ambient Music for 8 weeks straight. In 2001 I was featured on CNN's by Aaron Brown at Macromedia as a Child Celebrity. I was mailed a Harvard University Social Sciences Application my Microsoft David Cutler. I'm suing McClure Racing for the Book. <a href="https://www.amazon.com/Hacking-Exposed-Windows-Microsoft-Solutions/dp/007149426X">'Hacking Windows'</a> Morgan McClure Racing hacked my Windows 2000 Theme to a contrast theme my the receiving Dr never took a Contrast MRI until 2018.</p> 
