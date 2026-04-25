@@ -25,6 +25,7 @@ My licensed work is in the Computer History Museum for Macromedia. I own a Macro
 <li>Native Instruments Komplete Ultimate</li>
 <li>Cycling 74'</li>
 <li>Ableton Live Suite</li>
+</ul>
 
 <p><a href="https://psycnet.apa.org/record/2020-93235-006">Functional MRI findings in schizophrenia.</a></p>
 
