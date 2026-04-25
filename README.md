@@ -19,7 +19,9 @@ I've done work with BSD in 2001 on the Common Desktop Environment for x86. I wou
 
 My licensed work is in the Computer History Museum for Macromedia. I own a Macromedia Patent Portfolio. I helped ship Macromedia Studio 8 and Windows Server 2003 and the Windows 11 Dev Drive. I also worked on official Windows 8/8.1 PowerPoint Storyboards. I'm also A Windows Compact Embedded Shared Source Initiative Licensee 2000-2023.  The Royal Society of the Arts fired a hospital executive that did me injustice in 2021. Future work will be for Mathworks in Matlab. I'm seeing a patent lawyer to get inventors compensation in a Taiwan judgment on Lexology. My family lives in NY, California</p>
 
-<p><a href="https://psycnet.apa.org/record/2020-93235-006">Functional MRI findings in schizophrenia.</a>
+<p><a href="https://psycnet.apa.org/record/2020-93235-006">Functional MRI findings in schizophrenia.</a></p>
+
+<p><a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a></p>
 
 <p><a href="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a></p>
 
