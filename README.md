@@ -23,7 +23,7 @@ My licensed work is in the Computer History Museum for Macromedia. I own a Macro
 <li>Mathworks Matlab</li>
 <li>Propellerhead Reason</li>
 <li>Native Instruments Komplete Ultimate</li>
-<li>Cycling 74'</li>
+<li>Cycling 74' Max</li>
 <li>Ableton Live Suite</li>
 <li>Coral Suite</li>
 <li>Adobe CS2, CS6</li>
