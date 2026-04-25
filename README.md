@@ -19,6 +19,22 @@ I've done work with BSD in 2001 on the Common Desktop Environment for x86. I wou
 
 My licensed work is in the Computer History Museum for Macromedia. I own a Macromedia Patent Portfolio. I helped ship Macromedia Studio 8 and Windows Server 2003 and the Windows 11 Dev Drive. I also worked on official Windows 8/8.1 PowerPoint Storyboards. I'm also A Windows Compact Embedded Shared Source Initiative Licensee 2000-2023.  The Royal Society of the Arts fired a hospital executive that did me injustice in 2021. Future work will be for Mathworks in Matlab. I'm seeing a patent lawyer to get inventors compensation in a Taiwan judgment on Lexology. My family lives in NY, California</p>
 
+<p><a href="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a></p>
+
+<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen Moore's Personality</a></p>
+
+<p><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a><p>
+
+<p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
+
+<p><a href="https://ftp.zx.net.nz/pub/mirror/ftp.hp.com/">HP Freeware</a></p>
+
+<p><a href="https://ftp.zx.net.nz/pub/mirror/sgi-freeware/">SGI IRIX Freeware</a></p>
+
+<p><a href="https://www.microsoft.com/en-us/securityengineering/gsp?msockid=312bc345a4a06dbc26e6d530a50e6c4c">Government Security Program</a></p>
+
+<p><a href="https://thirdpartysource.microsoft.com/">Third Party Disclosures</a></p>
+
 <h2>CAREER HISTORY</h2>
 
 <h2>The following is CD/DVD date stamped</h2>
@@ -215,22 +231,6 @@ Copyright 2025 Monster.com and Career Builder.
 <p>In 2018 I wrote President Obama and told him my family didn't vote for president Nixon, didnt support the Occupy Movement and how my University EFC was too high and I didn't qualify for the Pell Grant. In college I lived off campus and in research approved by the chancellor. My grandfather was in the Navy during WWII and was first gunner on a naval ship and sargent in WWII. My father was credit manager for <a href="https://www.perficient.com/success-stories/builders-first source">Builders First Source for 40 years the nations largest building supplier</a> He worked with Citrix Computers. They build homes and Data Centers. In 2021 Microsoft Partner of the year. Before he retired. I'm Lifetime Trainsec Windows Internals Certified. I have a lateral excusion lisp which was corrected in 1989.</p>
 
 <p>In 2003 I revieved my first millionaire statement from Edward Jones. I was 30 under 30 in my area. My first Cd-R application was Roxio From TiVo Corporation in 1986. I learned CoralDRAW At TCAT in 1999. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, Cannot put my personality profile online because of CIA takedown notices. University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecture. I live in Bristol, Va the Birthplace of country music and my family owns two homes. Lived in Jamestown, Va as a child. Passed the CIA PAS System in 1984 at Sullins Academy. All official paperwork in email and and print on past and present corporate accounts. My father approved of all of my paperwork. </p>-->
-
-<p><a href="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a></p>
-
-<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen Moore's Personality</a></p>
-
-<p><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a><p>
-
-<p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
-
-<p><a href="https://ftp.zx.net.nz/pub/mirror/ftp.hp.com/">HP Freeware</a></p>
-
-<p><a href="https://ftp.zx.net.nz/pub/mirror/sgi-freeware/">SGI IRIX Freeware</a></p>
-
-<p><a href="https://www.microsoft.com/en-us/securityengineering/gsp?msockid=312bc345a4a06dbc26e6d530a50e6c4c">Government Security Program</a></p>
-
-<p><a href="https://thirdpartysource.microsoft.com/">Third Party Disclosures</a></p>
 
 <p>Your first step is to set up Git For Windows the Microsoft Way from the Disclousures</p>
 
