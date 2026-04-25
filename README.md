@@ -9,7 +9,7 @@
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
-<p>I'm a Royal Society of the Arts Fellow, I'm Presbyterian, I'm a Moore, Chapman, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. My Family Tree Genealogy Research was done by Illuminia and National Geographic. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I grew up studying Euclid to Von Newman Mathematics from Princeton.
+<p>I'm a Royal Society of the Arts Fellow, I'm Presbyterian, I have a Mormal MRI, I'm a Moore, Chapman, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. My Family Tree Genealogy Research was done by Illuminia and National Geographic. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I grew up studying Euclid to Von Newman Mathematics from Princeton.
 
 I was born in 1978. I grew up with Alpha, MIPS, VAX and x86 computer architecture. My first computer was a Tandy TRS-80 with Microsoft XENIX in 1984. AT&T System V at Sullins Academy in 1983. I later bought Apple Macintosh Pro's, Hewlett Packard and Dell PC's and servers running OpenVMS, Apple's System, Mac OS X and Windows. I've bought 4 MSDN enterprise subscriptions and have three Microsoft Bizspark grants.
 
@@ -18,6 +18,8 @@ I've worked for ID Software for Quake 1, 2 and 3 Arena. I was born with as lisp.
 I've done work with BSD in 2001 on the Common Desktop Environment for x86. I would like to teach the top down software design approach of Bell Labs Plan 9 to students. I have submitted my Bell Labs distinguished academic scholar application to Nokia Bell Labs awaiting approval in 2026. I'm a Windows Compact Embedded Program Licensee through the Shared Source Initiative. And looking to License Code Center Premium through Shared Source Law.
 
 My licensed work is in the Computer History Museum for Macromedia. I own a Macromedia Patent Portfolio. I helped ship Macromedia Studio 8 and Windows Server 2003 and the Windows 11 Dev Drive. I also worked on official Windows 8/8.1 PowerPoint Storyboards. I'm also A Windows Compact Embedded Shared Source Initiative Licensee 2000-2023.  The Royal Society of the Arts fired a hospital executive that did me injustice in 2021. Future work will be for Mathworks in Matlab. I'm seeing a patent lawyer to get inventors compensation in a Taiwan judgment on Lexology. My family lives in NY, California</p>
+
+<p><a href="https://psycnet.apa.org/record/2020-93235-006">Functional MRI findings in schizophrenia.</a>
 
 <p><a href="https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California">Moore v. Regents of the University of California</a></p>
 
