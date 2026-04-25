@@ -9,7 +9,7 @@
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
-<p>I'm a Royal Society of the Arts Fellow, I'm a Moore, Chapman, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. My Family Tree Genealogy Research was done by Illuminia and National Geographic. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I grew up studying Euclid to Von Newman Mathematics from Princeton.
+<p>I'm a Royal Society of the Arts Fellow, I'm Presbyterian, I'm a Moore, Chapman, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. My Family Tree Genealogy Research was done by Illuminia and National Geographic. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I grew up studying Euclid to Von Newman Mathematics from Princeton.
 
 I was born in 1978. I grew up with Alpha, MIPS, VAX and x86 computer architecture. My first computer was a Tandy TRS-80 with Microsoft XENIX in 1984. AT&T System V at Sullins Academy in 1983. I later bought Apple Macintosh Pro's, Hewlett Packard and Dell PC's and servers running OpenVMS, Apple's System, Mac OS X and Windows. I've bought 4 MSDN enterprise subscriptions and have three Microsoft Bizspark grants.
 
