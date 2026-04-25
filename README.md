@@ -9,7 +9,7 @@
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
-<p>I'm a Royal Society of the Arts Fellow, I'm Presbyterian, I weigh 168 and have maintained my wieght for 20 years at my Body Mass Index. I have a Mormal MRI, My Net Worth is $14.4 million in value in a bank account. I own a Nationwide mutual fund with initial investment of $10K. Quickbooks will work when the federal reserve tells the local bank it needs to go to a treasury auction have a EIN number. I'm a Moore, Chapman, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. My Family Tree Genealogy Research was done by Illuminia and National Geographic. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I grew up studying Euclid to Von Newman Mathematics from Princeton.
+<p>I'm a Royal Society of the Arts Fellow, I'm Presbyterian, I weigh 168 and have maintained my wieght for 20 years at my Body Mass Index. I have a Mormal MRI, My Net Worth is $14.4 million in value in a bank account. I own a Nationwide mutual fund with initial investment of $10K. $100K pre investment assistance grant and ONADA Forex trading. Quickbooks will work when the federal reserve tells the local bank it needs to go to a treasury auction have a EIN number. I'm a Moore, Chapman, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. My Family Tree Genealogy Research was done by Illuminia and National Geographic. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I grew up studying Euclid to Von Newman Mathematics from Princeton.
 
 I was born in 1978. I grew up with Alpha, MIPS, VAX and x86 computer architecture. My first computer was a Tandy TRS-80 with Microsoft XENIX in 1984. AT&T System V at Sullins Academy in 1983. I later bought Apple Macintosh Pro's, Hewlett Packard and Dell PC's and servers running OpenVMS, Apple's System, Mac OS X and Windows. I've bought 4 MSDN enterprise subscriptions and have three Microsoft Bizspark grants.
 
@@ -74,10 +74,6 @@ Made Windows NT 3.5/4.0/XP/2003 Source Code Build Server in a Windows XP 32-bit 
 My 1983 Nintendo's back the NES and SNES Mini's with HDMI the N64 with SDK's and Operating Environments with Konami Code. Game Cube XENO Chip MOD with all the Game Cube ISO's with a SWISS  and a Mac G4 Cube PowerPC and XBox original Operating System source.
 
 Nullsoft DJ Software, Cycling 74 Max with Planet CCARMA and a Ableton licensed PX-18 Source Code Gaming Console SDK's, Operating Systems and Development Kits. MSDN Subscription from 1999-2019. Recently bought Office 2024 LTSC, Visual Studio 2026 Enterprise. Windows 11 IoT 2024 Enterprise LTSC. Steinberg Cubase connected to 2 Yamaha Studio Monitors to a Creative Audigy Soudblaster. One Epiphone Les Paul Standard with Princeton Fender Amp and one AKAI 49 Key MIDI Controller and a Avid MBox Studio.
-
-$100K pre investment assistance grant  and ONADA Forex trading.
-
-Quickbooks 2025 Enterprise for COCOMO II inventory reporting and owners draws from M&A Shareholders equity starting from 1982.  
 
 The software running are :
 
