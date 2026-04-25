@@ -447,7 +447,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://arxiv.org/abs/1308.4526">Formalization, Mechanization and Automation of Gödel's Proof of God's Existence</a></li>
 <li><a target="_self" href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a></li>
 <li><a target="_self" href="https://www.youtube.com/watch?v=cIlbXypN50E">SSILP Contract up to First Longhorn Build</a></li>
-<li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>-->
+<li><a target="_self" href="IRCAM/3680764.pdf">IRCAM Musical Workstation</a></li>
 </ul>
 
 
