@@ -60,6 +60,8 @@
 <p><a href="https://github.com/windowsdevops">Windows DevOps</a></p>
 <p><a href="https://github.com/icsharpcode/ilspy">ILSpy; Some Transparency</a></p>
 
+<p><a href="https://www.newscientist.com/article/mg21829140-200-psychiatry-needs-its-higgs-boson-moment/">Psychiatry needs its higgs boson moment</a></p>
+
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a></p>
 
 <h2>Operating Systems and Games</h2>
