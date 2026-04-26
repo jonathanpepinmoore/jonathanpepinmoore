@@ -23,6 +23,10 @@ I've done work with BSD in 2001 on the Common Desktop Environment for x86. I wou
 
 My licensed work is in the Computer History Museum for Macromedia. I own a Macromedia Patent Portfolio. I helped ship Macromedia Studio 8 and Windows Server 2003 and the Windows 11 Dev Drive. I also worked on official Windows 8/8.1 PowerPoint Storyboards. I'm also A Windows Compact Embedded Shared Source Initiative Licensee 2000-2023.  The Royal Society of the Arts fired a hospital executive that did me injustice in 2021. Future work will be for Mathworks in Matlab. I'm seeing a patent lawyer to get inventors compensation in a Taiwan judgment on Lexology. My family lives in NY, California</p>
 
+<p>When Microsoft released the first version of Windows NT in April 1993, the company’s marketing and public relations campaign heavily emphasized the NT (i.e., New Technology) in the operating system’s (OS’s) name. Microsoft promoted NT as a cutting-edge OS that included all the features users expected in an OS for workstations and small to midsized servers. Although NT was a new OS in 1993, with a new API (i.e., Win32) and new user and systems-management tools, the roots of NT’s core architecture and implementation extend back to the mid-1970s.
+
+And now… The rest of the story: I’ll take you on a short tour of NT’s lineage, which leads back to Digital and its VMS OS. Most of NT’s lead developers, including VMS’s chief architect, came from Digital, and their background heavily influenced NT’s development. After I talk about NT’s roots, I’ll discuss the more-than-coincidental similarities between NT and VMS, and how Digital reacted to NT’s release.</p>
+
 <ul>
 <li>Mathworks Matlab</li>
 <li>Propellerhead Reason</li>
