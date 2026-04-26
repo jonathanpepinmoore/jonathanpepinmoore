@@ -19,6 +19,8 @@
 
 <p><a href="https://moen.nidec.com/fr-CH/drives/News-And-Media/Blog/Insights/Articles/2017/03/22/Calculating-Infinity-The-Paradox-Of-Moores-Law">Calculating infinity: the paradox of moore's law</a></p>
 
+<p><a href="https://drmichaelwayne.com/blog/more-and-moore-the-binary-mind-goes-quantum/">More and Moore: The Binary Mind Goes Quantum</a></p>
+
 <h2>PROFESSIONAL SUMMARY</h2>
 
 <p>I'm a Royal Society of the Arts Fellow, I'm Presbyterian, I weigh 168 and have maintained my wieght for 20 years at my Body Mass Index. My immediate has paid out taxes since Railroad Financing in Pennsylvania and Virginia, 1830-1860. I have a Mormal MRI, My Net Worth is $14.4 million in value in a bank account. I own a Nationwide mutual fund with initial investment of $10K. $100K pre investment assistance grant and ONADA Forex trading. Quickbooks will work when the federal reserve tells the local bank it needs to go to a treasury auction have a EIN number. I'm a Moore, Chapman, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. My Family Tree Genealogy Research was done by Illuminia and National Geographic. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I grew up studying Euclid to Von Newman Mathematics from Princeton.
