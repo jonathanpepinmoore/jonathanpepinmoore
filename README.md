@@ -7,7 +7,7 @@
 
 <p><a href="https://www.libraryireland.com/Pedigrees1/Moore1Ir.php">Moore No. 1 Family pedigree</a></p>
 
-<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen Moore's Personality</a></p>
+<p><a href="https://www.youtube.com/watch?app=desktop&v=pQyLjLqFNWY">Jonathan David Allen (Windsor) Moore's Personality</a></p>
 
 <p><a href="https://www.bitsavers.org/pdf/dec/">VAX VMS Software</a></p>
 
