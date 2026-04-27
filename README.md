@@ -466,7 +466,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 Another one was the movie 'Havoc' was her handicam as I sold a Sony handicamp to a friend in 1996. Another one was my Uncles Glenn's Flower Shop when I was my car to get fixed with Kara Kiser and her Valentines Day movie I stutter or used to and the Pete Townshend GS Scooter reference. She is very good at method acting with family. Another one was in Passengers the Movie with me always flirting with hospital staff. In the TV Series Modern Love Season 1 Episode 3 she mocked me always going to the grocery store and a letter from Brack Obama. Another one was in the movie the Idea of You. Where I shaperoned Tasha Sokolow and Frances Masterson at Lollapalooza 1996 and met the band Soundgarden.</p>
 
-<p>Another one was the igunana scene and the mental ward scenes in the movie the Hustle my ex girlfiend had a igunana in college in 2000 and I went to SWVAMHI for rehab for <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony ESP</a>, COCOMO II, 2006 Microsoft Tender Offer which was extended for 75 years, and a million dollar IRS return of intangables. </p>
+<p>Another one was the igunana scene and the mental ward scenes in the movie the Hustle my ex girlfiend had a igunana in college in 2000 and I went to SWVAMHI for rehab for <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony ESP</a>, COCOMO II, 2006 Microsoft Tender Offer which was extended for 75 years, and a million dollar IRS return of intangables. Another one is in the Movie Armagedon Time Uncle Ray or Gene and Aunt Ruthie McCulley for which that don't have a marker on there grave in Glennwood Cemetary.</p>
 
 
 
