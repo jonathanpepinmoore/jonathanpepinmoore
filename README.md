@@ -422,10 +422,10 @@ Copyright 2025 Monster.com and Career Builder.
 
 <p>Reading becoming a ethical hacker by O'Riley Media Set up a Metasploitable Vitrual Machine. Don't support the MIT Media lab and their metadata dept on the internet.</p>
 
-<h2>Macromedia</h2>
+<!--<h2>Macromedia</h2>
 <ul>
    <li><a href="https://macintoshgarden.org/search/node/macromedia">Macromedia</a>
-</ul>
+</ul>-->
 
 <!--<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergradute degree in computer science becuase of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Sowehere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
 
