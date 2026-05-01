@@ -55,7 +55,7 @@ And now… The rest of the story: I’ll take you on a short tour of NT’s line
 <li>Building a DAW with Planet CCARMA from Stanford University</li>
 </ul>
 
-<h2>CAREER HISTORY</h2>
+<!--<h2>CAREER HISTORY</h2>
 
 <h2>The following is CD/DVD date stamped</h2>
 
@@ -200,11 +200,11 @@ The price or cost is about $45K from Direct and Amazon. -->
 
 <img src="./images/1776655742383.jpg">
 
-<p>It is just your BYO Code Center Priemium and a lot of Knowledge Work stay in school. Or you can go to a <a href="https://learn.microsoft.com/en-us/security/engineering/onlinesources">Microsoft Transpanency Center</a> which I'm trying to make with the Windows Internals Suplement Series.</p>
+<!--<p>It is just your BYO Code Center Priemium and a lot of Knowledge Work stay in school. Or you can go to a <a href="https://learn.microsoft.com/en-us/security/engineering/onlinesources">Microsoft Transpanency Center</a> which I'm trying to make with the Windows Internals Suplement Series.</p>
 
 <p><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value</a></p>
 
-<p>Liquidity Value means that amount which your Provider has determined is available to settle your Check transactions based on (i) the amount of cash in your Base Account, if any, (ii) the amount of money in the Deposit Accounts that are linked to your Base Account, (iii) the value of the Fund shares in your Base Account, and (iv) margin loans, but only to the extent of the available margin collateral value of securities in your Base Account as determined by your Provider. Your Provider may determine that the available margin collateral value for purposes of paying Check transactions is an amount less than that which could be used to purchase securities or otherwise be withdrawn from your Base Account. The available margin collateral value will fluctuate from day to day, since it depends upon securities prices and the debit balance in your Base Account, and your outstanding Check transactions received for processing. </p>
+<p>Liquidity Value means that amount which your Provider has determined is available to settle your Check transactions based on (i) the amount of cash in your Base Account, if any, (ii) the amount of money in the Deposit Accounts that are linked to your Base Account, (iii) the value of the Fund shares in your Base Account, and (iv) margin loans, but only to the extent of the available margin collateral value of securities in your Base Account as determined by your Provider. Your Provider may determine that the available margin collateral value for purposes of paying Check transactions is an amount less than that which could be used to purchase securities or otherwise be withdrawn from your Base Account. The available margin collateral value will fluctuate from day to day, since it depends upon securities prices and the debit balance in your Base Account, and your outstanding Check transactions received for processing. </p>-->
 
 <!--ABOUT ME
 <p>I have a driver’s license</p>
@@ -214,13 +214,13 @@ The price or cost is about $45K from Direct and Amazon. -->
 
 <p>Also housing discrimination against a Royal Society of the Arts lifetime fellow and career negligence on the part of the democratic party. I paid my tuition, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the academic journals to be avaible to the homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash $3K to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting one home and I rent. When I was furniture porter I paid for my families dinning room suit and living room. Now I rent and I've paid for everything in my apt. Including the den and bedroom suit and office equipment.</p>-->
 
-<p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama.</p>
+<!--<p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama.</p>
 
 Copyright 2025 Monster.com and Career Builder.
 
 <h2>Links</h2>
 
-<!--<p><a href="https://psycnet.apa.org/record/2020-93235-006">Functional MRI findings in schizophrenia.</a></p>
+<p><a href="https://psycnet.apa.org/record/2020-93235-006">Functional MRI findings in schizophrenia.</a></p>
 
 <p><a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a></p>
 
