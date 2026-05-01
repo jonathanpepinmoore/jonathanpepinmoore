@@ -397,10 +397,10 @@ Copyright 2025 Monster.com and Career Builder.
 * [Microsoft researchers win ImageNet computer vision challenge](https://blogs.microsoft.com/ai/microsoft-researchers-win-imagenet-computer-vision-challenge/)
 * [Deep Neural Networks for Indoor Localization Using WiFi Fingerprints](https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21)
 * [Experimenting with Spirituality: Analyzing The God Gene in a Nonmajors Laboratory Course](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2262126/)
-* [The Supreme Court pared down a controversial anti-hacking law](https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed)-->
+* [The Supreme Court pared down a controversial anti-hacking law](https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed)
 
 <ul>
-<li><a target="_self" href="https://www.congress.gov/bill/119th-congress/senate-bill/1582/text">The Genuis Act Bill Passed into Law</a>
+<li><a target="_self" href="https://www.congress.gov/bill/119th-congress/senate-bill/1582/text">The Genuis Act Bill Passed into Law</a></li>
 <!--<li><a target="_self" href="https://www.ic3.gov/PSA/2025/PSA250402">Criminal Actors Steal US Taxpayer Identity to File False Tax Returns </a></li>-->
 <li><a target="_self" href="https://www.iter.org/">ITER - The Way To New Energy</a></li>
 <li><a target="_self" href="https://www.theguardian.com/global-development/2016/sep/28/destruction-of-heritage-weapon-of-war-timbuktu-shrines-irina-bokova">At last, the destruction of heritage has been recognised as a weapon of war</a></li>
