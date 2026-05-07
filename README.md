@@ -158,9 +158,9 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2025/lenovo-center-raleigh-nc-3b5fcc0c.html">Lenovo Center, Raleigh, NC, USA 2025</a></li>
 </ul>
 
-<p>Met Stone Gossard and Jeff Ament and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>-->
+<p>Met Stone Gossard and Jeff Ament and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
 
-<h2>EDUCATION</h2>
+<!--<h2>EDUCATION</h2>
 
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
 <p>Stanford Online Liqunia-Graduated 2017-01-01 Computer Science</p>
