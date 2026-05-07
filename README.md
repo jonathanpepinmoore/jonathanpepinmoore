@@ -139,7 +139,7 @@ SGI's Standard Template Library Port. Used Windows NT 4.0 for MIPS computer arch
 <h3>Adobe</h3>
 
 Non Employee Director  · 1999 - 2017  · San Francisco, California
-First investment was at Moors and Cabot for Disney and Macromedia. Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.
+First investment was at Moors and Cabot for Disney and Macromedia. Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.-->
 
 <h3>Pearl Jam Ten Club</h3>
 
@@ -158,7 +158,7 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/2025/lenovo-center-raleigh-nc-3b5fcc0c.html">Lenovo Center, Raleigh, NC, USA 2025</a></li>
 </ul>
 
-<p>Met Stone Gossard and Jeff Ament and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
+<p>Met Stone Gossard and Jeff Ament and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>-->
 
 <h2>EDUCATION</h2>
 
