@@ -33,6 +33,8 @@
 
 <p><a href="https://answersingenesis.org/charles-darwin/was-charles-darwin-a-christian">Was Charles Darwin a Christian?</a></p>
 
+<p><a href="https://medium.com/@michaelswaine/charles-babbage-throws-a-party-e6abcef8fef1">Charles Babbage Throws a Party</a></p>
+
 <p><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value</a></p>
 
 <h2>PROFESSIONAL SUMMARY</h2>
