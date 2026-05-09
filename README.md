@@ -69,11 +69,11 @@ And now… The rest of the story: I’ll take you on a short tour of NT’s line
 <li>Building a DAW with Planet CCARMA from Stanford University</li>
 </ul>
 
-<!--<h2>CAREER HISTORY</h2>
+<h2>CAREER HISTORY</h2>
 
 <h2>The following is CD/DVD date stamped</h2>
 
-<h3>Counsel Of Foreign Relations</h3>
+<!--<h3>Counsel Of Foreign Relations</h3>
 
 2026-present
 
@@ -81,7 +81,7 @@ Chair inherited a 1800's Shakespeare Collection from London, UK raised on Macmil
 
 <p>My DNA Match is Anne Hathaway the Actress. I know this from paying $1k in DNA Testing. I took Advanced Placement Biology in High School a College Course.</p>
 
-<p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same personality and Dr. Steven Hawking. Bought a Harvard University Press book on how to fund a bank. In 2025 with Anne Hathaway the actress.<p><a href="https://vero.co/">I'm Verified on Vero</a></p> the Anti-Facebook. Finishing a 2003 Microsoft help case of turning HXS files into online documentation project scope may still be too large. Finishing my BYO Computer Science and Information Technology Code Center Premium from the years 1968 to Present. With my B in Information Security, A in Psychology, A in Sociology. I believe ethical hacking of Igor Sakhnov of Microsoft is just and not wasting your life programming the debug help just signing Microsoft's Master Source Code Agreement. The university graduation rule and public education law is 8 complete semesters. On the waiting list at New Beginnings in Santa Barbra, California. With $5 million in housing vouchers. Researching why INTJ's don't like ordinary people. </p>
+<p>I tested as a INTJ-T at the University of California Fulerton found in only about 1.9% of the global population and have the same personality and Dr. Steven Hawking. Bought a Harvard University Press book on how to fund a bank. In 2025 with Anne Hathaway the actress.<p><a href="https://vero.co/">I'm Verified on Vero</a></p> the Anti-Facebook. Finishing a 2003 Microsoft help case of turning HXS files into online documentation project scope may still be too large. Finishing my BYO Computer Science and Information Technology Code Center Premium from the years 1968 to Present. With my B in Information Security, A in Psychology, A in Sociology. I believe ethical hacking of Igor Sakhnov of Microsoft is just and not wasting your life programming the debug help just signing Microsoft's Master Source Code Agreement. The university graduation rule and public education law is 8 complete semesters. On the waiting list at New Beginnings in Santa Barbra, California. With $5 million in housing vouchers. Researching why INTJ's don't like ordinary people. </p>-->
 
 <h3>Microsoft Imagine Cup </h3>
 
@@ -89,7 +89,7 @@ Chair inherited a 1800's Shakespeare Collection from London, UK raised on Macmil
 
 Won my Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 System Intergrator Shared Source Contract in 2003
 
-<h3>Nintendo of America</h3>
+<!--<h3>Nintendo of America</h3>
 
 2024-present
 
@@ -101,7 +101,7 @@ Won my Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 Sy
 
 2018 - present
 
-Royal Charter The RSA is established by Royal Charter as its formation pre-dated the establishment of modern company law. A Royal Charter establishes a collection of individuals as a single legal entity – predating more modern legal ways to do this, such as companies and corporations. We continue to maintain a connection with the Royal Household; our Patron is the Princess Royal. The RSA’s charitable purposes are enshrined within its Royal Charter. Our Royal Charter was last updated in 2025. Our current charitable purposes are: ‘The encouragement of the Arts Manufactures and Commerce… . advancement of education in and the encouragement and conduct of research into the sustainable context within which the said Arts Manufactures and Commerce may prosper and be managed efficiently including research on al Commerce Design Industry Public Services Science Technology Social Enterprises Voluntary and other Arts to make both such research findings available to the public as wel as al other exclusively charitable purposes’ RSA Royal Charter RSA Supplementary Royal Charter Fellows’ Charter The RSA is a membership organisation whose members (Fellows) make a charitable subscription which contributes to the charitable work of the RSA (unless waived). All Fellows are expected to follow the RSA Fellows Charter and the code of conduct as part of their commitment. RSA Fellows’ Charter RSA Code of Conduct Bye-laws Additionally, the RSA is governed by agreed bye-laws amendments to which are approved by the Trustee Board and voted on by its members (Fellows).
+Royal Charter The RSA is established by Royal Charter as its formation pre-dated the establishment of modern company law. A Royal Charter establishes a collection of individuals as a single legal entity – predating more modern legal ways to do this, such as companies and corporations. We continue to maintain a connection with the Royal Household; our Patron is the Princess Royal. The RSA’s charitable purposes are enshrined within its Royal Charter. Our Royal Charter was last updated in 2025. Our current charitable purposes are: ‘The encouragement of the Arts Manufactures and Commerce… . advancement of education in and the encouragement and conduct of research into the sustainable context within which the said Arts Manufactures and Commerce may prosper and be managed efficiently including research on al Commerce Design Industry Public Services Science Technology Social Enterprises Voluntary and other Arts to make both such research findings available to the public as wel as al other exclusively charitable purposes’ RSA Royal Charter RSA Supplementary Royal Charter Fellows’ Charter The RSA is a membership organisation whose members (Fellows) make a charitable subscription which contributes to the charitable work of the RSA (unless waived). All Fellows are expected to follow the RSA Fellows Charter and the code of conduct as part of their commitment. RSA Fellows’ Charter RSA Code of Conduct Bye-laws Additionally, the RSA is governed by agreed bye-laws amendments to which are approved by the Trustee Board and voted on by its members (Fellows).-->
 
 <h3>Ableton</h3> 
 
@@ -127,10 +127,10 @@ Solution Partner  · 2003 - Present  · Bristol, Virginia
 
 <p><a href="https://www.wintellectnow.com/">Wintellect</a> Won Microsoft SQL Server Sales award and have yet to collect sales revenue. Submitted my Visual Style Sample and it shipped. Used Goliath in Remote Installation Services. Worked on Windows 8 Storyboards and Codeplex and .NET 6.0 GA. Using Microsoft Windows Server Deployment Services as a Transport Server and a Vista DDK Windows Management Instrumentation Sample for Image Enumeration. To connect to a Microsoft Corporate Deployment Server. Signed Desktop Application NDA in 2022. Also built the Powershell v7.0 With Visual Studio.NET Disclosures. Bought the Book Hard Drive: Bill Gates Birth of a Microsoft Empire and worked 20 years on a copy of Bill Gates Hard Drive. Using RSTAT Tools for Active Directory and DSQuery. Using Microsoft Windows 10 Enterprise 2019 LTSC and Windows 11 2024 IoT LTSC.</p>
 
-<h3>IMDbPro</h3>
+<!--<h3>IMDbPro</h3>
 
 Animator  · 2001 - 2014  · Los Angeles, California
-Artificial Intelligence, Finding Nemo,
+Artificial Intelligence, Finding Nemo,-->
 
 <h3>FreeBSD Foundation</h3>
 
@@ -139,14 +139,14 @@ Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeB
 
 <h3>Apple Computer</h3>
 
-Software Developer  · 2001 - Present
+Software Developer  2001 - Present
 Start with the Bash shell and GNUStep, Project Center, Window Maker and the Darwin SDK the project files-files. Licensed Quicktime Source Code.
 
-<h3>Silicon Graphics Inc.</h3>
+<!--<h3>Silicon Graphics Inc.</h3>
 
 Visual Effects 2000-present
 
-SGI's Standard Template Library Port. Used Windows NT 4.0 for MIPS computer architecure and IRIX and had a IBM Aptiva and 3d Labs Oxygen Grapics Card an a Nintendo 64 with Dev Kit and SDK's.
+SGI's Standard Template Library Port. Used Windows NT 4.0 for MIPS computer architecture and IRIX and had a IBM Aptiva and 3d Labs Oxygen Graphics Card an a Nintendo 64 with Dev Kit and SDK's.
 
 <h3>Adobe</h3>
 
