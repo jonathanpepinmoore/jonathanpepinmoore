@@ -147,7 +147,7 @@ Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeB
 <h3>Apple Computer</h3>
 
 Software Developer  2001 - Present
-I opened the macOS staring at 10.0 with my first Macintosh in 2000. and Licensed QuickTime Source Code and opened Gershwin in 2025. Start with the Bash shell and GNUStep, Project Center, Window Maker and the Darwin SDK the project files-files. Licensed Quicktime Source Code.
+I opened the macOS staring at 10.0 with my first Macintosh in 2000. and Licensed QuickTime Source Code and opened Gershwin in 2025. Start with the Bash shell and GNUStep, Project Center, Window Maker and the Darwin SDK the project files-files.
 
 <h3>Silicon Graphics Inc.</h3>
 
