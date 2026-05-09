@@ -27,7 +27,7 @@
 
 <p><a href="https://cloudwars.com/cloud/larry-ellisons-masterpiece-microsoft-becomes-oracles-largest-customer-2/">Larry Ellison’s Masterpiece: Microsoft Becomes Oracle’s Largest Customer</a></p>
 
-<p><a href="https://www.msn.com/en-us/money/markets/it-s-time-for-a-microsoft-reset-here-s-what-investors-should-focus-on-now/">It’s time for a Microsoft reset. Here’s what investors should focus on now</a></p>
+<p><a href="https://www.msn.com/en-us/money/markets/it-s-time-for-a-microsoft-reset-here-s-what-investors-should-focus-on-now/ar-AA21X2Ey">It’s time for a Microsoft reset. Here’s what investors should focus on now</a></p>
 
 <a href="https://www.vanityfair.com/style/2015/07/queen-elizabeth-corgis-a-history">The Queen and Her Corgis</a></p>
 
