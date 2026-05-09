@@ -153,13 +153,12 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 
 <h3>Guns N' Roses</h3>
 
-<p>My Aunt attended the 1988 Aerosmith show and brought back a autograph</p>
-
+<p>My Aunt McGuiness attended the 1988 Aerosmith show and brought back a autograph</p>
+<ul>
 <li><a href="https://www.setlist.fm/setlist/guns-n-roses/1991/the-ritz-new-york-ny-7bd57ad8.html">The Ritz, NYC (May 16, 1991)</a></li>
+</ul>
 
-<h3>Pearl Jam Ten Club</h3>
-
-1991-2026
+<h3>Pearl Jam Ten Club 1991-2026</h3>
 
 <ul>
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/1998/thompson-boling-arena-knoxville-tn-63d61233.html">Thompson-Boling Arena - Knoxville, Tennssesse, Sept 06, 1998</a> [attended]</li>
