@@ -35,7 +35,7 @@
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
-<p>I'm a Royal Society of the Arts Fellow, I'm Orthodox Christian like my ancestor Charles Darwin, I weigh 168 and have maintained my weight for 20 years at my Body Mass Index. My immediate has paid out taxes since Railroad Financing in Pennsylvania and Virginia, 1830-1860. I have a Normal MRI, My Net Worth is $73 million in value in a bank account. I own a Nationwide mutual fund with initial investment of $10K. $100K pre investment assistance grant and ONADA Forex trading. Quickbooks will work when the federal reserve tells the local bank it needs to go to a treasury auction have a EIN number. I'm a Moore, Chapman, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. My Family Tree Genealogy Research was done by Illuminia and National Geographic. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I grew up studying Euclid to Von Newman Mathematics from Princeton.
+<p>I'm a Royal Society of the Arts Fellow, I'm Orthodox Christian like my ancestor Charles Darwin, My grade in High School AP Biology was a C. I made a Microsoft Human Genome Database in college and the professor failed me. I weigh 168 and have maintained my weight for 20 years at my Body Mass Index. My immediate has paid out taxes since Railroad Financing in Pennsylvania and Virginia, 1830-1860. I have a Normal MRI, My Net Worth is $73 million in value in a bank account. I own a Nationwide mutual fund with initial investment of $10K. $100K pre investment assistance grant and ONADA Forex trading. Quickbooks will work when the federal reserve tells the local bank it needs to go to a treasury auction have a EIN number. I'm a Moore, Chapman, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. My Family Tree Genealogy Research was done by Illuminia and National Geographic. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I grew up studying Euclid to Von Newman Mathematics from Princeton.
 
 I was born in on April 24th 1978. I'm a Sun in Taurus middle of the month the most powerful. I grew up with Alpha, MIPS, VAX and x86 computer architecture. My first computer was a Tandy TRS-80 with Microsoft XENIX in 1984. AT&T System V at Sullins Academy in 1983. I later bought Apple Macintosh Pro's, Hewlett Packard and Dell PC's and servers running OpenVMS, Apple's System, Mac OS X and Windows. I've bought 4 MSDN enterprise subscriptions and have three Microsoft Bizspark grants.
 
@@ -188,7 +188,7 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 
 <!--<h2>Home Network</h2>
 
-Still Single, at 48; In 2024-2025 I began home networking again here is what I accomplished. 2 Computers on 2024 Mac Pro, One Elite Desk Hewlett Packard 2020 running Microsoft Windows 2019 Enterprise LTSC, LG Smart TV connected to a Comcast Enterprise Cable Modem. via Category 5 Ethernet cable. Sony PlayStation 5,  Microsoft Xbox X Series. Nintendo Switch and Switch 2. with about 30 games and 75 movies on Blu-ray. A 100 Terabyte Enclosure. with a Universal Sony Disc Player. The Consoles are connected to a HDMI Switch connected to the Klisph home theater. Biometic Fingerprint reader, and a Bluetooth Logi tech Webcam. LP Record Player. Kodak Pro Camera and JVC Video Capture Equipment and a Xerox Laser Jet Printer and USB Hub and peripherals. I'm connecting a Digital Storm Windows Server to the network in 2026. 100TB Orico Encousure to hot swap the drives. Final Cut Pro, Virtual Box, Coral Draw Suite with Licensed Macromedia Flash Source Code now in the Computer History Museum. Matlab 
+<p>Still Single, at 48; In 2024-2025 I began home networking again here is what I accomplished. 2 Computers on 2024 Mac Pro, One Elite Desk Hewlett Packard 2020 running Microsoft Windows 2019 Enterprise LTSC, LG Smart TV connected to a Comcast Enterprise Cable Modem. via Category 5 Ethernet cable. Sony PlayStation 5,  Microsoft Xbox X Series. Nintendo Switch and Switch 2. with about 30 games and 75 movies on Blu-ray. A 100 Terabyte Enclosure. with a Universal Sony Disc Player. The Consoles are connected to a HDMI Switch connected to the Klisph home theater. Biometic Fingerprint reader, and a Bluetooth Logi tech Webcam. LP Record Player. Kodak Pro Camera and JVC Video Capture Equipment and a Xerox Laser Jet Printer and USB Hub and peripherals. I'm connecting a Digital Storm Windows Server to the network in 2026. 100TB Orico Encousure to hot swap the drives. Final Cut Pro, Virtual Box, Coral Draw Suite with Licensed Macromedia Flash Source Code now in the Computer History Museum. Matlab 
 
 I made my own personal Virtual Machine Cluster of Computer History Operating Systems from AT&T System V to Windows Server 2025 about 12 VM's with Source Code and Microsoft Code Center Premium.
 
@@ -204,10 +204,7 @@ The software running are :
 
 Cornell University's Bio HPC from Microsoft Research.
 
-The price or cost is about $45K from Direct and Amazon. -->
-
-<img src="./images/690928864_2164520674342473_3116230864931658315_n.jpg>
-
+The price or cost is about $45K from Direct and Amazon.</p>-->
 
 <!--<p>It is just your BYO Code Center Premium and a lot of Knowledge Work stay in school. Or you can go to a <a href="https://learn.microsoft.com/en-us/security/engineering/onlinesources">Microsoft Transparency Center</a> which I'm trying to make with the Windows Internals Supplement Series.</p>
 
@@ -435,6 +432,8 @@ Copyright 2025 Monster.com and Career Builder.
 <!--<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergraduate degree in computer science becuase of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Sowehere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
 
 <p>I've filed a lawsuit with the Microsoft Legal about the the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>-->
+
+<img src="./images/690928864_2164520674342473_3116230864931658315_n.jpg">
 
 <img src="./images/building windows.gif">
 
