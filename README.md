@@ -206,7 +206,7 @@ Cornell University's Bio HPC from Microsoft Research.
 
 The price or cost is about $45K from Direct and Amazon. -->
 
-<img src="/images/690928864_2164520674342473_3116230864931658315_n.jpg>
+<img src="./images/690928864_2164520674342473_3116230864931658315_n.jpg>
 
 
 <!--<p>It is just your BYO Code Center Premium and a lot of Knowledge Work stay in school. Or you can go to a <a href="https://learn.microsoft.com/en-us/security/engineering/onlinesources">Microsoft Transparency Center</a> which I'm trying to make with the Windows Internals Supplement Series.</p>
