@@ -54,7 +54,7 @@ My licensed work is in the Computer History Museum for Macromedia. I own a Macro
 <h3>Events</h3>
 <ul>
 <li>The first BSD was released in January 1978 when my family was moving to TN/VA from Atlanta, Ga and a tornado struck Bristol, TN,VA</li>
-<li>I traveled to the Washington, DC and set in on the 99th session of Congress and met Al Gore</li>
+<li>I traveled to the Washington, DC and set in on the 99th session of Congress in 1987 and met Al Gore</li>
 </ul>
 
 <p>When Microsoft released the first version of Windows NT in April 1993, the company’s marketing and public relations campaign heavily emphasized the NT (i.e., New Technology) in the operating system’s (OS’s) name. Microsoft promoted NT as a cutting-edge OS that included all the features users expected in an OS for workstations and small to midsized servers. Although NT was a new OS in 1993, with a new API (i.e., Win32) and new user and systems-management tools, the roots of NT’s core architecture and implementation extend back to the mid-1970s.
