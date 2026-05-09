@@ -420,7 +420,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <p>In 2003 I revieved my first millionaire statement from Edward Jones. I was 30 under 30 in my area. My first Cd-R application was Roxio From TiVo Corporation in 1986. I learned CoralDRAW At TCAT in 1999. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, Cannot put my personality profile online because of CIA takedown notices. University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I took AP University Physics at Rice University. Grew up on x86 Computer Architecture. I live in Bristol, Va the Birthplace of country music and my family owns two homes. Lived in Jamestown, Va as a child. Passed the CIA PAS System in 1984 at Sullins Academy. All official paperwork in email and and print on past and present corporate accounts. My father approved of all of my paperwork. </p>-->
 
-<p>Your first step is to set up Git For Windows the Microsoft Way from the Disclousures</p>
+<p>Your first step is to set up Git For Windows the Microsoft Way from the Disclosures</p>
 
 <p>Reading becoming a ethical hacker by O'Riley Media Set up a Metasploitable Vitrual Machine. Don't support the MIT Media lab and their metadata dept on the internet.</p>
 
@@ -433,7 +433,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <p>I've filed a lawsuit with the Microsoft Legal about the the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>-->
 
-<img src="./images/690928864_2164520674342473_3116230864931658315_n.jpg">
+<img src="./images/687589009_2164485334346007_8102692331469367298_n.jpg">
 
 <!--<img src="./images/building windows.gif">-->
 
