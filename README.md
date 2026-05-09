@@ -29,6 +29,8 @@
 
 <p><a href="https://www.vanityfair.com/style/2015/07/queen-elizabeth-corgis-a-history">The Queen and Her Corgis</a></p>
 
+<a href="https://answersingenesis.org/charles-darwin/was-charles-darwin-a-christian">Was Charles Darwin a Christian?</a>
+
 <h2>PROFESSIONAL SUMMARY</h2>
 
 <p>I'm a Royal Society of the Arts Fellow, I'm Ortherdox Christian like my ansetor Charles Darwin, I weigh 168 and have maintained my wieght for 20 years at my Body Mass Index. My immediate has paid out taxes since Railroad Financing in Pennsylvania and Virginia, 1830-1860. I have a Mormal MRI, My Net Worth is $14.4 million in value in a bank account. I own a Nationwide mutual fund with initial investment of $10K. $100K pre investment assistance grant and ONADA Forex trading. Quickbooks will work when the federal reserve tells the local bank it needs to go to a treasury auction have a EIN number. I'm a Moore, Chapman, Hathaway, McCulley, Spencer and Lyon and Irish Ashkenazi Jewish. My Family Tree Genealogy Research was done by Illuminia and National Geographic. Microsoft System Integrator with valid contract from 2002-present. INTJ-T tested at the University of California, University of Virginia Computer Science Alumni. With 3.5 GPA Scholar Award. I was UVa's ACM Vice President in 2008-2010. I'm also Windows 7/2008 Internals Certified. Former Macromedia User Group trainer from 1999. WK3 was released on my birthday. I grew up studying Euclid to Von Newman Mathematics from Princeton.
@@ -242,9 +244,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <a href="https://dl.acm.org/doi/10.1145/2445196.2445344">Learning computer science in the "comfort zone of proximal development"</a>
 
-<a href="https://answersingenesis.org/charles-darwin/was-charles-darwin-a-christian">Was Charles Darwin a Christian?</a>
-
-<a href="https://www.forbes.com/sites/dbloom/2021/09/27/hollywood-edges-closer-to-strike-with-cinematographers-vote/">Hollywood Edges Closer To Strike With Cinematographers Vote</a>-->
+<a href="https://www.forbes.com/sites/dbloom/2021/09/27/hollywood-edges-closer-to-strike-with-cinematographers-vote/">Hollywood Edges Closer To Strike With Cinematographers Vote</a>
 
 <a href="https://channeldrive.in/cloud-computing/perficient-enables-azure-cloud-solutions-for-builders-firstsource/">Perficient Enables Azure Cloud Solutions for Builders FirstSource</a>
 
