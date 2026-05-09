@@ -1,5 +1,5 @@
 ﻿<img src="./images/github-header-banner.png">
-<img src="./images/594154753_2036832087111333_3537455058827388930_n.jpg">
+<img src="./images/691390605_2164731840988023_3433254016940775997_n.jpg">
 
   
 <h2>Jonathan Stoker Moore FRSA </h2>
@@ -49,7 +49,7 @@ I've worked for ID Software for Quake 1, 2 and 3 Arena. I was born with as lisp.
 
 I've done work with BSD in 2001 on the Common Desktop Environment for x86. I would like to teach the top down software design approach of Bell Labs Plan 9 to students. I have submitted my Bell Labs distinguished academic scholar application to Nokia Bell Labs awaiting approval in 2026. I'm a Windows Compact Embedded Program Licensee through the Shared Source Initiative. And looking to License Code Center Premium through Shared Source Law.
 
-My licensed work is in the Computer History Museum for Macromedia. I own a Macromedia Patent Portfolio. I helped ship Macromedia Studio 8 and Windows Server 2003 and the Windows 11 Dev Drive. I also worked on official Windows 8/8.1 PowerPoint Storyboards. I'm also A Windows Compact Embedded Shared Source Initiative Licensee 2000-2023.  The Royal Society of the Arts fired a hospital executive that did me injustice in 2021. Future work will be for Mathworks in Matlab. I'm seeing a patent lawyer to get inventors compensation in a Taiwan judgment on Lexology. My family lives in NY, California, In 2005 I received the Microsoft 'Longhorn Migration Guide' their 3rd cultural reset and what is supposed to be my PhD. In 2024 I claimed the movies Artificial Intelligence 2001 (Because of the Macromedia Website work I did), and the movies 'The Perfect 46' because of my Geno 2.0 results and the upcoming 'Soulm8te' movie. Because of my theory with Anne Hathaway the Actress who is most likely my cousin. My mother was on the board of the YWCA and wanted to be a conductor before she married my father.</p>
+My licensed work is in the Computer History Museum for Macromedia. I own a Macromedia Patent Portfolio. I helped ship Macromedia Studio 8 and Windows Server 2003 and the Windows 11 Dev Drive. I also worked on official Windows 8/8.1 PowerPoint Storyboards. I'm also A Windows Compact Embedded Shared Source Initiative Licensee 2000-2023.  The Royal Society of the Arts fired a hospital executive that did me injustice in 2021. Future work will be for Mathworks in Matlab. I'm seeing a patent lawyer to get inventors compensation in a Taiwan judgment on Lexology. My family lives in NY, California, In 2005 I received the Microsoft 'Longhorn Migration Guide' their 3rd cultural reset and what is supposed to be my PhD. In 2024 I claimed the movies Artificial Intelligence 2001 (Because of the Macromedia Website work I did), and the movies 'The Perfect 46' because of my Geno 2.0 results and the upcoming 'Soulm8te' movie. Because of my theory with Anne Hathaway the Actress who is most likely my cousin.</p>
 
 <p>When Microsoft released the first version of Windows NT in April 1993, the company’s marketing and public relations campaign heavily emphasized the NT (i.e., New Technology) in the operating system’s (OS’s) name. Microsoft promoted NT as a cutting-edge OS that included all the features users expected in an OS for workstations and small to midsized servers. Although NT was a new OS in 1993, with a new API (i.e., Win32) and new user and systems-management tools, the roots of NT’s core architecture and implementation extend back to the mid-1970s.
 
@@ -112,7 +112,7 @@ Made five ambient albums and went #1 on the Ireland charts. Licensed the PX-18 S
 <h3>Northrop Grumman Corporation</h3>
 
 Intern engineer  2012 - 2015  · Falls Church, Virginia
-Made a Missile Container with Java and Android. With Secret Security Clearance and NDA. Defends the <a href="https://www.justicecenter.ny.gov/system/files/documents/2020/03/51800-jonathans-law.pdf">Jonathan's law.</a> Conspiracy is a crime unless an agreement is made.-->
+Made a Missile Container with Java and Android. With Secret Security Clearance and NDA. Defends the <a href="https://www.justicecenter.ny.gov/system/files/documents/2020/03/51800-jonathans-law.pdf">Jonathan's law.</a> Conspiracy is a crime unless an agreement is made.
 
 <h3>Microsoft for Startups</h3>
 
@@ -140,7 +140,7 @@ Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeB
 <h3>Apple Computer</h3>
 
 Software Developer  · 2001 - Present
-In Apple Computer's Quest for a Operating System I opended Gershwin In my 20's I opened the macOS with 10.0 Licensed Quicktime Source Code. I use the Pascel System, with the Bash shell and GNUStep, Project Center, Window Maker and the Darwin SDK the project files-files. 
+Start with the Bash shell and GNUStep, Project Center, Window Maker and the Darwin SDK the project files-files. Licensed Quicktime Source Code.
 
 <h3>Silicon Graphics Inc.</h3>
 
