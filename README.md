@@ -35,6 +35,8 @@
 
 <p><a href="https://medium.com/@michaelswaine/charles-babbage-throws-a-party-e6abcef8fef1">Charles Babbage Throws a Party</a></p>
 
+<p><a href="https://academic.oup.com/gbe/article/8/3/607/2574116">Evolutionary Relationships among Extinct and Extant Sloths: The Evidence of Mitogenomes and Retroviruses Because Sloths Do Not Have Last Names</a></p>
+
 <p><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value</a></p>
 
 <h2>PROFESSIONAL SUMMARY</h2>
