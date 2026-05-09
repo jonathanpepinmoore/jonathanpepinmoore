@@ -149,11 +149,17 @@ SGI's Standard Template Library Port. Used Windows NT 4.0 for MIPS computer arch
 Non Employee Director  · 1999 - 2017  · San Francisco, California
 First investment was at Moors and Cabot for Disney and Macromedia. Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.-->
 
+<p>Morrell Music and Builders First Source Curtis Morrell, Kelly Curtis, and my father were promoter for 8 Pearl Jam shows. Including my graduation show in 2013.</p>
+
+<h3>Guns N' Roses</h3>
+
+<p>My Aunt attended the 1988 Aerosmith show and brought back a autograph</p>
+
+<li><a href="https://www.setlist.fm/setlist/guns-n-roses/1991/the-ritz-new-york-ny-7bd57ad8.html">The Ritz, NYC (May 16, 1991)</a></li>
+
 <h3>Pearl Jam Ten Club</h3>
 
 1991-2026
-
-<p>Morrell Music and Builders First Source Curtis Morrell, Kelly Curtis, and my father were promoter for 8 Pearl Jam shows. Including my graduation show in 2013.</p>
 
 <ul>
 <li><a href="https://www.setlist.fm/setlist/pearl-jam/1998/thompson-boling-arena-knoxville-tn-63d61233.html">Thompson-Boling Arena - Knoxville, Tennssesse, Sept 06, 1998</a> [attended]</li>
