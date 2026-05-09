@@ -435,7 +435,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <img src="./images/690928864_2164520674342473_3116230864931658315_n.jpg">
 
-<img src="./images/building windows.gif">
+<!--<img src="./images/building windows.gif">-->
 
 <!--<video>
   <source src="3211065649066898.mp4" type="video/mp4">
