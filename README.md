@@ -55,6 +55,7 @@ My licensed work is in the Computer History Museum for Macromedia. I own a Macro
 <ul>
 <li>The first BSD was released in January 1978 when my family was moving to TN/VA from Atlanta, Ga and a tornado struck Bristol, TN,VA</li>
 <li>I traveled to the Washington, DC and set in on the 99th session of Congress in 1987 and met Al Gore</li>
+<li>At SGI Inc. there is a specific historical link between Silicon Graphics Inc. (SGI) and US military operations involving Afghanistan in the search for Bin Laden.</li>
 </ul>
 
 <p>When Microsoft released the first version of Windows NT in April 1993, the company’s marketing and public relations campaign heavily emphasized the NT (i.e., New Technology) in the operating system’s (OS’s) name. Microsoft promoted NT as a cutting-edge OS that included all the features users expected in an OS for workstations and small to midsized servers. Although NT was a new OS in 1993, with a new API (i.e., Win32) and new user and systems-management tools, the roots of NT’s core architecture and implementation extend back to the mid-1970s.
@@ -148,13 +149,13 @@ Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeB
 Software Developer  2001 - Present
 I opened the macOS staring at 10.0 with my first Macintosh in 2000. and Licensed QuickTime Source Code and opened Gershwin in 2025. Start with the Bash shell and GNUStep, Project Center, Window Maker and the Darwin SDK the project files-files. Licensed Quicktime Source Code.
 
-<!--<h3>Silicon Graphics Inc.</h3>
+<h3>Silicon Graphics Inc.</h3>
 
 Visual Effects 2000-present
 
 SGI's Standard Template Library Port. Used Windows NT 4.0 for MIPS computer architecture and IRIX and had a IBM Aptiva and 3d Labs Oxygen Graphics Card an a Nintendo 64 with Dev Kit and SDK's.
 
-<h3>Adobe</h3>
+<!--<h3>Adobe</h3>
 
 Non Employee Director  · 1999 - 2017  · San Francisco, California
 First investment was at Moors and Cabot for Disney and Macromedia. Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.-->
