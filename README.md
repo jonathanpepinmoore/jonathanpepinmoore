@@ -196,7 +196,7 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <p>Sullins Academy 1984</p>
 
 <h2>SOCITIES</h2>
-<p>2026 Joined California State Fulerton Founders Society supporting the Myers Briggs</p>
+<p>2026 Joined California State Fullerton Founders Society supporting the Myers Briggs</p>
 <p>2026 Joined Oxford University Founders Society supporting the new social mobility now Count Moore [old new thing]</p>
 <p>2025 Joined UVa's Founder Society</p>
 
@@ -236,7 +236,7 @@ The price or cost is about $45K from Direct and Amazon.</p>-->
 
 <p>Also housing discrimination against a Royal Society of the Arts lifetime fellow and career negligence on the part of the democratic party. I paid my tuition, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the academic journals to be avaible to the homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash $3K to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting one home and I rent. When I was furniture porter I paid for my families dinning room suit and living room. Now I rent and I've paid for everything in my apt. Including the den and bedroom suit and office equipment.</p>-->
 
-<!--<p>Letters of recomendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama.</p>
+<!--<p>Letters of recommendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama.</p>
 
 Copyright 2025 Monster.com and Career Builder.
 
@@ -363,7 +363,7 @@ Copyright 2025 Monster.com and Career Builder.
 * [Visual Studio Image Library](https://www.microsoft.com/en-us/download/details.aspx?id=35825)
 * [IcoFX](https://icofx.ro/)
 
-### Shared Source Common Langugue Infustructure
+### Shared Source Common Language Infustructure
 * [SSCLI](https://github.com/sphinxlogic/sscli) 
 * [Common Type System](https://docs.microsoft.com/en-us/dotnet/standard/base-types/common-type-system)
 
@@ -447,11 +447,11 @@ Copyright 2025 Monster.com and Career Builder.
    <li><a href="https://macintoshgarden.org/search/node/macromedia">Macromedia</a>
 </ul>-->
 
-<!--<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergraduate degree in computer science becuase of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Sowehere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
+<!--<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergraduate degree in computer science because of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Somewhere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
 
-<p>I've filed a lawsuit with the Microsoft Legal about the the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>-->
+<p>I've filed a lawsuit with the Microsoft Legal about the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>-->
 
-<img src="./images/687589009_2164485334346007_8102692331469367298_n.jpg">
+<img src="./images/Screenshot 2026-05-09 215807.jpg">
 
 <!--<img src="./images/building windows.gif">-->
 
@@ -461,7 +461,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <img src="./images/CIA.jpg">
 
-<h2>Every Microsoft Windows Release, SDK, DDK, and Symbols; 1.63 TB Working on a build server with every build. A FTP Server that 1.62 TB, 183 GB in Research, 3.73 TB in Virual Machines<h2>
+<h2>Every Microsoft Windows Release, SDK, DDK, and Symbols; 1.63 TB Working on a build server with every build. A FTP Server that 1.62 TB, 183 GB in Research, 3.73 TB in Virtual Machines<h2>
 
 <!--<ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
@@ -488,7 +488,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <h2>Anne Hathaway as retold By her cousin Jonathan David Allen Moore</h2>
 
-<p>I tested as Anne Hathaway the Actress DNA match in 2018 from National Genographic 2.0. My mother was on the board of the YWCA who named my blanket gigi after a Audrey Hepburn film in 1983. I worked for Macromedia and my first investment was at Moors and Cabot in 1999 for Disney and Macromedia, I was valaditorian of my prepatory college class in 2000 as she played a valaditorian in the TV Series 'Get Real' and as a INTJ-T in 2006 after finding out I was related to Jane Austin the author and the movie 'Becoming Jane' there are two references to me in the movie the retarded scene after I made fun of a retarad man at VHCC in 2006 in bolwing class and the boxing cousin scene. Another one was in Bride Wars were my roomates were getting marrried and and the uncanny likeiness to them in the movie I grew up on Murphy Brown. Another one was Brokeback Mountain were in 2005 where I told my father about my homosexual experience in elementry school with Scott Shepard. Another one was Sex and Other Drugs were I won a <b>Microsoft SQL Server Sales Award</b> in 2007.</p> 
+<p>I tested as Anne Hathaway the Actress DNA match in 2018 from National Genographic 2.0. My mother was on the board of the YWCA who named my blanket gigi after a Audrey Hepburn film in 1983. I worked for Macromedia and my first investment was at Moors and Cabot in 1999 for Disney and Macromedia, I was valedictorian of my prepatory college class in 2000 as she played a valaditorian in the TV Series 'Get Real' and as a INTJ-T in 2006 after finding out I was related to Jane Austin the author and the movie 'Becoming Jane' there are two references to me in the movie the retarded scene after I made fun of a retarad man at VHCC in 2006 in bolwing class and the boxing cousin scene. Another one was in Bride Wars were my roomates were getting marrried and and the uncanny likeiness to them in the movie I grew up on Murphy Brown. Another one was Brokeback Mountain were in 2005 where I told my father about my homosexual experience in elementry school with Scott Shepard. Another one was Sex and Other Drugs were I won a <b>Microsoft SQL Server Sales Award</b> in 2007.</p> 
 
 Another one was the movie 'Havoc' was her handicam as I sold a Sony handicamp to a friend in 1996. Another one was my Uncles Glenn's Flower Shop when I was my car to get fixed with Kara Kiser and her Valentines Day movie I stutter or used to and the Pete Townshend GS Scooter reference. She is very good at method acting with family. Another one was in Passengers the Movie with me always flirting with hospital staff. In the TV Series Modern Love Season 1 Episode 3 she mocked me always going to the grocery store and a letter from Brack Obama. Another one was in the movie the Idea of You. Where I shaperoned Tasha Sokolow and Frances Masterson at Lollapalooza 1996 and met the band Soundgarden.</p>
 
