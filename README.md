@@ -41,7 +41,7 @@
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
-<p>I'm using Family Tree DNA. I'm a Royal Society of the Arts Fellow, I worked on Steven Spielberg's movie Artificial Intelligence Macromedia Flash Website, help ship Macromedia Studio 8 and Retired Microsoft Gold Partner and worked on Microsoft MAUI in college in 2009 where I was featured in US and world report as a 30 under 30 millionaire with Edward Jones on admissions to UVa now with a UVa Computer Science Degree and 25 years in the computer industry. Straight A college graduate with a Scholar Award and Microsoft SQL Server Sales Award. I'm also a Microsoft MVP.
+<p>I'm using Family Tree DNA. I'm a Royal Society of the Arts Fellow, I worked on Steven Spielberg's movie Artificial Intelligence Macromedia Flash Website, help ship Macromedia Studio 8 and Retired Microsoft Gold Partner and worked on Microsoft MAUI in college in 2009 where I was featured in US and world report as a 30 under 30 millionaire with Edward Jones on admissions to UVa now with a UVa Computer Science Degree and 25 years in the computer industry. Straight A college graduate with a Scholar Award and Microsoft SQL Server Sales Award. I'm also a Microsoft MVP. With lifetime affiliate TrainSec Microsoft Windows Internals Certification.
 
 I have $73 million in M&A owners equity for business. I did well on the market. I just need a IPO to turn equity into cash through a IPO. I'm a direct decedent of the famed Charles Darwin, Jimmy Buffet, the Today Show's Ann Curry and Jesse James; Curtis Hathaway, Morgan Gates, Ann Turner, Ruthie McCulley, Ament Family and Pepin the Short. Bill Gates taught me not to let your company drown in cash and lets keep it that way. I was born on April 24th 1978. Microsoft Windows Server 2003 was released on my birthday.
 
