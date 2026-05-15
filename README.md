@@ -49,10 +49,9 @@ I have $73 million in M&A owners equity for business. I did well on the market. 
 
 Looking forward to a Adobe sponsored Sun Microsystems Grant and spending time with my father the Builders First Source retired executive David Moore. I've been a Microsoft Knowledge worker for 25 years collecting source code and building Operating Systems. I had a MSDN Help technical case in 2003 to put the MSDN Library online. I would have you in Operating Systems Theory if it wasn't for Facebook in 2004. My family drafted a irrevocable trust in 2019.
 
-Lastly I'm I know Jesus Christ was a Moor and if he were a DNA biologist he would not have been crucified. He was possibly the first celebrity.
+Lastly I'm I know Jesus Christ was a Moor and if he were a DNA biologist he would not have been crucified. He was possibly the first celebrity. Finally Me, Jonathan David Allen Moore discovered the American Type Culture Collection website in 2001 and used Internet Explorer as a IE favorite for Immortalized Cell Lines.
 
 Written and copyright by Jonathan Moore 2026
-
 
 <h3>Events</h3>
 <ul>
