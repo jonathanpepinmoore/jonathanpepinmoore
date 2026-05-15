@@ -45,11 +45,11 @@
 
 I was featured in US and world report as a 30 under 30 millionaire with Edward Jones on admissions to UVa-Wise in the Founders Society now with a UVa Computer Science Degree and 25 years in the computer industry. Straight A college graduate with a Scholar Award and Microsoft SQL Server Sales Award. I'm also a Microsoft MVP. With lifetime affiliate TrainSec Microsoft Windows Internals Certification. Made a Human Genome Database in college from esembl text files.
 
-I have $73 million in M&A owners equity for business. I did well on the market. I just need a IPO to turn equity into cash through a IPO. I'm a direct decedent of the famed Charles Darwin, Jimmy Buffet, Nicolaus Copernicus, the Today Show's Ann Curry, Francis Crick and Jesse James; Curtis Hathaway, Patricia Underwood, Donny Rose, Kristen Hamilton, Morgan Gates, Ann Turner, Ruthie McCulley, Harold Stoker, Steve McCready, Jay Mueller and Pepin the Short. Bill Gates taught me not to let your company drown in cash and lets keep it that way. I was born on April 24th 1978. Microsoft Windows Server 2003 was released on my birthday.
+I have $73 million in M&A owners equity for business. I did well on the market. I just need a IPO to turn equity into cash through a IPO. I'm a direct decedent of the famed Charles Darwin, Jimmy Buffet, Nicolaus Copernicus, the Today Show's Ann Curry, Francis Crick and Jesse James; Curtis Hathaway, Patricia Underwood, Donny Rose, Kristen Hamilton, Morgan Gates, Ann Turner, Ruthie McCulley, Harold Stoker, Jay Mueller, Steve McCready and Pepin the Short. Bill Gates taught me not to let your company drown in cash and lets keep it that way. I was born on April 24th 1978. Microsoft Windows Server 2003 was released on my birthday.
+
 Looking forward to a Adobe sponsored Sun Microsystems Grant and spending time with my father the Builders First Source retired executive David Moore. I've been a Microsoft Knowledge worker for 25 years collecting source code and building Operating Systems. I had a MSDN Help technical case in 2003 to put the MSDN Library online. I would have you in Operating Systems Theory if it wasn't for Facebook in 2004. My family drafted a irrevocable trust in 2019.
 
-Written and copyright by Jonathan Moore 2026
-</p>
+Written and copyright by Jonathan Moore 2026</p>
 
 
 
