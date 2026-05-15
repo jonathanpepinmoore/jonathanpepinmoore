@@ -48,7 +48,8 @@ I was featured in US and world report as a 30 under 30 millionaire with Edward J
 I have $73 million in M&A owners equity for business. I did well on the market. I just need a IPO to turn equity into cash through a IPO. I'm a direct decedent of the famed The last Emperor of Russia Nicolas the II, Charles Darwin, Jimmy Buffet, Nicolaus Copernicus, the Today Show's Ann Curry, Francis Crick and Jesse James; Curtis Hathaway, Patricia Underwood, Donny Rose, Kristen Hamilton, Morgan Gates, Ann Turner, Ruthie McCulley, Harold Stoker, Jay Mueller, Melanie Boyle, Patricia York, Steve McCready, Robert Shelley, Dr. John R Hall and Pepin the Short. Bill Gates taught me not to let your company drown in cash and lets keep it that way. I was born on April 24th 1978. Microsoft Windows Server 2003 was released on my birthday.
 
 Looking forward to a Adobe sponsored Sun Microsystems Grant and spending time with my father the Builders First Source retired executive David Moore. I've been a Microsoft Knowledge worker for 25 years collecting source code and building Operating Systems. I had a MSDN Help technical case in 2003 to put the MSDN Library online. I would have you in Operating Systems Theory if it wasn't for Facebook in 2004. My family drafted a irrevocable trust in 2019.
-Written and copyright by Jonathan Moore 2026
+
+Lastly I'm I know Jesus Christ was a a Moor and if he were a DNA biologist he would not have been crucified. He was possibly the first celebrity.
 
 Written and copyright by Jonathan Moore 2026
 
