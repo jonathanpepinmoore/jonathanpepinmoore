@@ -39,6 +39,9 @@
 
 <p><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value</a></p>
 
+<p><a href="https://www.mirrorservice.org/">Kent Mirror Service</a></p>
+
+
 <h2>PROFESSIONAL SUMMARY</h2>
 
 <p>I'm using Family Tree DNA. I tested as a INTJ-T like Dr. Steven Hawking as a INTJ. I'm a Royal Society of the Arts Fellow. My grandmother Helen Mcnutt taught me about oil crisis in 1980's. My mother Charlene Chatman bought me my first PC and Tandy computer which originally sold leather. I went to Hollins Communication and was diagnosed with a lateral excision lisp and helped the actress Emily Blunt with her computer in 1989. I worked on Steven Spielberg's movie Artificial Intelligence Macromedia Flash Website, help ship Macromedia Studio 8 with a Macromedia patent portfolio. My first investment was at Moors and Cabot and Anne Hathaway the actress is my first soulmate. I licensed QuickTime source code in 2001 from Apple Computer. I own $2 million in housing vouchers from a Charlton Sheets program. I'm a retired Microsoft Gold Partner and worked on Microsoft MAUI in college in 2009 where.
