@@ -41,6 +41,8 @@
 
 <p><a href="https://www.mirrorservice.org/">Kent Mirror Service</a></p>
 
+<p><a href="https://windowsdevops.github.io/">Windows Devops</a></p>
+
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
