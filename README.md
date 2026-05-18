@@ -80,7 +80,7 @@ And now… The rest of the story: I’ll take you on a short tour of NT’s line
 
 <h2>The following is CD/DVD date stamped</h2>
 
-<!--<h3>Counsel Of Foreign Relations</h3>
+<h3>Counsel Of Foreign Relations</h3>
 
 2026-present
 
@@ -96,7 +96,7 @@ Chair inherited a 1800's Shakespeare Collection from London, UK raised on Macmil
 
 Won my Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 System Intergrator Shared Source Contract in 2003
 
-<!--<h3>Nintendo of America</h3>
+<h3>Nintendo of America</h3>
 
 2024-present
 
@@ -134,7 +134,7 @@ Solution Partner  · 2003 - Present  · Bristol, Virginia
 
 <p><a href="https://www.wintellectnow.com/">Wintellect</a> Won Microsoft SQL Server Sales award and have yet to collect sales revenue. Submitted my Visual Style Sample and it shipped. Used Goliath in Remote Installation Services. Worked on Windows 8 Storyboards and Codeplex and .NET 6.0 GA. Using Microsoft Windows Server Deployment Services as a Transport Server and a Vista DDK Windows Management Instrumentation Sample for Image Enumeration. To connect to a Microsoft Corporate Deployment Server. Signed Desktop Application NDA in 2022. Also built the Powershell v7.0 With Visual Studio.NET Disclosures. Bought the Book Hard Drive: Bill Gates Birth of a Microsoft Empire and worked 20 years on a copy of Bill Gates Hard Drive. Using RSTAT Tools for Active Directory and DSQuery. Using Microsoft Windows 10 Enterprise 2019 LTSC and Windows 11 2024 IoT LTSC.</p>
 
-<!--<h3>IMDbPro</h3>
+<h3>IMDbPro</h3>
 
 Animator  · 2001 - 2014  · Los Angeles, California
 Artificial Intelligence, Finding Nemo,-->
@@ -155,7 +155,7 @@ Visual Effects 2000-present
 
 SGI's Standard Template Library Port. Used Windows NT 4.0 for MIPS computer architecture and IRIX and had a IBM Aptiva and 3d Labs Oxygen Graphics Card an a Nintendo 64 with Dev Kit and SDK's.
 
-<!--<h3>Adobe</h3>
+<h3>Adobe</h3>
 
 Non Employee Director  · 1999 - 2017  · San Francisco, California
 First investment was at Moors and Cabot for Disney and Macromedia. Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.-->
@@ -236,7 +236,7 @@ The price or cost is about $45K from Direct and Amazon.</p>-->
 
 <p>Also housing discrimination against a Royal Society of the Arts lifetime fellow and career negligence on the part of the democratic party. I paid my tuition, I did not qualify for the Pell Grant my EFC was to high and my family pays its real estate taxes we expect the academic journals to be avaible to the homeowner. As much as we pay for internet service. Over $150 a month. I'm giving cash $3K to my father for a local lawyer's fee's soon he is about to go into a nursing home in five years or less. I'm inheriting one home and I rent. When I was furniture porter I paid for my families dinning room suit and living room. Now I rent and I've paid for everything in my apt. Including the den and bedroom suit and office equipment.</p>-->
 
-<!--<p>Letters of recommendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama.</p>
+<p>Letters of recommendation from Microsoft Co-Founder Bill Gates, CEO Steve Ballmer and President Brack Obama.</p>
 
 Copyright 2025 Monster.com and Career Builder.
 
@@ -426,7 +426,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.theguardian.com/global-development/2016/sep/28/destruction-of-heritage-weapon-of-war-timbuktu-shrines-irina-bokova">At last, the destruction of heritage has been recognised as a weapon of war</a></li>
 </ul>
 
-<!--<p>I'm a 47-year-old Royal Society of the Arts Fellow, with $20 Million in M&A equity from Mishibushi Financial in Japan. I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infostructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Intelligence for Steven Spielberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Ambient Music for 8 weeks straight. In 2001 I was featured on CNN's by Aaron Brown at Macromedia as a Child Celebrity. I was mailed a Harvard University Social Sciences Application my Microsoft David Cutler. I'm suing McClure Racing for the Book. <a href="https://www.amazon.com/Hacking-Exposed-Windows-Microsoft-Solutions/dp/007149426X">'Hacking Windows'</a> Morgan McClure Racing hacked my Windows 2000 Theme to a contrast theme my the receiving Dr never took a Contrast MRI until 2018.</p> 
+<p>I'm a 47-year-old Royal Society of the Arts Fellow, with $20 Million in M&A equity from Mishibushi Financial in Japan. I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infostructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Intelligence for Steven Spielberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Ambient Music for 8 weeks straight. In 2001 I was featured on CNN's by Aaron Brown at Macromedia as a Child Celebrity. I was mailed a Harvard University Social Sciences Application my Microsoft David Cutler. I'm suing McClure Racing for the Book. <a href="https://www.amazon.com/Hacking-Exposed-Windows-Microsoft-Solutions/dp/007149426X">'Hacking Windows'</a> Morgan McClure Racing hacked my Windows 2000 Theme to a contrast theme my the receiving Dr never took a Contrast MRI until 2018.</p> 
 
 <p>My Microsoft Bizspark Startup is a 22 year Microsoft in Contract System Intergrator and Microsoft and Builders First Source Company we support Macromedia and the Computer History Museum, Sun Microsystems, User Groups and Care Packages. We also want Computer Science and Celebrity Metadata reform. We support Amazon and IMDB, World Book and Wikipedia as a technology wiki. Also Project Gutenberg. Also the SENS Foundation and giving Tuesday the first Tuesday of every month. I don't support technology as a form of population control I supoort China. I might if Microsoft supports the DNA match making and HLA System.</p>
 
@@ -442,14 +442,14 @@ Copyright 2025 Monster.com and Career Builder.
 
 <p>Reading becoming a ethical hacker by O'Riley Media Set up a Metasploitable Vitrual Machine. Don't support the MIT Media lab and their metadata dept on the internet.</p>
 
-<!--<h2>Macromedia</h2>
+<h2>Macromedia</h2>
 <ul>
    <li><a href="https://macintoshgarden.org/search/node/macromedia">Macromedia</a>
-</ul>-->
+</ul>
 
-<!--<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergraduate degree in computer science because of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Somewhere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
+<p>I applied to Stanford University just to graduate in 2026 into graduate program but I might have to take a undergraduate degree in computer science because of the 8 semester public education graduation rule. All credits are being transfered with a $120 application fee. The east coast is just to mean the west coast is nicer and has innocent movies I'm not buying Anne Hathaway's east coast NY Somewhere Pictures movies past 2012 she's become mean and abusive her manager has been emailed her soulmate east coast DOJ abuse case. I'm asking my father a Builders First Source former retired executive to develop land on the west cost as usual. The homeless problem will take care of itself once COCOMO II, <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">value of prepetual licencing</a> and cash conversion cycle is taught at my best guess. It is annual invoices plus 25% for improvment.</p>
 
-<p>I've filed a lawsuit with the Microsoft Legal about the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>-->
+<p>I've filed a lawsuit with the Microsoft Legal about the inventors of social media it kills innovation and <a href="https://www.sciencedirect.com/science/article/pii/S0306460324002740">causes autism</a> when competion law should be enforced.</p>
 
 <img src="./images/Screenshot 2026-05-09 215807.jpg">
 
