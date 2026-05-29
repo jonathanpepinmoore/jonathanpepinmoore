@@ -2,7 +2,7 @@
 <img src="./images/691390605_2164731840988023_3433254016940775997_n.jpg">
 
   
-<h2>Jonathan Stoker Moore FRSA </h2>
+<h2>Jonathan Pepin Moore FRSA </h2>
 <p>jonathanmoore@computer.org | jonathanmoore@sphinxlogic.onmicrosoft.com | https://sphinxlogic.visualstudio.com | Reston, Va, US | +1 276-696-1163<p></p>
 
 <p><a href="https://pro.imdb.com/name/nm16454040?ref_=wa_nv_pro">Jonathan Moore's IMDB Pro</a></p>
