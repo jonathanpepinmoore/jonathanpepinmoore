@@ -189,7 +189,7 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 
 <p>Met Stone Gossard and Jeff Ament and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
 
-<!--<h2>EDUCATION</h2>
+<h2>EDUCATION</h2>
 
 <p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
 <p>Stanford Online Liqunia-Graduated 2017-01-01 Computer Science</p>
@@ -209,7 +209,7 @@ First investment was at Moors and Cabot for Disney and Macromedia. Worked on the
 <p>Windows 7 Internals</p>
 <p>Lifetime Windows Internals Trainsec</p>
 
-<!--<h2>Home Network</h2>
+<h2>Home Network</h2>
 
 <p>Still Single, at 48; In 2024-2025 I began home networking again here is what I accomplished. 2 Computers on 2024 Mac Pro, One Elite Desk Hewlett Packard 2020 running Microsoft Windows 2019 Enterprise LTSC, LG Smart TV connected to a Comcast Enterprise Cable Modem. via Category 5 Ethernet cable. Sony PlayStation 5,  Microsoft Xbox X Series. Nintendo Switch and Switch 2. with about 30 games and 75 movies on Blu-ray. A 100 Terabyte Enclosure. with a Universal Sony Disc Player. The Consoles are connected to a HDMI Switch connected to the Klisph home theater. Biometic Fingerprint reader, and a Bluetooth Logi tech Webcam. LP Record Player. Kodak Pro Camera and JVC Video Capture Equipment and a Xerox Laser Jet Printer and USB Hub and peripherals. I'm connecting a Digital Storm Windows Server to the network in 2026. 100TB Orico Encousure to hot swap the drives. Final Cut Pro, Virtual Box, Coral Draw Suite with Licensed Macromedia Flash Source Code now in the Computer History Museum. Matlab 
 
@@ -431,7 +431,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://www.theguardian.com/global-development/2016/sep/28/destruction-of-heritage-weapon-of-war-timbuktu-shrines-irina-bokova">At last, the destruction of heritage has been recognised as a weapon of war</a></li>
 </ul>
 
-<p>I'm a 47-year-old Royal Society of the Arts Fellow, with $20 Million in M&A equity from Mishibushi Financial in Japan. I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infostructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Intelligence for Steven Spielberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Ambient Music for 8 weeks straight. In 2001 I was featured on CNN's by Aaron Brown at Macromedia as a Child Celebrity. I was mailed a Harvard University Social Sciences Application my Microsoft David Cutler. I'm suing McClure Racing for the Book. <a href="https://www.amazon.com/Hacking-Exposed-Windows-Microsoft-Solutions/dp/007149426X">'Hacking Windows'</a> Morgan McClure Racing hacked my Windows 2000 Theme to a contrast theme my the receiving Dr never took a Contrast MRI until 2018.</p> 
+<!--<p>I'm a 47-year-old Royal Society of the Arts Fellow, with $20 Million in M&A equity from Mishibushi Financial in Japan. I was awarded my fellowship after I helped discover the Higgs Boson at CERN with BOINC or Berkeley Open Infostructure in 2012 with many others. In 2001 I helped work on the Macromedia Flash site for the movie Artificial Intelligence for Steven Spielberg and the movie Finding Nemo. Macromedia now in the Computer History Museum. In 2018 I went #1 in Ireland on Reverbnation and Billboard Magazine in Ambient Music for 8 weeks straight. In 2001 I was featured on CNN's by Aaron Brown at Macromedia as a Child Celebrity. I was mailed a Harvard University Social Sciences Application my Microsoft David Cutler. I'm suing McClure Racing for the Book. <a href="https://www.amazon.com/Hacking-Exposed-Windows-Microsoft-Solutions/dp/007149426X">'Hacking Windows'</a> Morgan McClure Racing hacked my Windows 2000 Theme to a contrast theme my the receiving Dr never took a Contrast MRI until 2018.</p> 
 
 <p>My Microsoft Bizspark Startup is a 22 year Microsoft in Contract System Intergrator and Microsoft and Builders First Source Company we support Macromedia and the Computer History Museum, Sun Microsystems, User Groups and Care Packages. We also want Computer Science and Celebrity Metadata reform. We support Amazon and IMDB, World Book and Wikipedia as a technology wiki. Also Project Gutenberg. Also the SENS Foundation and giving Tuesday the first Tuesday of every month. I don't support technology as a form of population control I supoort China. I might if Microsoft supports the DNA match making and HLA System.</p>
 
