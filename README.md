@@ -101,57 +101,56 @@ Chair inherited a 1800's Shakespeare Collection from London, UK raised on Macmil
 
 Won my Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 System Intergrator Shared Source Contract in 2003
 
-<h3>Royal Society of the Arts Fellowship</h3>
+<h2>Royal Society of the Arts Fellowship</h2>
 
 <p><a href="https://www.jstor.org/journal/rsaj">RSA Journal</a></p>
 
 2018 - present
 
-Royal Charter The RSA is established by Royal Charter as its formation pre-dated the establishment of modern company law. A Royal Charter establishes a collection of individuals as a single legal entity – predating more modern legal ways to do this, such as companies and corporations. We continue to maintain a connection with the Royal Household; our Patron is the Princess Royal. The RSA’s charitable purposes are enshrined within its Royal Charter. Our Royal Charter was last updated in 2025. Our current charitable purposes are: ‘The encouragement of the Arts Manufactures and Commerce… . advancement of education in and the encouragement and conduct of research into the sustainable context within which the said Arts Manufactures and Commerce may prosper and be managed efficiently including research on al Commerce Design Industry Public Services Science Technology Social Enterprises Voluntary and other Arts to make both such research findings available to the public as wel as al other exclusively charitable purposes’ RSA Royal Charter RSA Supplementary Royal Charter Fellows’ Charter The RSA is a membership organisation whose members (Fellows) make a charitable subscription which contributes to the charitable work of the RSA (unless waived). All Fellows are expected to follow the RSA Fellows Charter and the code of conduct as part of their commitment. RSA Fellows’ Charter RSA Code of Conduct Bye-laws Additionally, the RSA is governed by agreed bye-laws amendments to which are approved by the Trustee Board and voted on by its members (Fellows).-->
+Royal Charter The RSA is established by Royal Charter as its formation pre-dated the establishment of modern company law. A Royal Charter establishes a collection of individuals as a single legal entity – predating more modern legal ways to do this, such as companies and corporations. We continue to maintain a connection with the Royal Household; our Patron is the Princess Royal. The RSA’s charitable purposes are enshrined within its Royal Charter. Our Royal Charter was last updated in 2025. Our current charitable purposes are: ‘The encouragement of the Arts Manufactures and Commerce… . advancement of education in and the encouragement and conduct of research into the sustainable context within which the said Arts Manufactures and Commerce may prosper and be managed efficiently including research on al Commerce Design Industry Public Services Science Technology Social Enterprises Voluntary and other Arts to make both such research findings available to the public as wel as al other exclusively charitable purposes’ RSA Royal Charter RSA Supplementary Royal Charter Fellows’ Charter The RSA is a membership organisation whose members (Fellows) make a charitable subscription which contributes to the charitable work of the RSA (unless waived). All Fellows are expected to follow the RSA Fellows Charter and the code of conduct as part of their commitment. RSA Fellows’ Charter RSA Code of Conduct Bye-laws Additionally, the RSA is governed by agreed bye-laws amendments to which are approved by the Trustee Board and voted on by its members (Fellows)
 
-<h3>Ableton</h3> 
+<h2>Merrill</h2>
 
-Certified Trainer 2017 - 2022 Berlin, Germany
+1998 - Present
 
-Made five ambient albums and went #1 on the Ireland charts. Licensed the PX-18 Source Code. Licenced Reason Studios Source Code. Making Vinyl in 2025-2026 at Discmakers. Vero is my music label. Was in Apple Music. All songs copyright Jonathan David Allen Moore BMI Verified by song vue.
+Mom said IQ was around 120 to 140 tested in Atlanta, Ga and tested as a INTJ-T at 16 Personalities DOI: 10.34218/IJM.11.9.2020.025. NERIS Type Explorer® Scale. That same as Dr. Steven Hawking. Applied for the Genius Act in the United States. Investing in Unisys, HPE, Meta, Alphabet, Microsoft, Adobe, Nintendo, Square Enix, Kasha Saudi Arabia Oil and a Nationwide Mutual Fund. Anne Hathaway the actress and me share the same HLA System or are a DNA Match according to National Geographic and Family Tree DNA transfer. Also share 8 alignments for a healthy relationship. We share three surnames. Was given $99k by Anne Hathaway the Actress in to my account. We've worked it out. Paid her back $21K for a FBI Movie and paid off $5K of our debt.
 
-<h3>Northrop Grumman Corporation</h3>
+<h2>Microsoft</h2>
 
-Intern engineer  2012 - 2015  · Falls Church, Virginia
-Made a Missile Container with Java and Android. With Secret Security Clearance and NDA. Defends the <a href="https://www.justicecenter.ny.gov/system/files/documents/2020/03/51800-jonathans-law.pdf">Jonathan's law.</a> Conspiracy is a crime unless an agreement is made.
+Gold Partner  · 2003 - Present  · Redmond, Washington
 
-<h3>Microsoft for Startups</h3>
+<p>Endorsed by Microsoft Made a System Integrator Website for Microsoft Windows. Built MS-DOS 1.22 with Build Disk with MKS Toolkit, in Virtual Box with Device Guard Readiness on Windows 11 2024 IoT Enterprise LTSC. Microsoft Windows 2.11 with OEM Adaptation Kit, RSM-11M, PDP-11 through PDP-11 70, OS/2, VMS, POSIX, Project MICA, Visual Studio 6.0 Enterprise. Visual Studio.NET, UNIX Migration Guide. Shared Source Licensee, Microsoft Windows NT 4.0 , 2000, XP, 2003, XP, 2009 Embedded w/ Windows Automotive, CE 3.0-2013 with Preinstallation Environment 1.0, Interix with Santa Cruz Operation Source Code.</p>
 
-Network Partner  2009 - Present  · Abingdon, Virginia
+<p>Longhorn Migration Guide using build 4074, Source Server Virtual Appliances. Won Microsoft SQL Server Sales award and have yet to collect sales revenue. Submitted my Visual Style Sample and it shipped. Worked on Project MAUI in 2010. Worked on Windows 8 Storyboards and Codeplex and .NET 6.0 GA. Using Microsoft Windows Server Deployment Services as a Transport Server and a Vista DDK Windows Management Instrumentation Sample for Image Enumeration. To connect to a Microsoft Corporate Deployment Server. Also built the Powershell v7.0 With Visual Studio.NET Disclosures. Bought the Book Hard Drive: Bill Gates Birth of a Microsoft Empire and worked 20 years on a copy of Bill Gates Hard Drive. Now Using Microsoft Windows 11 IoT Enterprise 2024 LTSC and Microsoft Office 2024 LTSC</p>
 
-Microsoft Bizspark Graduate. Made a Human Genome Database from flat files from Esembl in the UK. From Oracle MySQL to Microsoft SQL Server using Microsoft SQL SISS Projects and Microsoft Technical Support. With startup tenure in the contract. Bought 6 MSDN Subscriptions and have $14.4 million in licensing value. Possible net worth used for capital or inventory spending.
+<h2>Oracle</h2>
 
-<h3>Microsoft US Partner Community</h3>
+Startup  · 2009 - Present  · Austin, Texas
 
-Solution Partner  · 2003 - Present  · Bristol, Virginia
-<p>Made a System Integrator Website for Microsoft Windows. Built MS-DOS 1.22 with Build Disk with MKS Toolkit, Microsoft Windows 1.0 Premiere Edition, 2.11 with OEM Adaptation Kit, RSM-11M, PDP-11 through PDP-11 70, OS/2, VMS, POSIX, Project MICA, Visual Studio 6.0 Enterprise. Visual Studio.NET, UNIX Migration Guide. Shared Source Licensee, Microsoft Windows NT 4.0 (With Dean Harris' Permission) , 2000, XP, 2003, XP, 2009 Embedded w/ Windows Automotive, CE 3.0-2013 with Preinstallation Environment 1.0, Interix with Santa Cruz Operation Source Code. Longhorn Migration Guide using build 4074, Source Server Virtual Appliances. Won Microsoft SQL Server Sales award and have yet to collect sales revenue. Submitted my Visual Style Sample and it shipped. Used Goliath in Remote Installation Services. Worked on Windows 8 Storyboards and Codeplex and .NET 6.0 GA. Using Microsoft Windows Server Deployment Services as a Transport Server and a Vista DDK Windows Management Instrumentation Sample for Image Enumeration. To connect to a Microsoft Corporate Deployment Server. Also built the Powershell v7.0 With Visual Studio.NET Disclosures. Bought the Book Hard Drive: Bill Gates Birth of a Microsoft Empire and worked 20 years on a copy of Bill Gates Hard Drive.</p>
+Started with Oracle Linux 6.2 Worked with Netbeans 6.x, Developer Studio and Solaris 11.3 and 11.4 FOSS Program. Used GNU classpath, J2EE and .NET Framework and Java SE Editions with Windows Source Archive in the Linux Versions. I build Linux in Cygwin on Windows. and am a admin on the Sourceware Embedded C++ CVS list.
 
-<p><a href="https://www.wintellectnow.com/">Wintellect</a> Won Microsoft SQL Server Sales award and have yet to collect sales revenue. Submitted my Visual Style Sample and it shipped. Used Goliath in Remote Installation Services. Worked on Windows 8 Storyboards and Codeplex and .NET 6.0 GA. Using Microsoft Windows Server Deployment Services as a Transport Server and a Vista DDK Windows Management Instrumentation Sample for Image Enumeration. To connect to a Microsoft Corporate Deployment Server. Signed Desktop Application NDA in 2022. Also built the Powershell v7.0 With Visual Studio.NET Disclosures. Bought the Book Hard Drive: Bill Gates Birth of a Microsoft Empire and worked 20 years on a copy of Bill Gates Hard Drive. Using RSTAT Tools for Active Directory and DSQuery. Using Microsoft Windows 10 Enterprise 2019 LTSC and Windows 11 2024 IoT LTSC.</p>
+<h2>Ableton</h2>
 
-<h3>IMDbPro</h3>
+Certifierd Trianer  · 2014 - 2020  · Berlin, Germany
 
-Animator  · 2001 - 2014  · Los Angeles, California
-Artificial Intelligence, Finding Nemo,
+I was endorsed by Ableton. Ran a Ableton User Group in the Tri-Cities TN,Va and use QT, Cycling '74 Max and JUCE to build Ableton Live and Max Devices. Use Pure Data and Java for jMax from IRCAM. Private GitHub repository access. Made five ambient albums and went #1 on the Ireland charts. Licensed the PX-18 Source Code. Licenced Reason Studios Source Code. Making Vinyl in 2025-2026 at Discmakers. Vero is my music label. Was in Apple Music. All songs copyright Jonathan David Allen Moore BMI Verified by song vue..
 
-<h3>FreeBSD Foundation</h3>
+<h2>Apple</h2>
 
-System Builder  · 2001 - Present
-Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeBSD and NetBSD on a 1996 IBM Aptiva, Mac Pro 2008 running Mac OS X Snow Leopard and Lion, HP Intel i7 12 Core for x86 and use Oracle Virtual Box to build UNIX-Like Appliances with the Common Desktop Environment without XQuartz with the Cairo Dock, Sourceware's Cygwin and Microsoft's and ECMA's Shared Source Common Language Infrastructure 1.0 For FreeBSD and Gyro Generics and now on a Mac Pro 2024 M3 ARM64 Platform 8 TB SSD. and a 2025 Windows 11 IoT LTSC Digital Storm PC. x2 20 TB SSD's 100 TB Orico In support until 2040. I use premade appliances from FreeBSD to be a committer. iPhone 14 Max in support until 2029 contract at Verizon. I build FreeBSD using bmake on macOS.
+Software Developer  · 2007 - 2026  · Cupertino, California
+Start with the Bash shell and GNUStep, Project Builder and the Darwin SDK the project files-files. Licensed Quicktime Source Code. I work with GNOME, the Common Desktop Environment and Macports. I put my ambient Music in Apple Music.
 
-<h3>Apple Computer</h3>
+<h2>Adobe</h2>
 
-Software Developer  2001 - Present
-I opened the macOS staring at 10.0 with my first Macintosh in 2000. and Licensed QuickTime Source Code and opened Gershwin in 2025. Start with the Bash shell and GNUStep, Project Center, Window Maker and the Darwin SDK the project files-files.
+Non Employee Director  · 1999 - 2006  · San Francisco, California
 
-<h3>Adobe</h3>
+<p>I was endorsed by Sun Microsystems and Macromedia. Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. With A Sun Microsystems Grant I worked on Macromedia Breeze. Worked on the Movie Artificial Intelligence Website for Steven Spielberg in 2001.</p> 
 
-Non Employee Director  · 1999 - 2017  · San Francisco, California
-First investment was at Moors and Cabot for Disney and Macromedia. Worked on the movie Artificial Intelligence Website at Flash Kit at a started a local Macromedia User Group, Affiliate and earned $750K in shareholder's equity in a M&A from Macromedia to Adobe. Made an Address Bar sample for Windows 2000 Explorer a desk band. which some people might see as the beginning of Facebook as a status update. Participated in Macromedia Philanthropy. Licensed Macromedia Flash & Shockwave Source Code and Patent Portfolio. Held Meetings at ETSU and TCAT. The Computer Science Admin at ETSU Primus sponsored my User Group. I worked on Macromedia Breeze. Waiting on Ableton and Reason Studios to be acquired. All 1099's taxes filed.-->
+<p>Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeBSD and NetBSD on a 1996 IBM Aptiva, Mac Pro 2008 running Mac OS X Snow Leopard and Lion, HP Intel i7 12 Core for x86 and use Oracle Virtual Box to build UNIX-Like Appliances with the Common Desktop Environment without XQuartz with the Cairo Dock, Sourceware's Cygwin and Microsoft's and ECMA's Shared Source Common Language Infrastructure 1.0 For FreeBSD and Gyro Generics and now on a Mac Pro 2024 M3 ARM64 Platform 8 TB SSD. and a 2025 Windows 11 IoT LTSC Digital Storm PC. x2 20 TB SSD's 100 TB Orico In support until 2040. I use premade appliances from FreeBSD to be a committer. iPhone 14 Max in support until 2029 contract at Verizon. I build FreeBSD using bmake on macOS.</p>
+
+<h2>Sears</h2>
+
+Electronics Manager  · 1998 - 2007  · Bristol, Virginia
 
 <p>Morrell Music and Builders First Source Curtis Morrell, Kelly Curtis, and my father were promoter for 8 Pearl Jam shows. Including my graduation show in 2013.</p>
 
