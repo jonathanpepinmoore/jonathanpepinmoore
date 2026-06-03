@@ -172,7 +172,7 @@ Electronics Manager  · 1998 - 2007  · Bristol, Virginia
 <p>Windows 7 Internals</p>
 <p>Lifetime Windows Internals Trainsec</p>
 
-<h2>Promottor</h2>
+<h2>Promoter</h2>
 
 <p>Morrell Music and Builders First Source Curtis Morrell, Kelly Curtis, and my father were promoter for 8 Pearl Jam shows. Including my graduation show in 2013.</p>
 
