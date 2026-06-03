@@ -152,6 +152,28 @@ Non Employee Director  · 1999 - 2006  · San Francisco, California
 
 Electronics Manager  · 1998 - 2007  · Bristol, Virginia
 
+<h2>EDUCATION</h2>
+
+<p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
+<p>Stanford Online Liqunia-Graduated 2017-01-01 Computer Science</p>
+<p>University of Virginia College at Wise -Graduated 2013-01-01 Computer Science GPA 3.5 in 2025 ACM Vice President Wise, Va Chapter</p>
+<p>Tennessee Board of Regents - Graduated 2000-01-01 Microcomputer Specialist GPA 4.0 Class Valaditorian</p>
+<p>Bristol Virginia Public Schools-Graduated 1996-01-01 General Studies GPA 2.8 Secion-V First String Catcher for the Toronto Blu-Jays Farm Team at Avoca in Bristol, TN</p>
+<p>Hollins Communications Sept 11th 1989-April 1990 Lateral Excision Lisp with Emily Blunt the Actress</p>
+<p>St. Anne's Catholic School Graduate 1990</p>
+<p>Sullins Academy 1984</p>
+
+<h2>SOCITIES</h2>
+<p>2026 Joined California State Fullerton Founders Society supporting the Myers Briggs</p>
+<p>2026 Joined Oxford University Founders Society supporting the new social mobility now Count Moore [old new thing]</p>
+<p>2025 Joined UVa's Founder Society</p>
+
+<h2>CERTIFICATIONS</h2>
+<p>Windows 7 Internals</p>
+<p>Lifetime Windows Internals Trainsec</p>
+
+<h2>Promottor</h2>
+
 <p>Morrell Music and Builders First Source Curtis Morrell, Kelly Curtis, and my father were promoter for 8 Pearl Jam shows. Including my graduation show in 2013.</p>
 
 <h3>Guns N' Roses</h3>
@@ -175,26 +197,6 @@ Electronics Manager  · 1998 - 2007  · Bristol, Virginia
 </ul>
 
 <p>Met Stone Gossard and Jeff Ament and played ping pong. Had a Press Pass 1998. Watched soundcheck asked to return to my seat at the end by a security guard with a firm tone and asked for my ticket. Taped the whole thing.</p>
-
-<h2>EDUCATION</h2>
-
-<p>Udemy  2025-01-01 Corporate Cash Management and Estate Planning</p>
-<p>Stanford Online Liqunia-Graduated 2017-01-01 Computer Science</p>
-<p>University of Virginia College at Wise -Graduated 2013-01-01 Computer Science GPA 3.5 in 2025 ACM Vice President Wise, Va Chapter</p>
-<p>Tennessee Board of Regents - Graduated 2000-01-01 Microcomputer Specialist GPA 4.0 Class Valaditorian</p>
-<p>Bristol Virginia Public Schools-Graduated 1996-01-01 General Studies GPA 2.8 Secion-V First String Catcher for the Toronto Blu-Jays Farm Team at Avoca in Bristol, TN</p>
-<p>Hollins Communications Sept 11th 1989-April 1990 Lateral Excision Lisp with Emily Blunt the Actress</p>
-<p>St. Anne's Catholic School Graduate 1990</p>
-<p>Sullins Academy 1984</p>
-
-<h2>SOCITIES</h2>
-<p>2026 Joined California State Fullerton Founders Society supporting the Myers Briggs</p>
-<p>2026 Joined Oxford University Founders Society supporting the new social mobility now Count Moore [old new thing]</p>
-<p>2025 Joined UVa's Founder Society</p>
-
-<h2>CERTIFICATIONS</h2>
-<p>Windows 7 Internals</p>
-<p>Lifetime Windows Internals Trainsec</p>
 
 <h2>Home Network</h2>
 
