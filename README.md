@@ -1,5 +1,5 @@
 ﻿<img src="./images/github-header-image.png">
-<img src="./images/691390605_2164731840988023_3433254016940775997_n.jpg">
+<!--<img src="./images/691390605_2164731840988023_3433254016940775997_n.jpg">-->
 
   
 <h2>Jonathan Pepin Moore FRSA </h2>
@@ -233,7 +233,7 @@ The price or cost is about $45K from Direct and Amazon.</p>
 
 Copyright 2025 Monster.com and Career Builder.
 
-<h2>Links</h2>
+<!--<h2>Links</h2>
 
 <p><a href="https://psycnet.apa.org/record/2020-93235-006">Functional MRI findings in schizophrenia.</a></p>
 
@@ -272,7 +272,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 <p><a href="https://www.newscientist.com/article/mg21829140-200-psychiatry-needs-its-higgs-boson-moment/">Psychiatry needs its higgs boson moment</a></p>
 
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a></p>-->
 
 <!--<h2>Operating Systems and Games</h2>
 <ul>
