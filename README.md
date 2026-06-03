@@ -101,12 +101,6 @@ Chair inherited a 1800's Shakespeare Collection from London, UK raised on Macmil
 
 Won my Microsoft MVP for my Microsoft Windows Build Instructions for the 2003 System Intergrator Shared Source Contract in 2003
 
-<h3>Nintendo of America</h3>
-
-2024-present
-
-<p>Signed Non-Disclosure Agreement Nintendo of America Gamer since 1984</p>
-
 <h3>Royal Society of the Arts Fellowship</h3>
 
 <p><a href="https://www.jstor.org/journal/rsaj">RSA Journal</a></p>
@@ -142,7 +136,7 @@ Solution Partner  · 2003 - Present  · Bristol, Virginia
 <h3>IMDbPro</h3>
 
 Animator  · 2001 - 2014  · Los Angeles, California
-Artificial Intelligence, Finding Nemo,-->
+Artificial Intelligence, Finding Nemo,
 
 <h3>FreeBSD Foundation</h3>
 
@@ -153,12 +147,6 @@ Using POSIX Berkeley toolchains like bmake and fmake bootstrapped to build FreeB
 
 Software Developer  2001 - Present
 I opened the macOS staring at 10.0 with my first Macintosh in 2000. and Licensed QuickTime Source Code and opened Gershwin in 2025. Start with the Bash shell and GNUStep, Project Center, Window Maker and the Darwin SDK the project files-files.
-
-<h3>Silicon Graphics Inc.</h3>
-
-Visual Effects 2000-present
-
-SGI's Standard Template Library Port. Used Windows NT 4.0 for MIPS computer architecture and IRIX and had a IBM Aptiva and 3d Labs Oxygen Graphics Card an a Nintendo 64 with Dev Kit and SDK's.
 
 <h3>Adobe</h3>
 
@@ -227,7 +215,7 @@ The software running are :
 
 Cornell University's Bio HPC from Microsoft Research.
 
-The price or cost is about $45K from Direct and Amazon.</p>-->
+The price or cost is about $45K from Direct and Amazon.</p>
 
 <!--<p>It is just your BYO Code Center Premium and a lot of Knowledge Work stay in school. Or you can go to a <a href="https://learn.microsoft.com/en-us/security/engineering/onlinesources">Microsoft Transparency Center</a> which I'm trying to make with the Windows Internals Supplement Series.</p>
 
@@ -474,7 +462,7 @@ Copyright 2025 Monster.com and Career Builder.
 <li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
 </ul>-->
 
-<ul>
+<!--<ul>
 <li><a target="_self" href="https://onlinelibrary.wiley.com/doi/10.1111/iji.12525">Matchmaker, matchmaker make me a match: Opportunities and challenges in optimizing compatibility of HLA eplets in transplantation</a></li>
 <li><a target="_self" href="https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1167&context=hrhw">Synthesis v. Purity and Large-N Studies: Moore and Hathaway</a></li>
 <li><a target="_self" href="https://www.fsf.org/windows/upcycle-windows-7">Microsoft's support of Windows 7 is over, We call on Microsoft to upcycle it instead.</a></li>
@@ -497,7 +485,7 @@ Copyright 2025 Monster.com and Career Builder.
 
 Another one was the movie 'Havoc' was her handicam as I sold a Sony handicamp to a friend in 1996. Another one was my Uncles Glenn's Flower Shop when I was my car to get fixed with Kara Kiser and her Valentines Day movie I stutter or used to and the Pete Townshend GS Scooter reference. She is very good at method acting with family. Another one was in Passengers the Movie with me always flirting with hospital staff. In the TV Series Modern Love Season 1 Episode 3 she mocked me always going to the grocery store and a letter from Brack Obama. Another one was in the movie the Idea of You. Where I shaperoned Tasha Sokolow and Frances Masterson at Lollapalooza 1996 and met the band Soundgarden.</p>
 
-<p>Another one was the igunana scene and the mental ward scenes in the movie the Hustle my ex girlfiend had a igunana in college in 2000 and I went to SWVAMHI for rehab for <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony ESP</a>, COCOMO II, 2006 Microsoft Tender Offer which was extended for 75 years, and a million dollar IRS return of intangables. Another one is in the Movie Armagedon Time Uncle Ray or Gene and Aunt Ruthie McCulley for which that don't have a marker on there grave in Glennwood Cemetary.</p>
+<p>Another one was the igunana scene and the mental ward scenes in the movie the Hustle my ex girlfiend had a igunana in college in 2000 and I went to SWVAMHI for rehab for <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony ESP</a>, COCOMO II, 2006 Microsoft Tender Offer which was extended for 75 years, and a million dollar IRS return of intangables. Another one is in the Movie Armagedon Time Uncle Ray or Gene and Aunt Ruthie McCulley for which that don't have a marker on there grave in Glennwood Cemetary.</p>-->
 
 
 
