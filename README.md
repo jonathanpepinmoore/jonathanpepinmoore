@@ -43,6 +43,12 @@
 
 <p><a href="https://windowsdevops.github.io/">Windows Devops</a></p>
 
+<ul>
+  <li>GNU Dev mailing list</li>
+  <li>Apple Kernel Dev Mailing list</li>
+  <li>Sourceware Embedded C ++ Mailing list</li>  
+</ul>
+
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
